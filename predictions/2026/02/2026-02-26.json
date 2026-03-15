@@ -1,0 +1,317 @@
+{
+  "game_date": "2026-02-26",
+  "published_at": "2026-03-15T17:35:06.091Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "32-26",
+        "color": "#006BB6",
+        "streak": "W2",
+        "last5": null
+      },
+      "away": {
+        "name": "Miami Heat",
+        "abbr": "MIA",
+        "record": "31-28",
+        "color": "#98002E",
+        "streak": "L1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 45,
+        "away_win_pct": 55,
+        "reason": "Close toss-up leaning Miami. PHI's power rating drops significantly if Joel Embiid and Paul George are limited.",
+        "reason_es": "Duelo muy parejo con ligera ventaja para Miami. El nivel de PHI cae significativamente con las dudas de Embiid y George.",
+        "head_to_head": "PHI 1-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Atlanta Hawks",
+        "abbr": "ATL",
+        "record": "29-31",
+        "color": "#E03A3E",
+        "streak": "W2",
+        "last5": null
+      },
+      "away": {
+        "name": "Washington Wizards",
+        "abbr": "WAS",
+        "record": "16-41",
+        "color": "#002B5C",
+        "streak": "L2",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 93,
+        "away_win_pct": 7,
+        "reason": "Massive +18.0 expected margin for ATL. Washington is completely dismantled by injuries (-9.0 impact).",
+        "reason_es": "Margen esperado masivo de +18.0 para ATL. Washington está completamente desarmado por las lesiones (impacto de -9.0).",
+        "head_to_head": "Hawks 2-1"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "15-42",
+        "color": "#000000",
+        "streak": "L5",
+        "last5": null
+      },
+      "away": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "42-16",
+        "color": "#C4CED4",
+        "streak": "W10",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 11,
+        "away_win_pct": 89,
+        "reason": "SAS is on an unstoppable 10-game win streak. Despite playing on a B2B, the talent differential (-18.3) is too much for BKN.",
+        "reason_es": "SAS llega imparable con 10 victorias seguidas. A pesar de jugar en noches consecutivas, la diferencia de talento (-18.3) es demasiado para BKN.",
+        "head_to_head": "Nets 1-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "31-26",
+        "color": "#0077C0",
+        "streak": "W2",
+        "last5": null
+      },
+      "away": {
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "record": "36-21",
+        "color": "#CE1141",
+        "streak": "W2",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 49,
+        "away_win_pct": 51,
+        "reason": "Dead heat toss-up. ORL is missing Franz Wagner (-3.3 pts), but HOU faces a tough B2B travel spot.",
+        "reason_es": "Empate técnico total. ORL pierde a Franz Wagner (-3.3 pts), pero HOU enfrenta un difícil viaje en noches consecutivas.",
+        "head_to_head": "Magic 1-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "record": "24-35",
+        "color": "#CE1141",
+        "streak": "L9",
+        "last5": null
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "record": "28-31",
+        "color": "#E03A3E",
+        "streak": "L1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 35,
+        "away_win_pct": 65,
+        "reason": "CHI is free-falling on a 9-game skid. POR gets the statistical nod despite a heavy 1,754-mile travel.",
+        "reason_es": "CHI está en caída libre con 9 derrotas seguidas. POR tiene la ventaja estadística a pesar de un pesado viaje de 1,754 millas.",
+        "head_to_head": "Blazers 1-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "21-36",
+        "color": "#00538C",
+        "streak": "W2",
+        "last5": null
+      },
+      "away": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "13-47",
+        "color": "#5A2D81",
+        "streak": "L1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 73,
+        "away_win_pct": 27,
+        "reason": "SAC struggles immensely on the road (4-27) and plays on a B2B. DAL looks to capitalize with a +6.4 expected margin.",
+        "reason_es": "SAC sufre muchísimo de visitante (4-27) y juega en noches seguidas. DAL buscará capitalizar su margen esperado de +6.4.",
+        "head_to_head": "Tied 1-1"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "33-26",
+        "color": "#1D1160",
+        "streak": "L2",
+        "last5": null
+      },
+      "away": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "34-23",
+        "color": "#552583",
+        "streak": "L2",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 23,
+        "away_win_pct": 77,
+        "reason": "PHX is heavily impacted by injuries (-5.5 pts), missing Booker. LAL brings a healthy roster and a clear talent edge.",
+        "reason_es": "PHX está fuertemente mermado por las lesiones (-5.5 pts) sin Booker. LAL llega sano y con una clara ventaja de talento.",
+        "head_to_head": "Lakers 2-1"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Utah Jazz",
+        "abbr": "UTA",
+        "record": "18-40",
+        "color": "#002B5C",
+        "streak": "-",
+        "last5": null
+      },
+      "away": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "17-42",
+        "color": "#0C2340",
+        "streak": "W2",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 41,
+        "away_win_pct": 59,
+        "reason": "A lower-tier matchup leaning slightly to NOP. UTA misses Markkanen (-2.7 pts) but holds an altitude advantage.",
+        "reason_es": "Duelo de la parte baja con ligera ventaja para NOP. UTA no cuenta con Markkanen (-2.7 pts) pero tiene la ventaja de la altura.",
+        "head_to_head": "Tied 0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "LA Clippers",
+        "abbr": "LAC",
+        "record": "27-30",
+        "color": "#C8102E",
+        "streak": "L2",
+        "last5": null
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "36-23",
+        "color": "#0C2340",
+        "streak": "W1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 41,
+        "away_win_pct": 59,
+        "reason": "LAC has a massive 3-day rest advantage, but MIN's superior power rating (+2.7) keeps them as slight favorites on the road.",
+        "reason_es": "LAC tiene una enorme ventaja de 3 días de descanso, pero el power rating superior de MIN (+2.7) los mantiene como ligeros favoritos.",
+        "head_to_head": "Tied 1-1"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "11:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-44",
+        "color": "#FDBB30",
+        "streak": "L4",
+        "last5": null
+      },
+      "away": {
+        "name": "Charlotte Hornets",
+        "abbr": "CHA",
+        "record": "28-31",
+        "color": "#1D1160",
+        "streak": "W2",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 22,
+        "away_win_pct": 78,
+        "reason": "CHA holds a significant +8.8 expected margin. IND continues to slide on a 4-game losing streak.",
+        "reason_es": "CHA mantiene un margen esperado significativo de +8.8. IND sigue en caída con una racha de 4 derrotas.",
+        "head_to_head": "Hornets 2-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    }
+  ]
+}
