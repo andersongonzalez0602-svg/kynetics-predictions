@@ -1,0 +1,131 @@
+{
+  "game_date": "2026-03-06",
+  "published_at": "2026-03-15T17:35:21.762Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "39-24",
+        "color": "#0E2240",
+        "streak": "W2",
+        "last5": "WWLLW"
+      },
+      "away": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "40-23",
+        "color": "#006BB6",
+        "streak": "L1",
+        "last5": "LWWWL"
+      },
+      "prediction": {
+        "home_win_pct": 52.2,
+        "away_win_pct": 47.8,
+        "reason": "This is as close to a coin flip as it gets. Nearly identical records, and both teams have been solid recently. Denver is at home with the Mile High altitude advantage, but they played last night. The Knicks traveled over 1,600 miles but come in more rested and already beat Denver earlier this season. Everyone sees this the same way — our model, ESPN, and Vegas all have it around 52%. Should be a great game.",
+        "reason_es": "Esto es lo más cercano a una moneda al aire que existe. Récords casi idénticos, y ambos equipos han estado sólidos recientemente. Denver está en casa con la ventaja de altitud de la Milla de Altura, pero jugaron anoche. Los Knicks viajaron más de 1,600 millas pero llegan más descansados y ya vencieron a Denver esta temporada. Todos lo ven igual — nuestro modelo, ESPN y Vegas lo tienen alrededor del 52%. Debería ser un gran partido.",
+        "head_to_head": "DEN 0-1 NYK"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "35-27",
+        "color": "#1D1160",
+        "streak": "L1",
+        "last5": "LWWLL"
+      },
+      "away": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "20-44",
+        "color": "#0C2340",
+        "streak": "W1",
+        "last5": "WLLWW"
+      },
+      "prediction": {
+        "home_win_pct": 56.4,
+        "away_win_pct": 43.6,
+        "reason": "Don't let the records fool you — this is closer than it looks. Both teams played last night, and New Orleans has actually been the better team recently with a positive scoring margin over their last 10. Phoenix is 0-3 against the Pelicans this season, which is a major red flag. The Suns are at home and have Booker, but they've been inconsistent lately. Our model only gives Phoenix 56% — barely an edge.",
+        "reason_es": "No dejes que los récords te engañen — esto es más cerrado de lo que parece. Ambos equipos jugaron anoche, y New Orleans ha sido el mejor equipo recientemente con margen de anotación positivo en sus últimos 10. Phoenix va 0-3 contra los Pelicans esta temporada, lo cual es una gran señal de alerta. Los Suns están en casa y tienen a Booker, pero han sido inconsistentes últimamente. Nuestro modelo solo da a Phoenix 56% — apenas una ventaja.",
+        "head_to_head": "PHX 0-3 NOP"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "45-17",
+        "color": "#C4CED4",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "away": {
+        "name": "LA Clippers",
+        "abbr": "LAC",
+        "record": "30-31",
+        "color": "#C8102E",
+        "streak": "W3",
+        "last5": "WWWLL"
+      },
+      "prediction": {
+        "home_win_pct": 70.9,
+        "away_win_pct": 29.1,
+        "reason": "San Antonio is nearly unbeatable at home — 22-6 this season. Wembanyama leads a team that's been outscoring opponents by nearly 11 points per game over their last 10. The Spurs played last night, but even with the fatigue, this roster is too deep. The Clippers are missing Beal, Garland, and Collins, and traveled over 1,200 miles. LA has won 3 straight, but this is a different level of competition.",
+        "reason_es": "San Antonio es casi imbatible en casa — 22-6 esta temporada. Wembanyama lidera un equipo que ha superado a sus rivales por casi 11 puntos por partido en sus últimos 10. Los Spurs jugaron anoche, pero incluso con la fatiga, este roster es demasiado profundo. Los Clippers no tienen a Beal, Garland ni Collins, y viajaron más de 1,200 millas. LA ha ganado 3 seguidos, pero esto es otro nivel de competencia.",
+        "head_to_head": "0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "37-25",
+        "color": "#552583",
+        "streak": "L1",
+        "last5": "LWWWL"
+      },
+      "away": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-47",
+        "color": "#002D62",
+        "streak": "L7",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 79.2,
+        "away_win_pct": 20.8,
+        "reason": "Indiana is having a historically bad stretch — 7 straight losses with margins of -23, -19, -24, and -21. They're 5-25 on the road this season. The Lakers played last night and LeBron is officially out, but Doncic is still there and LA is shooting 50% from the field compared to Indiana's 45%. Even without LeBron, the Lakers have more than enough to handle this depleted Pacers team.",
+        "reason_es": "Indiana está teniendo una racha históricamente mala — 7 derrotas seguidas con márgenes de -23, -19, -24 y -21. Van 5-25 de visitante esta temporada. Los Lakers jugaron anoche y LeBron está oficialmente fuera, pero Doncic sigue ahí y LA está tirando al 50% de campo comparado con el 45% de Indiana. Incluso sin LeBron, los Lakers tienen más que suficiente para manejar a estos diezmados Pacers.",
+        "head_to_head": "0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
