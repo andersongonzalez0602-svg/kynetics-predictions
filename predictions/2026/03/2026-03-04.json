@@ -1,0 +1,193 @@
+{
+  "game_date": "2026-03-04",
+  "published_at": "2026-03-15T17:35:16.952Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "26-34",
+        "color": "#00471B",
+        "streak": "L3",
+        "last5": "LLLWW"
+      },
+      "away": {
+        "name": "Atlanta Hawks",
+        "abbr": "ATL",
+        "record": "31-31",
+        "color": "#E03A3E",
+        "streak": "W4",
+        "last5": "WWWWL"
+      },
+      "prediction": {
+        "home_win_pct": 40.1,
+        "away_win_pct": 59.9,
+        "reason": "ATL surging with 4-game win streak and elite +3.0 margin L10. MIL collapsing with 3L streak and -3.0 margin L10. ATL rested (3 days) vs MIL at home. MIL's home court (+2.1) not enough to overcome -4.3 talent gap. Market says MIL by 1 — our model disagrees.",
+        "reason_es": "ATL en ascenso con racha de 4W y élite +3.0 margen L10. MIL colapsando con racha de 3L y -3.0 margen L10. ATL descansados (3 días) vs MIL en casa. La ventaja de local de MIL (+2.1) no alcanza para superar brecha de -4.3 en talento. Mercado dice MIL por 1 — nuestro modelo discrepa.",
+        "head_to_head": "ATL 0-1 MIL"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "40-22",
+        "color": "#006BB6",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "away": {
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "record": "48-15",
+        "color": "#007AC1",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "prediction": {
+        "home_win_pct": 47,
+        "away_win_pct": 53,
+        "reason": "True toss-up. OKC has higher power rating (+7.3 vs +5.4) but both teams on B2B. OKC traveled 711mi. Jalen Williams OUT for OKC. NYK missing Mitchell Robinson (-1.4pts). Margin only -0.5pts — coin flip game. Market favors OKC by 4pts.",
+        "reason_es": "Verdadero toss-up. OKC tiene mayor power rating (+7.3 vs +5.4) pero ambos en B2B. OKC viajó 711mi. Jalen Williams OUT para OKC. NYK sin Mitchell Robinson (-1.4pts). Margen de solo -0.5pts — partido de moneda al aire. Mercado favorece a OKC por 4pts.",
+        "head_to_head": "0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "41-20",
+        "color": "#007A33",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "away": {
+        "name": "Charlotte Hornets",
+        "abbr": "CHA",
+        "record": "31-31",
+        "color": "#1D1160",
+        "streak": "W5",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 62.1,
+        "away_win_pct": 37.9,
+        "reason": "BOS at home with +6.9 power rating but Tatum OUT (-5.2pts) is massive. CHA on fire with 5-game win streak and +7.9 margin L10 matching BOS. CHA on B2B with 721mi travel is the key disadvantage. BOS depth should hold at home despite missing Tatum.",
+        "reason_es": "BOS en casa con +6.9 power rating pero Tatum OUT (-5.2pts) es enorme. CHA en racha de 5W y margen de +7.9 en L10 igualando a BOS. CHA en B2B con 721mi de viaje es la desventaja clave. La profundidad de BOS debería aguantar en casa a pesar de perder a Tatum.",
+        "head_to_head": "0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "33-28",
+        "color": "#006BB6",
+        "streak": "L2",
+        "last5": "LLWWW"
+      },
+      "away": {
+        "name": "Utah Jazz",
+        "abbr": "UTA",
+        "record": "18-43",
+        "color": "#002B5C",
+        "streak": "L6",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 58.1,
+        "away_win_pct": 41.9,
+        "reason": "PHI on B2B and missing Embiid (-4.8pts) plus George questionable. UTA on 6-game losing streak, traveled 1921mi, missing Markkanen (-2.7pts). Both teams depleted but PHI's home court and talent edge (+3.9 TPR diff) gives them the slight advantage despite fatigue.",
+        "reason_es": "PHI en B2B y sin Embiid (-4.8pts) más George cuestionable. UTA con racha de 6 derrotas, viajó 1921mi, sin Markkanen (-2.7pts). Ambos equipos diezmados pero la ventaja de local y talento de PHI (+3.9 TPR diff) les da ligera ventaja a pesar de la fatiga.",
+        "head_to_head": "0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "23-37",
+        "color": "#5D76A9",
+        "streak": "L1",
+        "last5": "LWWLL"
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "record": "29-33",
+        "color": "#E03C31",
+        "streak": "L2",
+        "last5": "LLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 62.8,
+        "away_win_pct": 37.2,
+        "reason": "POR gutted by injuries: Lillard OUT (-3.8pts), Sharpe OUT (-1.4pts), Avdija OUT (-1.7pts). MEM on B2B but the +6.6pts injury swing overwhelms everything. MEM at home with 2-1 H2H advantage. Our model says MEM 63% but market heavily favors POR — disagree.",
+        "reason_es": "POR destruido por lesiones: Lillard OUT (-3.8pts), Sharpe OUT (-1.4pts), Avdija OUT (-1.7pts). MEM en B2B pero el swing de +6.6pts por lesiones lo compensa todo. MEM en casa con ventaja 2-1 en H2H. Nuestro modelo dice MEM 63% pero el mercado favorece mucho a POR — discrepamos.",
+        "head_to_head": "POR 2-1 MEM"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "LA Clippers",
+        "abbr": "LAC",
+        "record": "29-31",
+        "color": "#C8102E",
+        "streak": "W2",
+        "last5": "WWLLL"
+      },
+      "away": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-46",
+        "color": "#002D62",
+        "streak": "L6",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "Biggest mismatch of the day. IND 15-46 on 6-game losing streak with -9.0 margin L10. LAC +10.5 power rating edge at home. IND traveled 1807mi and missing key players. LAC's +13.9pts expected margin is the largest today. IND 5-24 on the road says it all.",
+        "reason_es": "Mayor desventaja del día. IND 15-46 con racha de 6 derrotas y -9.0 margen L10. LAC con +10.5 ventaja de power rating en casa. IND viajó 1807mi y sin jugadores clave. El margen esperado de LAC de +13.9pts es el mayor de hoy. IND 5-24 de visitante lo dice todo.",
+        "head_to_head": "0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
