@@ -1,6 +1,6 @@
 {
   "game_date": "2026-03-08",
-  "committed_at": "2026-03-15T17:05:52.384Z",
+  "committed_at": "2026-03-15T17:06:31.178Z",
   "games": [
     {
       "home": {
@@ -174,40 +174,6 @@
     },
     {
       "home": {
-        "name": "Portland Trail Blazers",
-        "abbr": "POR",
-        "record": "30-34",
-        "color": "#E03C31",
-        "streak": "L1",
-        "last5": "LWLLW"
-      },
-      "away": {
-        "name": "Indiana Pacers",
-        "abbr": "IND",
-        "record": "15-48",
-        "color": "#002D62",
-        "streak": "L8",
-        "last5": "LLLLL"
-      },
-      "prediction": {
-        "home_win_pct": 63.5,
-        "away_win_pct": 36.5,
-        "reason": "Indiana has lost 8 straight and is getting destroyed on the road (5-26). But Portland is missing Lillard, Sharpe, and Avdija — three of their best players. That makes this closer than the records suggest. Portland is at home and still the better team talent-wise, but their depleted roster means Indiana has a real shot at snapping their streak here. ESPN gives Portland 64%, which is about right.",
-        "reason_es": "Indiana lleva 8 derrotas seguidas y está siendo destruido de visitante (5-26). Pero Portland no tiene a Lillard, Sharpe ni Avdija — tres de sus mejores jugadores. Eso hace esto más cerrado de lo que sugieren los récords. Portland está en casa y sigue siendo mejor equipo en talento, pero su roster diezmado significa que Indiana tiene una oportunidad real de romper su racha aquí. ESPN da a Portland 64%, lo cual es bastante acertado.",
-        "head_to_head": "0-0"
-      },
-      "result": {
-        "actual_result": null,
-        "correct": null
-      },
-      "meta": {
-        "game_time": "10:00 PM EST",
-        "is_featured": false,
-        "is_value_pick": false
-      }
-    },
-    {
-      "home": {
         "name": "Sacramento Kings",
         "abbr": "SAC",
         "record": "14-50",
@@ -339,6 +305,40 @@
       "meta": {
         "game_time": "8:30 PM EST",
         "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "record": "30-34",
+        "color": "#E03C31",
+        "streak": "L1",
+        "last5": "LWLLW"
+      },
+      "away": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-48",
+        "color": "#002D62",
+        "streak": "L8",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 63.5,
+        "away_win_pct": 36.5,
+        "reason": "Indiana has lost 8 straight and is getting destroyed on the road (5-26). But Portland is missing Lillard, Sharpe, and Avdija — three of their best players. That makes this closer than the records suggest. Portland is at home and still the better team talent-wise, but their depleted roster means Indiana has a real shot at snapping their streak here. ESPN gives Portland 64%, which is about right.",
+        "reason_es": "Indiana lleva 8 derrotas seguidas y está siendo destruido de visitante (5-26). Pero Portland no tiene a Lillard, Sharpe ni Avdija — tres de sus mejores jugadores. Eso hace esto más cerrado de lo que sugieren los récords. Portland está en casa y sigue siendo mejor equipo en talento, pero su roster diezmado significa que Indiana tiene una oportunidad real de romper su racha aquí. ESPN da a Portland 64%, lo cual es bastante acertado.",
+        "head_to_head": "0-0"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
         "is_value_pick": false
       }
     }
