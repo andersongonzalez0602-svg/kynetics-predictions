@@ -1,0 +1,286 @@
+{
+  "game_date": "2026-03-12",
+  "published_at": "2026-03-15T17:35:37.810Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "23-41",
+        "color": "#5D76A9",
+        "streak": "L5",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "21-44",
+        "color": "#00538C",
+        "streak": "L8",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 72.4,
+        "away_win_pct": 27.6,
+        "reason": "Two teams in freefall, but Memphis is the less broken one tonight. Dallas is on an 8-game losing streak, traveling without Kyrie Irving, and has been outscored in three straight by double digits. Memphis at home with 2 days rest has just enough edge here. Ja Morant's team isn't playing great basketball, but the Mavs are in even worse shape right now.",
+        "reason_es": "Dos equipos en caída libre, pero Memphis está menos roto esta noche. Dallas lleva 8 derrotas consecutivas, viaja sin Kyrie Irving y ha sido superado en tres seguidos por dos dígitos. Memphis en casa con 2 días de descanso tiene ventaja suficiente. El equipo de Ja Morant no juega su mejor baloncesto, pero los Mavs están aún peor.",
+        "head_to_head": "DAL 0-3 MEM"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "46-18",
+        "color": "#C8102E",
+        "streak": "W1",
+        "last5": "WLLLL"
+      },
+      "away": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "35-30",
+        "color": "#006BB6",
+        "streak": "W1",
+        "last5": "WLLWL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "Detroit is rolling at home — 24-8 on their own floor all season. Philadelphia is walking in without Joel Embiid, Tyrese Maxey, and Kelly Oubre Jr., which is basically the entire offense. The Pistons have won both meetings this year and are the better team on paper even at full strength. This one shouldn't be close.",
+        "reason_es": "Detroit es imparable en casa — 24-8 en su propio piso esta temporada. Philadelphia llega sin Joel Embiid, Tyrese Maxey y Kelly Oubre Jr., lo que es básicamente toda su ofensiva. Los Pistons han ganado los dos encuentros este año y son el mejor equipo incluso con plantilla completa. Este partido no debería estar cerca.",
+        "head_to_head": "PHI 0-2 DET"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-50",
+        "color": "#002D62",
+        "streak": "L10",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "38-27",
+        "color": "#1D1160",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "prediction": {
+        "home_win_pct": 20.9,
+        "away_win_pct": 79.1,
+        "reason": "Indiana has lost 10 in a row and is missing Pascal Siakam along with several other key pieces. Phoenix comes in on a 3-game win streak and traveled less than 250 miles last night. The Suns aren't a great team this year, but they don't need to be tonight — the Pacers are in freefall.",
+        "reason_es": "Indiana lleva 10 derrotas consecutivas y no tiene a Pascal Siakam ni a varios jugadores clave. Phoenix llega en racha de 3 victorias y viajó menos de 250 millas. Los Suns no son un gran equipo este año, pero no necesitan serlo esta noche — los Pacers están en caída libre.",
+        "head_to_head": "PHX 1-0 IND"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "36-28",
+        "color": "#0077C0",
+        "streak": "W5",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Washington Wizards",
+        "abbr": "WAS",
+        "record": "16-48",
+        "color": "#002B5C",
+        "streak": "L9",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "Orlando is on a 5-game win streak and has been outscoring opponents by nearly 15 points a game recently. Washington is on a 9-game skid and traveling without Anthony Davis, D'Angelo Russell, and Cam Whitmore. The Magic are playing their best basketball of the season right now, and STUFF the Magic Dragon is looking mean at home.",
+        "reason_es": "Orlando llega con 5 victorias seguidas y ha superado a sus rivales por casi 15 puntos por partido últimamente. Washington lleva 9 derrotas seguidas y viaja sin Anthony Davis, D'Angelo Russell y Cam Whitmore. Los Magic están jugando su mejor baloncesto de la temporada, y STUFF the Magic Dragon se ve intimidante en casa.",
+        "head_to_head": "WAS 1-2 ORL"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Atlanta Hawks",
+        "abbr": "ATL",
+        "record": "34-31",
+        "color": "#C1272D",
+        "streak": "W7",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "17-48",
+        "color": "#000000",
+        "streak": "L1",
+        "last5": "LWWLL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "Atlanta has won 7 straight and is averaging 9 more points per game than Brooklyn right now. The Nets traveled over 700 miles, are missing Michael Porter Jr., and have been outscored by 38 points in one of their last four games. The Hawks are the hottest team in the East right now and they're at home. Trae and company don't lose nights like this.",
+        "reason_es": "Atlanta lleva 7 victorias consecutivas y está anotando 9 puntos más por partido que Brooklyn en este momento. Los Nets viajaron más de 700 millas, no tienen a Michael Porter Jr., y les marcaron 38 puntos más en uno de sus últimos cuatro partidos. Los Hawks son el equipo más caliente del Este ahora mismo y juegan en casa.",
+        "head_to_head": "BKN 0-2 ATL"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Miami Heat",
+        "abbr": "MIA",
+        "record": "37-29",
+        "color": "#98002E",
+        "streak": "W6",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "27-37",
+        "color": "#00471B",
+        "streak": "L2",
+        "last5": "LLWLL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "Miami is on a 6-game win streak and outscoring opponents by double digits recently. Milwaukee played last night, traveled over 1,200 miles to South Beach, and is missing several key rotation players. The Heat own the homecourt advantage and the energy advantage tonight. This is a trap game for nobody — the Bucks are just in a bad spot.",
+        "reason_es": "Miami lleva 6 victorias seguidas y supera a sus rivales por dos dígitos últimamente. Milwaukee jugó anoche, viajó más de 1,200 millas hasta South Beach y no tiene varios jugadores clave. El Heat tiene la ventaja de local y la energía esta noche. Los Bucks simplemente llegan en mal momento.",
+        "head_to_head": "MIL 1-1 MIA"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "48-17",
+        "color": "#C4CED4",
+        "streak": "W5",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "40-26",
+        "color": "#0E2240",
+        "streak": "W1",
+        "last5": "WLLWW"
+      },
+      "prediction": {
+        "home_win_pct": 80.5,
+        "away_win_pct": 19.5,
+        "reason": "San Antonio is one of the best stories in the league this season at 48-17, and Wembanyama's team is on a 5-game win streak at home. Denver played last night, traveled 800 miles to Texas, and Jamal Murray and Aaron Gordon are both questionable. The Spurs have been outscoring opponents by 9 points per game recently. This is Wemby's house.",
+        "reason_es": "San Antonio es una de las mejores historias de la liga esta temporada con 48-17, y el equipo de Wembanyama lleva 5 victorias seguidas en casa. Denver jugó anoche, viajó 800 millas a Texas, y Jamal Murray y Aaron Gordon son dudosos. Los Spurs han superado a sus rivales por 9 puntos por partido recientemente. Esta es la casa de Wemby.",
+        "head_to_head": "DEN 0-1 SAS"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "record": "51-15",
+        "color": "#007AC1",
+        "streak": "W6",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "43-22",
+        "color": "#007A33",
+        "streak": "L1",
+        "last5": "LWWLW"
+      },
+      "prediction": {
+        "home_win_pct": 77.8,
+        "away_win_pct": 22.2,
+        "reason": "This is the game of the night. Two top-5 teams, but Boston is coming in without Jayson Tatum and Nikola Vucevic, which is a massive blow. OKC is the best team in the West at 51-15, has won 6 straight, and had 3 full days of rest. Shai Gilgeous-Alexander versus a Tatum-less Celtics team at home in front of a packed Paycom Center — the Thunder are the pick.",
+        "reason_es": "Este es el partido de la noche. Dos equipos de los mejores 5, pero Boston llega sin Jayson Tatum y Nikola Vucevic, lo cual es un golpe enorme. OKC es el mejor equipo del Oeste con 51-15, lleva 6 victorias seguidas y tuvo 3 días completos de descanso. Shai Gilgeous-Alexander contra un Celtics sin Tatum en casa — los Thunder son la predicción.",
+        "head_to_head": "-"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "40-25",
+        "color": "#552583",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "away": {
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "record": "27-38",
+        "color": "#CE1141",
+        "streak": "W1",
+        "last5": "WLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 76.5,
+        "away_win_pct": 23.5,
+        "reason": "LeBron James plays tonight, which tightens this up significantly. But the Lakers are still 21-12 at home and on a 3-game win streak, and their shooting edge is real — 50% from the field versus Chicago's 47%. The Bulls are playing better recently but Chicago is 0-1 against LA this season and traveling coast to coast. Anthony Davis carries the load tonight.",
+        "reason_es": "LeBron James juega esta noche, lo que ajusta bastante este partido. Pero los Lakers siguen siendo 21-12 en casa y llevan 3 victorias seguidas, y su ventaja en tiro es real — 50% en campo frente al 47% de Chicago. Los Bulls juegan mejor últimamente pero Chicago es 0-1 contra LA esta temporada y viaja de costa a costa. Anthony Davis carga con el equipo esta noche.",
+        "head_to_head": "CHI 0-1 LAL"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
