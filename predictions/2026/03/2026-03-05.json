@@ -1,0 +1,286 @@
+{
+  "game_date": "2026-03-05",
+  "published_at": "2026-03-15T17:35:19.392Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "44-17",
+        "color": "#C4CED4",
+        "streak": "W1",
+        "last5": "WLWWW"
+      },
+      "away": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "45-15",
+        "color": "#C8102E",
+        "streak": "L1",
+        "last5": "LWWWL"
+      },
+      "prediction": {
+        "home_win_pct": 59.2,
+        "away_win_pct": 40.8,
+        "reason": "This is the game of the night. The NBA's two best records go head to head — Detroit at 45-15 vs San Antonio at 44-17. Wembanyama vs Cunningham is the marquee matchup. SAS has been slightly better recently with a +10.7 scoring margin over their last 10 games. Detroit traveled over 1,200 miles. It's going to be tight, but home court gives the Spurs the edge.",
+        "reason_es": "Este es el partido de la noche. Los dos mejores récords de la NBA se enfrentan — Detroit 45-15 vs San Antonio 44-17. Wembanyama contra Cunningham es el duelo estelar. SAS ha estado ligeramente mejor recientemente con un margen de +10.7 en sus últimos 10 partidos. Detroit viajó más de 1,200 millas. Va a ser cerrado, pero la localía le da ventaja a los Spurs.",
+        "head_to_head": "SAS 1-0 DET"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "32-28",
+        "color": "#0077C0",
+        "streak": "W1",
+        "last5": "WLLWW"
+      },
+      "away": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "21-40",
+        "color": "#00538C",
+        "streak": "L4",
+        "last5": "LLLLW"
+      },
+      "prediction": {
+        "home_win_pct": 75.4,
+        "away_win_pct": 24.6,
+        "reason": "Dallas is in freefall — 4 straight losses and getting outscored by 9 points per game over their last 10. Orlando is missing Franz Wagner, which hurts, but the Magic are a completely different team at home (19-12). DAL has won just 7 road games all season. This one shouldn't be close.",
+        "reason_es": "Dallas está en caída libre — 4 derrotas seguidas y siendo superados por 9 puntos por partido en sus últimos 10. Orlando pierde a Franz Wagner, lo cual duele, pero los Magic son un equipo completamente diferente en casa (19-12). DAL solo ha ganado 7 partidos de visitante en toda la temporada. Este no debería ser cerrado.",
+        "head_to_head": "0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Washington Wizards",
+        "abbr": "WAS",
+        "record": "16-45",
+        "color": "#002B5C",
+        "streak": "L6",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Utah Jazz",
+        "abbr": "UTA",
+        "record": "18-44",
+        "color": "#002B5C",
+        "streak": "L7",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 63,
+        "away_win_pct": 37,
+        "reason": "Someone has to win this one. Both teams are on 6+ game losing streaks and neither has won in their last 5. Utah played last night and has to travel, which gives Washington the edge at home. Markkanen is out for Utah. Not exactly must-see TV, but the Wizards should take this one.",
+        "reason_es": "Alguien tiene que ganar este partido. Ambos equipos llevan rachas de 6+ derrotas y ninguno ha ganado en sus últimos 5. Utah jugó anoche y tuvo que viajar, lo que le da ventaja a Washington en casa. Markkanen está fuera para Utah. No es exactamente televisión imperdible, pero los Wizards deberían llevarse este.",
+        "head_to_head": "0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Miami Heat",
+        "abbr": "MIA",
+        "record": "33-29",
+        "color": "#98002E",
+        "streak": "W2",
+        "last5": "WWLLW"
+      },
+      "away": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "15-46",
+        "color": "#000000",
+        "streak": "L9",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "This is the biggest mismatch on tonight's slate. Brooklyn has lost 9 in a row and is getting destroyed by 10+ points per game recently. Miami is rolling at home (19-11) and outscoring opponents by 6.5 per game over their last 10. The Nets have already lost twice to the Heat this season. There's no path for Brooklyn here.",
+        "reason_es": "Este es el mayor desajuste de la noche. Brooklyn lleva 9 derrotas seguidas y está siendo destruido por 10+ puntos por partido recientemente. Miami está dominando en casa (19-11) y superando a sus rivales por 6.5 por partido en sus últimos 10. Los Nets ya perdieron dos veces contra el Heat esta temporada. No hay camino para Brooklyn aquí.",
+        "head_to_head": "MIA 2-0 BKN"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "record": "38-22",
+        "color": "#CE1141",
+        "streak": "W1",
+        "last5": "WLWWW"
+      },
+      "away": {
+        "name": "Golden State Warriors",
+        "abbr": "GSW",
+        "record": "31-30",
+        "color": "#1D428A",
+        "streak": "L2",
+        "last5": "LLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 80.8,
+        "away_win_pct": 19.2,
+        "reason": "Houston is a fortress at home — 20-7 this season. Golden State is struggling, losing 2 straight and getting outscored by 3 points per game recently. The Warriors traveled over 1,600 miles and are missing Porzingis. Houston's rebounding dominance (+5.6 per game) is the kind of edge that wins games comfortably. The Rockets already beat them once this year.",
+        "reason_es": "Houston es una fortaleza en casa — 20-7 esta temporada. Golden State está luchando, con 2 derrotas seguidas y siendo superados por 3 puntos por partido recientemente. Los Warriors viajaron más de 1,600 millas y no tienen a Porzingis. El dominio de Houston en rebotes (+5.6 por partido) es el tipo de ventaja que gana partidos cómodamente. Los Rockets ya los vencieron una vez este año.",
+        "head_to_head": "HOU 1-0 GSW"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "39-23",
+        "color": "#0C2340",
+        "streak": "W4",
+        "last5": "WWWWL"
+      },
+      "away": {
+        "name": "Toronto Raptors",
+        "abbr": "TOR",
+        "record": "35-26",
+        "color": "#CE1141",
+        "streak": "L1",
+        "last5": "LWLLW"
+      },
+      "prediction": {
+        "home_win_pct": 66.5,
+        "away_win_pct": 33.5,
+        "reason": "Minnesota is on fire — 4 wins in a row and outscoring teams by 3+ points over their last 10. Toronto has a strong road record (19-10) but the Wolves are tough to beat at home (21-11). Edwards has been the engine. Interestingly, all three prediction sources agree almost perfectly here: our model, ESPN, and Vegas all say Minnesota around 67%.",
+        "reason_es": "Minnesota está en llamas — 4 victorias seguidas y superando a sus rivales por 3+ puntos en sus últimos 10. Toronto tiene un fuerte récord de visitante (19-10) pero los Wolves son difíciles de vencer en casa (21-11). Edwards ha sido el motor. Curiosamente, las tres fuentes de predicción coinciden casi perfectamente: nuestro modelo, ESPN y Vegas dicen Minnesota alrededor del 67%.",
+        "head_to_head": "MIN 1-0 TOR"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "35-26",
+        "color": "#1D1160",
+        "streak": "W2",
+        "last5": "WWLLW"
+      },
+      "away": {
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "record": "25-37",
+        "color": "#CE1141",
+        "streak": "L1",
+        "last5": "LWLLL"
+      },
+      "prediction": {
+        "home_win_pct": 74.4,
+        "away_win_pct": 25.6,
+        "reason": "Chicago is in rough shape — getting outscored by nearly 9 points per game over their last 10 and just traveled 1,400+ miles to get here. Phoenix has Booker and Durant at home, and the Suns are 20-12 on their own floor. The Bulls are 9-19 on the road this season. Phoenix should handle this without much trouble.",
+        "reason_es": "Chicago está en mala forma — siendo superados por casi 9 puntos por partido en sus últimos 10 y acaban de viajar 1,400+ millas para llegar aquí. Phoenix tiene a Booker y Durant en casa, y los Suns van 20-12 en su cancha. Los Bulls van 9-19 de visitante esta temporada. Phoenix debería manejar esto sin muchos problemas.",
+        "head_to_head": "0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "38-24",
+        "color": "#0E2240",
+        "streak": "W1",
+        "last5": "WLLWL"
+      },
+      "away": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "37-24",
+        "color": "#552583",
+        "streak": "W3",
+        "last5": "WWWLL"
+      },
+      "prediction": {
+        "home_win_pct": 53.6,
+        "away_win_pct": 46.4,
+        "reason": "This is essentially a coin flip. Nearly identical records, and both teams have been solid recently. Denver has the altitude advantage in the Mile High City, but Aaron Gordon is out and Cameron Johnson is questionable. The Lakers have won 3 straight with Doncic playing at an elite level. Jokic at home vs Doncic on a heater — pick your poison. Vegas says Denver by 5, but we see this much closer.",
+        "reason_es": "Esto es esencialmente una moneda al aire. Récords casi idénticos, y ambos equipos han estado sólidos recientemente. Denver tiene la ventaja de altitud en la Ciudad de la Milla de Altura, pero Aaron Gordon está fuera y Cameron Johnson es cuestionable. Los Lakers han ganado 3 seguidos con Doncic jugando a nivel élite. Jokic en casa vs Doncic en racha — elige tu veneno. Vegas dice Denver por 5, pero nosotros lo vemos mucho más cerrado.",
+        "head_to_head": "DEN 0-1 LAL"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "14-49",
+        "color": "#5A2D81",
+        "streak": "L2",
+        "last5": "LLWLW"
+      },
+      "away": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "19-44",
+        "color": "#0C2340",
+        "streak": "L2",
+        "last5": "LLWWW"
+      },
+      "prediction": {
+        "home_win_pct": 27.3,
+        "away_win_pct": 72.7,
+        "reason": "Sacramento has the worst record in the NBA at 14-49 and it's about to get worse. They're missing Sabonis and Keegan Murray — two of their best players. The Kings have been outscored by 10 points per game over their last 10, the worst in the league. New Orleans isn't great either, but they're significantly better and already won the first matchup this season.",
+        "reason_es": "Sacramento tiene el peor récord de la NBA con 14-49 y está por empeorar. No tienen a Sabonis ni a Keegan Murray — dos de sus mejores jugadores. Los Kings han sido superados por 10 puntos por partido en sus últimos 10, el peor de la liga. New Orleans tampoco es gran cosa, pero son significativamente mejores y ya ganaron el primer enfrentamiento esta temporada.",
+        "head_to_head": "NOP 1-0 SAC"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
