@@ -1,0 +1,211 @@
+{
+  "game_date": "2026-03-11",
+  "published_at": "2026-03-15T17:45:27.295Z",
+  "type": "results",
+  "games": [
+    {
+      "home": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "39-26",
+        "color": "#0E2240",
+        "streak": "L2",
+        "last5": "LLWWL"
+      },
+      "away": {
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "record": "40-24",
+        "color": "#CE1141",
+        "streak": "W1",
+        "last5": "WLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 61.2,
+        "away_win_pct": 38.8,
+        "reason": "Denver is at home in the Mile High City with the altitude advantage, and Houston played last night and traveled 880 miles. Jokic at home is always dangerous. But Denver has lost 2 straight and Jamal Murray is questionable. Houston is missing VanVleet but their depth has been solid. Denver has won 2 of 3 against Houston this season. Our model and ESPN agree around 60% — the market sees it higher at 70% Denver.",
+        "reason_es": "Denver está en casa en la Ciudad de la Milla de Altura con ventaja de altitud, y Houston jugó anoche y viajó 880 millas. Jokic en casa siempre es peligroso. Pero Denver ha perdido 2 seguidos y Jamal Murray es cuestionable. Houston no tiene a VanVleet pero su profundidad ha sido sólida. Denver ha ganado 2 de 3 contra Houston esta temporada. Nuestro modelo y ESPN coinciden alrededor del 60% — el mercado lo ve más alto en 70% Denver.",
+        "head_to_head": "DEN 2-1 HOU"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "21-45",
+        "color": "#0C2340",
+        "streak": "W1",
+        "last5": "WLWLL"
+      },
+      "away": {
+        "name": "Toronto Raptors",
+        "abbr": "TOR",
+        "record": "36-28",
+        "color": "#CE1141",
+        "streak": "L1",
+        "last5": "LWLLW"
+      },
+      "prediction": {
+        "home_win_pct": 57.5,
+        "away_win_pct": 42.5,
+        "reason": "Our model disagrees with the market here. Toronto has the better record but they played last night and have been struggling — losing 3 of their last 5. New Orleans is rested (3 days off) and has actually been decent recently with a positive scoring margin over their last 10. The Pelicans are at home and the rest advantage is huge. Vegas has Toronto favored by 2, but we lean New Orleans at 58%.",
+        "reason_es": "Nuestro modelo discrepa con el mercado aquí. Toronto tiene mejor récord pero jugaron anoche y han estado luchando — perdiendo 3 de sus últimos 5. New Orleans está descansado (3 días libres) y ha estado decente recientemente con margen de anotación positivo en sus últimos 10. Los Pelicans están en casa y la ventaja de descanso es enorme. Vegas tiene a Toronto favorito por 2, pero nos inclinamos por New Orleans al 58%.",
+        "head_to_head": "0-0"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "LA Clippers",
+        "abbr": "LAC",
+        "record": "32-32",
+        "color": "#C8102E",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "40-25",
+        "color": "#0C2340",
+        "streak": "L2",
+        "last5": "LLWWW"
+      },
+      "prediction": {
+        "home_win_pct": 61.5,
+        "away_win_pct": 38.5,
+        "reason": "Identical power ratings make this interesting, but the Clippers have the clear advantages tonight. Minnesota played last night while LA is rested. The Clippers are at home (17-13) and have been the better team recently with a +4.4 scoring margin over their last 10. Minnesota has lost 2 straight and is coming off a tough stretch. Beal is out for LA but their depth has carried them. Our model and ESPN both see LA around 62%.",
+        "reason_es": "Power ratings idénticos hacen esto interesante, pero los Clippers tienen las ventajas claras esta noche. Minnesota jugó anoche mientras LA está descansado. Los Clippers están en casa (17-13) y han sido mejor equipo recientemente con margen de +4.4 en sus últimos 10. Minnesota ha perdido 2 seguidos y viene de una racha difícil. Beal está fuera para LA pero su profundidad los ha sostenido. Nuestro modelo y ESPN ven a LA alrededor del 62%.",
+        "head_to_head": "LAC 1-2 MIN"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "10:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "16-50",
+        "color": "#5A2D81",
+        "streak": "W2",
+        "last5": "WWLLL"
+      },
+      "away": {
+        "name": "Charlotte Hornets",
+        "abbr": "CHA",
+        "record": "33-33",
+        "color": "#1D1160",
+        "streak": "W1",
+        "last5": "WLLWW"
+      },
+      "prediction": {
+        "home_win_pct": 19.5,
+        "away_win_pct": 80.5,
+        "reason": "Charlotte has been one of the best teams in the league over the last 10 games — outscoring opponents by nearly 8 points per game. Sacramento is 16-50 and missing Sabonis and Keegan Murray. Both teams played last night, but Charlotte's recent form is on another level entirely. The Hornets have the massive rebounding advantage (+4.3 per game) and the Kings are 11-22 at home. This should be comfortable for Charlotte.",
+        "reason_es": "Charlotte ha sido uno de los mejores equipos de la liga en los últimos 10 partidos — superando a rivales por casi 8 puntos por partido. Sacramento va 16-50 y no tiene a Sabonis ni a Keegan Murray. Ambos jugaron anoche, pero la forma reciente de Charlotte está en otro nivel. Los Hornets tienen ventaja masiva en rebotes (+4.3 por partido) y los Kings van 11-22 en casa. Esto debería ser cómodo para Charlotte.",
+        "head_to_head": "0-0"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Utah Jazz",
+        "abbr": "UTA",
+        "record": "20-45",
+        "color": "#002B5C",
+        "streak": "W1",
+        "last5": "WLWLL"
+      },
+      "away": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "41-25",
+        "color": "#006BB6",
+        "streak": "L2",
+        "last5": "LLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 18.5,
+        "away_win_pct": 81.5,
+        "reason": "New York is the far superior team and it's not particularly close. Utah is missing Markkanen, Nurkic, and several others — their roster is a shell of itself. The Knicks already beat Utah once this season. The Jazz have the altitude advantage at home, but when you're outmatched by over 10 points in power rating, altitude doesn't save you. Vegas has this at NYK -14 for a reason.",
+        "reason_es": "New York es el equipo muy superior y no es particularmente cerrado. Utah no tiene a Markkanen, Nurkic y varios otros — su roster es una sombra de sí mismo. Los Knicks ya vencieron a Utah una vez esta temporada. El Jazz tiene ventaja de altitud en casa, pero cuando te superan por más de 10 puntos en power rating, la altitud no te salva. Vegas tiene esto en NYK -14 por algo.",
+        "head_to_head": "UTA 0-1 NYK"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "35-28",
+        "color": "#0077C0",
+        "streak": "W4",
+        "last5": "WWWWL"
+      },
+      "away": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "40-25",
+        "color": "#6F263D",
+        "streak": "W1",
+        "last5": "WLWWL"
+      },
+      "prediction": {
+        "home_win_pct": 46.5,
+        "away_win_pct": 53.5,
+        "reason": "Nearly identical power ratings make this a true toss-up. Orlando has won 4 straight with impressive margins (+39, +27, +1, +17), but they're missing Franz Wagner which is a significant loss. Cleveland has beaten Orlando twice already this season and has the better overall record. The Magic are at home (20-12) which helps, but the Cavs' experience and 2-0 H2H edge give them the slight lean. Could easily go either way.",
+        "reason_es": "Power ratings casi idénticos hacen de esto un verdadero toss-up. Orlando ha ganado 4 seguidos con márgenes impresionantes (+39, +27, +1, +17), pero no tienen a Franz Wagner lo cual es una pérdida significativa. Cleveland ya venció a Orlando dos veces esta temporada y tiene mejor récord general. Los Magic están en casa (20-12) lo que ayuda, pero la experiencia de los Cavs y su ventaja 2-0 en H2H les da la ligera inclinación. Podría ir fácilmente para cualquier lado.",
+        "head_to_head": "CLE 2-0 ORL"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
