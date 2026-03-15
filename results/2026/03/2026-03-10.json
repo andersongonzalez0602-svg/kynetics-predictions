@@ -1,0 +1,381 @@
+{
+  "game_date": "2026-03-10",
+  "published_at": "2026-03-15T17:45:28.322Z",
+  "type": "results",
+  "games": [
+    {
+      "home": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "17-47",
+        "color": "#000000",
+        "streak": "W2",
+        "last5": "WWLLL"
+      },
+      "away": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "45-18",
+        "color": "#C8102E",
+        "streak": "L4",
+        "last5": "LLLLW"
+      },
+      "prediction": {
+        "home_win_pct": 14.5,
+        "away_win_pct": 85.5,
+        "reason": "Detroit has the best record in the NBA despite losing 4 straight. Brooklyn is 9-22 at home and has been outscored by nearly 10 points per game recently. The Pistons traveled 1,090 miles but their talent gap is enormous — they already beat the Nets twice this season. Brooklyn played last night which makes it even worse. Everyone agrees: this is Detroit's game.",
+        "reason_es": "Detroit tiene el mejor récord de la NBA a pesar de perder 4 seguidos. Brooklyn va 9-22 en casa y ha sido superado por casi 10 puntos por partido recientemente. Los Pistons viajaron 1,090 millas pero su brecha de talento es enorme — ya vencieron a los Nets dos veces esta temporada. Brooklyn jugó anoche lo que lo empeora aún más. Todos coinciden: este es el partido de Detroit.",
+        "head_to_head": "DET 2-1 BKN"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "record": "39-24",
+        "color": "#CE1141",
+        "streak": "L1",
+        "last5": "LWLWL"
+      },
+      "away": {
+        "name": "Toronto Raptors",
+        "abbr": "TOR",
+        "record": "36-27",
+        "color": "#CE1141",
+        "streak": "W1",
+        "last5": "WLLWL"
+      },
+      "prediction": {
+        "home_win_pct": 64.2,
+        "away_win_pct": 35.8,
+        "reason": "Houston is 21-8 at home this season and dominates on the boards (+5.6 rebounds per game advantage). Toronto traveled over 1,300 miles and is missing VanVleet. Both teams have similar power ratings, but Houston's home court and rebounding edge make the difference. All three sources — our model, ESPN, and Vegas — agree around 65%. Solid Houston pick.",
+        "reason_es": "Houston va 21-8 en casa esta temporada y domina en los tableros (+5.6 rebotes por partido de ventaja). Toronto viajó más de 1,300 millas y no tiene a VanVleet. Ambos equipos tienen power ratings similares, pero la localía y ventaja en rebotes de Houston hacen la diferencia. Las tres fuentes — nuestro modelo, ESPN y Vegas — coinciden alrededor del 65%. Sólida elección de Houston.",
+        "head_to_head": "HOU 1-0 TOR"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "39-25",
+        "color": "#552583",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "40-24",
+        "color": "#0C2340",
+        "streak": "L1",
+        "last5": "LWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 45.5,
+        "away_win_pct": 54.5,
+        "reason": "Minnesota is fully healthy and rested (3 days off), while the Lakers are without LeBron James. Edwards and the Wolves have won 4 of their last 5 and are 18-12 on the road. The Lakers are 0-2 against Minnesota this season. Doncic will need to carry the scoring load alone. LA's home court and elite FG% (50%) are their main advantages, but without LeBron against a healthy, rested Wolves team, we lean Minnesota.",
+        "reason_es": "Minnesota está completamente saludable y descansado (3 días libres), mientras los Lakers no tienen a LeBron James. Edwards y los Wolves han ganado 4 de sus últimos 5 y van 18-12 de visitante. Los Lakers van 0-2 contra Minnesota esta temporada. Doncic tendrá que cargar con la anotación solo. La localía de LA y su élite FG% (50%) son sus principales ventajas, pero sin LeBron contra un equipo saludable y descansado de Wolves, nos inclinamos por Minnesota.",
+        "head_to_head": "LAL 0-2 MIN"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "10:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "record": "31-34",
+        "color": "#E03C31",
+        "streak": "W1",
+        "last5": "WLWLL"
+      },
+      "away": {
+        "name": "Charlotte Hornets",
+        "abbr": "CHA",
+        "record": "32-33",
+        "color": "#1D1160",
+        "streak": "L2",
+        "last5": "LLWWW"
+      },
+      "prediction": {
+        "home_win_pct": 37.5,
+        "away_win_pct": 62.5,
+        "reason": "Charlotte has been one of the best teams in the league over their last 10 games — outscoring opponents by over 7 points per game. Portland is missing Lillard and Sharpe, their two best offensive players. Charlotte traveled 1,000 miles but their recent form is too hot to ignore. They already beat Portland once this season. Coby White is out for CHA but their depth has been carrying them.",
+        "reason_es": "Charlotte ha sido uno de los mejores equipos de la liga en sus últimos 10 partidos — superando a rivales por más de 7 puntos por partido. Portland no tiene a Lillard ni a Sharpe, sus dos mejores jugadores ofensivos. Charlotte viajó 1,000 millas pero su forma reciente es demasiado caliente para ignorar. Ya vencieron a Portland una vez esta temporada. Coby White está fuera para CHA pero su profundidad los ha sostenido.",
+        "head_to_head": "CHA 1-0 POR"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Golden State Warriors",
+        "abbr": "GSW",
+        "record": "32-32",
+        "color": "#1D428A",
+        "streak": "L2",
+        "last5": "LLWLL"
+      },
+      "away": {
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "record": "26-38",
+        "color": "#CE1141",
+        "streak": "L1",
+        "last5": "LWLWL"
+      },
+      "prediction": {
+        "home_win_pct": 60.5,
+        "away_win_pct": 39.5,
+        "reason": "Golden State played last night and Curry is out — that changes everything. Chicago isn't good but they're rested, and without Curry the Warriors are a different team. ESPN gives GSW 65% and the market has them -6.5, but those numbers feel too high without their best player. Our model sees a much closer game. GSW's home court (19-13) and Chicago missing Simons keep the Warriors as favorites, but barely.",
+        "reason_es": "Golden State jugó anoche y Curry está fuera — eso lo cambia todo. Chicago no es bueno pero están descansados, y sin Curry los Warriors son otro equipo. ESPN da a GSW 65% y el mercado los tiene -6.5, pero esos números se sienten demasiado altos sin su mejor jugador. Nuestro modelo ve un partido mucho más cerrado. La localía de GSW (19-13) y que Chicago no tiene a Simons mantienen a los Warriors como favoritos, pero apenas.",
+        "head_to_head": "GSW 1-0 CHI"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "47-17",
+        "color": "#C4CED4",
+        "streak": "W4",
+        "last5": "WWWWL"
+      },
+      "away": {
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "43-21",
+        "color": "#007A33",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "prediction": {
+        "home_win_pct": 62.5,
+        "away_win_pct": 37.5,
+        "reason": "Game of the night. Two elite teams — SAS 47-17 vs BOS 43-21. San Antonio is 24-6 at home and on a 4-game win streak, outscoring teams by 10 points per game recently. Boston traveled 1,254 miles but they're rested (2 days off) and have been outscoring opponents by nearly 9 per game. Wembanyama vs the Celtics defense is the marquee matchup. Home court gives SAS the edge, but this will be close. ESPN says 57%, we say 62%.",
+        "reason_es": "Partido de la noche. Dos equipos élite — SAS 47-17 vs BOS 43-21. San Antonio va 24-6 en casa y lleva 4 victorias seguidas, superando a rivales por 10 puntos por partido recientemente. Boston viajó 1,254 millas pero están descansados (2 días libres) y han superado a rivales por casi 9 por partido. Wembanyama vs la defensa de los Celtics es el duelo estelar. La localía da ventaja a SAS, pero será cerrado. ESPN dice 57%, nosotros decimos 62%.",
+        "head_to_head": "SAS 1-0 BOS"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "27-36",
+        "color": "#00471B",
+        "streak": "L1",
+        "last5": "LWLLL"
+      },
+      "away": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "37-27",
+        "color": "#1D1160",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "prediction": {
+        "home_win_pct": 50.5,
+        "away_win_pct": 49.5,
+        "reason": "The ultimate toss-up. Phoenix has been the better team recently and has Booker rolling, but they traveled over 1,400 miles. Milwaukee is at home but has been terrible — getting outscored by 6 points per game in their last 10. Our model, ESPN, and Vegas all see this as a coin flip. Phoenix's FG% advantage (48% vs 45%) is interesting but Milwaukee's home court barely tips it. Don't bet the house on this one.",
+        "reason_es": "El máximo toss-up. Phoenix ha sido mejor equipo recientemente y Booker está en racha, pero viajaron más de 1,400 millas. Milwaukee está en casa pero ha estado terrible — superados por 6 puntos por partido en sus últimos 10. Nuestro modelo, ESPN y Vegas lo ven como moneda al aire. La ventaja de FG% de Phoenix (48% vs 45%) es interesante pero la localía de Milwaukee apenas lo inclina. No apuestes la casa en este.",
+        "head_to_head": "0-0"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Atlanta Hawks",
+        "abbr": "ATL",
+        "record": "33-31",
+        "color": "#E03A3E",
+        "streak": "W6",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "21-43",
+        "color": "#00538C",
+        "streak": "L7",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 75.8,
+        "away_win_pct": 24.2,
+        "reason": "Atlanta is the hottest team in the NBA right now — 6 wins in a row with crushing margins of +9, +18, +34, and +30. Dallas has lost 7 straight and is missing Kyrie Irving. The Hawks are at home and rested while Dallas traveled 735 miles. ESPN only gives Atlanta 70%, but their recent dominance and Dallas's freefall make this more like 76%.",
+        "reason_es": "Atlanta es el equipo más caliente de la NBA ahora mismo — 6 victorias seguidas con márgenes aplastantes de +9, +18, +34 y +30. Dallas lleva 7 derrotas seguidas y no tiene a Kyrie Irving. Los Hawks están en casa y descansados mientras Dallas viajó 735 millas. ESPN solo da a Atlanta 70%, pero su dominio reciente y la caída libre de Dallas lo hacen más como 76%.",
+        "head_to_head": "0-0"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Miami Heat",
+        "abbr": "MIA",
+        "record": "36-29",
+        "color": "#98002E",
+        "streak": "W5",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Washington Wizards",
+        "abbr": "WAS",
+        "record": "16-47",
+        "color": "#002B5C",
+        "streak": "L8",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 86.5,
+        "away_win_pct": 13.5,
+        "reason": "Miami is on a 5-game win streak and outscoring teams by nearly 9 points per game recently. Washington has lost 8 straight and is missing Trae Young, Anthony Davis, and D'Angelo Russell. The Wizards are 5-25 on the road. Miami is 21-11 at home. This is as close to a guaranteed win as it gets in the NBA.",
+        "reason_es": "Miami lleva 5 victorias seguidas y supera a rivales por casi 9 puntos por partido recientemente. Washington lleva 8 derrotas seguidas y no tiene a Trae Young, Anthony Davis ni D'Angelo Russell. Los Wizards van 5-25 de visitante. Miami va 21-11 en casa. Esto es lo más cercano a una victoria garantizada que existe en la NBA.",
+        "head_to_head": "MIA 1-0 WAS"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "34-30",
+        "color": "#006BB6",
+        "streak": "L2",
+        "last5": "LLWLL"
+      },
+      "away": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "23-40",
+        "color": "#5D76A9",
+        "streak": "L4",
+        "last5": "LLLLW"
+      },
+      "prediction": {
+        "home_win_pct": 55.2,
+        "away_win_pct": 44.8,
+        "reason": "Both teams are depleted and struggling. Philly is missing Embiid, Maxey, and George is questionable — that's their entire core gone. Memphis is without Morant. Both teams played last night. The market favors Philly by 3 points, but with so many key players out, this is closer to a coin flip. Home court is the tiebreaker.",
+        "reason_es": "Ambos equipos están diezmados y luchando. Philly no tiene a Embiid, Maxey, y George es cuestionable — todo su núcleo fuera. Memphis está sin Morant. Ambos jugaron anoche. El mercado favorece a Philly por 3 puntos, pero con tantos jugadores clave fuera, esto es casi una moneda al aire. La localía es el desempate.",
+        "head_to_head": "PHI 1-0 MEM"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "2:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "15-50",
+        "color": "#5A2D81",
+        "streak": "W1",
+        "last5": "WLLLW"
+      },
+      "away": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-49",
+        "color": "#002D62",
+        "streak": "L9",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 54.8,
+        "away_win_pct": 45.2,
+        "reason": "The battle of the NBA's two worst teams. Identical 15-win records, both missing key players. Indiana has lost 9 straight and is 5-27 on the road. Sacramento is missing Sabonis but is at home and slightly better recently. The market favors Sacramento by 3, and our model agrees this is a slight lean to the home team. Nobody's picking this game with confidence.",
+        "reason_es": "La batalla de los dos peores equipos de la NBA. Récords idénticos de 15 victorias, ambos sin jugadores clave. Indiana lleva 9 derrotas seguidas y va 5-27 de visitante. Sacramento no tiene a Sabonis pero está en casa y ligeramente mejor recientemente. El mercado favorece a Sacramento por 3, y nuestro modelo coincide en que hay ligera inclinación al local. Nadie elige este partido con confianza.",
+        "head_to_head": "SAC 0-1 IND"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
