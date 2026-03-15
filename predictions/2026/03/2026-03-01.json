@@ -1,0 +1,348 @@
+{
+  "game_date": "2026-03-01",
+  "published_at": "2026-03-15T17:35:11.778Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "37-23",
+        "color": "#0E2240",
+        "streak": "L1",
+        "last5": "LLWLW"
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "37-23",
+        "color": "#0C2340",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "prediction": {
+        "home_win_pct": 46.8,
+        "away_win_pct": 53.2,
+        "reason": "Near coin-flip. Identical 37-23 records. DEN on B2B loses home court advantage, and Gordon OUT (-1.9pts). MIN 4-1 L5 with W2 streak and 3-0 H2H advantage. Jokic vs Edwards marquee matchup but DEN fatigue + injuries tip it slightly MIN.",
+        "reason_es": "Casi moneda al aire. Récords idénticos 37-23. DEN en B2B pierde ventaja de local, y Gordon OUT (-1.9pts). MIN 4-1 en L5 con racha de 2W y ventaja 3-0 en H2H. Jokic vs Edwards es duelo estelar pero fatiga e lesiones de DEN inclinan ligeramente a MIN.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-45",
+        "color": "#002D62",
+        "streak": "L5",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "22-36",
+        "color": "#5D76A9",
+        "streak": "W1",
+        "last5": "WLLWL"
+      },
+      "prediction": {
+        "home_win_pct": 52.2,
+        "away_win_pct": 47.8,
+        "reason": "True toss-up between two struggling teams. MEM on B2B with 763mi travel gives IND slight home edge. Both have similar power ratings. Siakam GTD for IND is key — if he plays, IND takes it. Margin: +0.9pts IND.",
+        "reason_es": "Verdadero toss-up entre dos equipos en dificultades. MEM en B2B con 763mi de viaje da a IND ligera ventaja de local. Ambos con power ratings similares. Siakam GTD para IND es clave — si juega, IND gana. Margen: +0.9pts IND.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "38-22",
+        "color": "#006BB6",
+        "streak": "W1",
+        "last5": "WLLWW"
+      },
+      "away": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "43-16",
+        "color": "#C4CED4",
+        "streak": "W11",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 26.9,
+        "away_win_pct": 73.1,
+        "reason": "SAS dominating with 11-game win streak and elite +10.5 power rating. NYK on B2B with 732mi travel. Wembanyama leads SAS offensive edge (+1.2 PPG, +0.6 REB). Expected margin SAS -8.1pts despite playing away.",
+        "reason_es": "SAS domina con racha de 11 victorias y power rating élite de +10.5. NYK en B2B con 732mi de viaje. Wembanyama lidera la ventaja ofensiva de SAS (+1.2 PPG, +0.6 REB). Margen esperado SAS -8.1pts a pesar de jugar de visitante.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Atlanta Hawks",
+        "abbr": "ATL",
+        "record": "30-31",
+        "color": "#E03A3E",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "record": "29-32",
+        "color": "#E03C31",
+        "streak": "L1",
+        "last5": "LLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 84.1,
+        "away_win_pct": 15.9,
+        "reason": "Massive injury blow for POR: Lillard OUT (-3.8pts), Sharpe OUT (-1.4pts), Avdija OUT (-1.7pts). ATL at home with W3 streak and rested. POR on B2B depleted. Expected margin ATL +12.4pts — one of the biggest edges today.",
+        "reason_es": "Golpe masivo de lesiones para POR: Lillard OUT (-3.8pts), Sharpe OUT (-1.4pts), Avdija OUT (-1.7pts). ATL en casa con racha de 3W y descansados. POR en B2B y diezmados. Margen esperado ATL +12.4pts — una de las mayores ventajas de hoy.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "31-27",
+        "color": "#0077C0",
+        "streak": "L1",
+        "last5": "LLWWL"
+      },
+      "away": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "44-14",
+        "color": "#C8102E",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "prediction": {
+        "home_win_pct": 32.5,
+        "away_win_pct": 67.5,
+        "reason": "DET best record in NBA at 44-14 with +7.4 power rating. On B2B with 958mi travel but talent gap is massive. ORL missing Franz Wagner (-3.3pts) hurts significantly. Cunningham (25.4/5.8/9.8) leads DET's elite offense.",
+        "reason_es": "DET mejor récord de la NBA con 44-14 y power rating de +7.4. En B2B con 958mi de viaje pero la brecha de talento es enorme. ORL sin Franz Wagner (-3.3pts) duele significativamente. Cunningham (25.4/5.8/9.8) lidera la ofensiva élite de DET.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "39-20",
+        "color": "#007A33",
+        "streak": "W1",
+        "last5": "WWLWW"
+      },
+      "away": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "33-26",
+        "color": "#006BB6",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "prediction": {
+        "home_win_pct": 77.3,
+        "away_win_pct": 22.7,
+        "reason": "BOS +6.4 power rating at home despite Tatum OUT (-5.2pts). PHI also depleted with Embiid OUT (-4.8pts) and George questionable. BOS's depth and +7.3 margin L10 dominates. Brown (29.1 PPG) steps up as primary scorer. Expected margin BOS +8.5pts.",
+        "reason_es": "BOS +6.4 power rating en casa a pesar de Tatum OUT (-5.2pts). PHI también diezmados con Embiid OUT (-4.8pts) y George cuestionable. La profundidad de BOS y margen de +7.3 en L10 domina. Brown (29.1 PPG) sube como anotador principal. Margen esperado BOS +8.5pts.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "21-38",
+        "color": "#00538C",
+        "streak": "L2",
+        "last5": "LLWWL"
+      },
+      "away": {
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "record": "46-15",
+        "color": "#007AC1",
+        "streak": "W1",
+        "last5": "WWLWW"
+      },
+      "prediction": {
+        "home_win_pct": 17.8,
+        "away_win_pct": 82.2,
+        "reason": "OKC 46-15 with massive +12.0 power rating edge. SGA (31.9 PPG) unstoppable. DAL missing Flagg, PJ Washington, Bagley. OKC's Jalen Williams OUT but depth carries them. Spread -15.5 says it all. Expected margin OKC -10.0pts.",
+        "reason_es": "OKC 46-15 con enorme ventaja de +12.0 en power rating. SGA (31.9 PPG) imparable. DAL sin Flagg, PJ Washington, Bagley. Jalen Williams de OKC OUT pero la profundidad los sostiene. Spread -15.5 dice todo. Margen esperado OKC -10.0pts.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "35-24",
+        "color": "#552583",
+        "streak": "W1",
+        "last5": "WLLWW"
+      },
+      "away": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "14-47",
+        "color": "#5A2D81",
+        "streak": "W1",
+        "last5": "WLLWL"
+      },
+      "prediction": {
+        "home_win_pct": 91.3,
+        "away_win_pct": 8.7,
+        "reason": "Biggest mismatch of the day. SAC 14-47 missing Sabonis (-3.6pts) and Murray (-1.9pts) — gutted roster. LAL on B2B but Doncic (32.6 PPG) at home is too much. SAC 5-27 on the road with 1238mi travel. Expected margin LAL +18.0pts.",
+        "reason_es": "Mayor desventaja del día. SAC 14-47 sin Sabonis (-3.6pts) y Murray (-1.9pts) — plantilla diezmada. LAL en B2B pero Doncic (32.6 PPG) en casa es demasiado. SAC 5-27 de visitante con 1238mi de viaje. Margen esperado LAL +18.0pts.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "15-44",
+        "color": "#000000",
+        "streak": "L7",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "37-24",
+        "color": "#6F263D",
+        "streak": "L2",
+        "last5": "LLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 22.9,
+        "away_win_pct": 77.1,
+        "reason": "CLE +13.6 power rating edge over BKN despite both on B2B. CLE missing Mitchell (-3.8pts) and Harden GTD (-1.4pts) but BKN on 7-game losing streak with -8.7 margin L10. CLE's talent gap too wide.",
+        "reason_es": "CLE con +13.6 de ventaja en power rating sobre BKN a pesar de ambos en B2B. CLE sin Mitchell (-3.8pts) y Harden GTD (-1.4pts) pero BKN con racha de 7 derrotas y margen de -8.7 en L10. La brecha de talento de CLE es demasiado grande.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "record": "24-36",
+        "color": "#CE1141",
+        "streak": "L10",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "26-32",
+        "color": "#00471B",
+        "streak": "L1",
+        "last5": "WLWWL"
+      },
+      "prediction": {
+        "home_win_pct": 43.6,
+        "away_win_pct": 56.4,
+        "reason": "Toss-up game. Giannis OUT (-5.7pts) levels the field significantly. CHI on brutal 10-game losing streak with -13.0 margin L10. MIL on B2B but CHI's collapse makes them unreliable. MIL edge without Giannis is slim at -2.0pts.",
+        "reason_es": "Partido parejo. Giannis OUT (-5.7pts) nivela mucho el campo. CHI con brutal racha de 10 derrotas y margen de -13.0 en L10. MIL en B2B pero el colapso de CHI los hace poco confiables. Ventaja de MIL sin Giannis es mínima: -2.0pts.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "LA Clippers",
+        "abbr": "LAC",
+        "record": "27-31",
+        "color": "#C8102E",
+        "streak": "L3",
+        "last5": "LLLWW"
+      },
+      "away": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "19-42",
+        "color": "#0C2340",
+        "streak": "W4",
+        "last5": "WWWWL"
+      },
+      "prediction": {
+        "home_win_pct": 75.5,
+        "away_win_pct": 24.5,
+        "reason": "NOP on surprise W4 streak but on B2B with 581mi travel. Murray and Zion both GTD. LAC rested (2 days) at home with Kawhi (28.0 PPG) anchoring. LAC's L3 streak misleading — they had tough schedule. Rest + home advantage gives LAC +7.3pts margin.",
+        "reason_es": "NOP con sorpresiva racha de 4W pero en B2B con 581mi de viaje. Murray y Zion ambos GTD. LAC descansados (2 días) en casa con Kawhi (28.0 PPG) como ancla. Racha de 3L de LAC engañosa — tuvieron calendario difícil. Descanso + ventaja de local da a LAC margen de +7.3pts.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
