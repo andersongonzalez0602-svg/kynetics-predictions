@@ -1,6 +1,6 @@
 {
   "game_date": "2026-03-08",
-  "committed_at": "2026-03-15T17:20:18.707Z",
+  "committed_at": "2026-03-15T17:21:07.907Z",
   "games": [
     {
       "home": {
@@ -231,8 +231,8 @@
         "head_to_head": "MIL 1-1 ORL"
       },
       "result": {
-        "actual_result": "home",
-        "correct": false
+        "actual_result": "away",
+        "correct": true
       },
       "meta": {
         "game_time": "8:00 PM EST",
