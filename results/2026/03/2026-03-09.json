@@ -1,0 +1,177 @@
+{
+  "game_date": "2026-03-09",
+  "published_at": "2026-03-15T17:45:29.418Z",
+  "type": "results",
+  "games": [
+    {
+      "home": {
+        "name": "LA Clippers",
+        "abbr": "LAC",
+        "record": "31-32",
+        "color": "#C8102E",
+        "streak": "W1",
+        "last5": "WLWWW"
+      },
+      "away": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "41-24",
+        "color": "#006BB6",
+        "streak": "L1",
+        "last5": "LWLWW"
+      },
+      "prediction": {
+        "home_win_pct": 51.5,
+        "away_win_pct": 48.5,
+        "reason": "A true 50-50 game. The Knicks have the better record and power rating, and already beat the Clippers once this season. But LA is at home, has been playing well lately (3 wins in last 4), and the Clippers' defense has been solid recently. Both teams are rested. Everyone — our model, ESPN, and the market — sees this as essentially a coin flip. Could go either way.",
+        "reason_es": "Un verdadero partido 50-50. Los Knicks tienen mejor récord y power rating, y ya vencieron a los Clippers una vez esta temporada. Pero LA está en casa, ha jugado bien últimamente (3 victorias en últimos 4), y la defensa de los Clippers ha sido sólida recientemente. Ambos equipos descansados. Todos — nuestro modelo, ESPN y el mercado — lo ven esencialmente como moneda al aire. Podría ir para cualquier lado.",
+        "head_to_head": "LAC 0-1 NYK"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "16-47",
+        "color": "#000000",
+        "streak": "W1",
+        "last5": "WLLLL"
+      },
+      "away": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "23-39",
+        "color": "#5D76A9",
+        "streak": "L3",
+        "last5": "LLLWW"
+      },
+      "prediction": {
+        "home_win_pct": 38.2,
+        "away_win_pct": 61.8,
+        "reason": "Two struggling teams, but Memphis is clearly the better one. The Grizzlies played last night and traveled nearly 1,000 miles, which is the main thing working against them. Brooklyn is 8-22 at home and has been outscored by 12 points per game over their last 10. Memphis already beat them once this season. The market sees this as a near toss-up (BKN +1), but we think Memphis's talent edge is more significant than the fatigue factor.",
+        "reason_es": "Dos equipos en dificultades, pero Memphis es claramente el mejor. Los Grizzlies jugaron anoche y viajaron casi 1,000 millas, que es lo principal en su contra. Brooklyn va 8-22 en casa y ha sido superado por 12 puntos por partido en sus últimos 10. Memphis ya los venció una vez esta temporada. El mercado lo ve casi parejo (BKN +1), pero creemos que la ventaja de talento de Memphis es más significativa que el factor fatiga.",
+        "head_to_head": "MEM 1-0 BKN"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "6:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "record": "50-15",
+        "color": "#007AC1",
+        "streak": "W5",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "39-25",
+        "color": "#0E2240",
+        "streak": "L1",
+        "last5": "LWWLL"
+      },
+      "prediction": {
+        "home_win_pct": 67.5,
+        "away_win_pct": 32.5,
+        "reason": "OKC is on a 5-game win streak and is 26-7 at home — the best home record in the NBA. They played last night but SGA has been unstoppable. Denver traveled 500 miles and Jamal Murray is questionable. The Nuggets are 0-2 against OKC this season and their recent form has been shaky. Jalen Williams is out for OKC, but their depth is deep enough to handle it. This is the Thunder's house.",
+        "reason_es": "OKC lleva 5 victorias seguidas y va 26-7 en casa — el mejor récord de local de la NBA. Jugaron anoche pero SGA ha estado imparable. Denver viajó 500 millas y Jamal Murray es cuestionable. Los Nuggets van 0-2 contra OKC esta temporada y su forma reciente ha sido inestable. Jalen Williams está fuera para OKC, pero su profundidad es suficiente para manejarlo. Esta es la casa del Thunder.",
+        "head_to_head": "OKC 2-0 DEN"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "3:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "39-25",
+        "color": "#6F263D",
+        "streak": "L1",
+        "last5": "LWWLL"
+      },
+      "away": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "34-29",
+        "color": "#006BB6",
+        "streak": "L1",
+        "last5": "LWLLW"
+      },
+      "prediction": {
+        "home_win_pct": 78.5,
+        "away_win_pct": 21.5,
+        "reason": "Philadelphia is missing Embiid, Maxey, and George is questionable — that's their entire core. Cleveland is at home where they're 21-12 and has already swept the season series 3-0 against Philly. The Cavs played last night, but against a team this depleted, fatigue barely matters. ESPN and the market both agree this is heavily Cleveland.",
+        "reason_es": "Philadelphia no tiene a Embiid, Maxey, y George es cuestionable — es todo su núcleo. Cleveland está en casa donde van 21-12 y ya barrió la serie de temporada 3-0 contra Philly. Los Cavs jugaron anoche, pero contra un equipo tan diezmado, la fatiga apenas importa. ESPN y el mercado coinciden en que esto es fuertemente Cleveland.",
+        "head_to_head": "CLE 3-0 PHI"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "6:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Utah Jazz",
+        "abbr": "UTA",
+        "record": "19-45",
+        "color": "#002B5C",
+        "streak": "L1",
+        "last5": "LWLLL"
+      },
+      "away": {
+        "name": "Golden State Warriors",
+        "abbr": "GSW",
+        "record": "32-31",
+        "color": "#1D428A",
+        "streak": "L1",
+        "last5": "LWLLW"
+      },
+      "prediction": {
+        "home_win_pct": 37.5,
+        "away_win_pct": 62.5,
+        "reason": "Utah has the altitude advantage at home and our model sees this closer than most. But Golden State is 3-0 against the Jazz this season and has Curry leading the way. Utah is missing Markkanen, Nurkic, and Kessler — a gutted frontcourt. Golden State is also missing Porzingis, but their core is intact. ESPN sees this as a bigger GSW win (72%), we're more conservative at 62% given Utah's home altitude bump.",
+        "reason_es": "Utah tiene la ventaja de altitud en casa y nuestro modelo lo ve más cerrado que la mayoría. Pero Golden State va 3-0 contra el Jazz esta temporada y tiene a Curry liderando. Utah no tiene a Markkanen, Nurkic ni Kessler — un frontcourt destruido. Golden State también pierde a Porzingis, pero su núcleo está intacto. ESPN lo ve como una victoria más grande de GSW (72%), nosotros somos más conservadores en 62% dado el bono de altitud de Utah en casa.",
+        "head_to_head": "UTA 0-3 GSW"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
