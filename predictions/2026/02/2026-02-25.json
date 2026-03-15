@@ -1,0 +1,193 @@
+{
+  "game_date": "2026-02-25",
+  "published_at": "2026-03-15T17:35:03.961Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "record": "35-21",
+        "color": "#CE1141",
+        "streak": "W1",
+        "last5": null
+      },
+      "away": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "13-46",
+        "color": "#5A2D81",
+        "streak": "W1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 92,
+        "away_win_pct": 8,
+        "reason": "Massive mismatch (+17.5 expected margin). HOU dominates at home against a SAC team missing Domantas Sabonis.",
+        "reason_es": null,
+        "head_to_head": "Rockets 2-1"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "25-31",
+        "color": "#00471B",
+        "streak": "W1",
+        "last5": null
+      },
+      "away": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "37-22",
+        "color": "#860038",
+        "streak": "W1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 22,
+        "away_win_pct": 78,
+        "reason": "Both teams are on a B2B, but MIL suffers tremendously without Giannis Antetokounmpo (-5.7 impact).",
+        "reason_es": null,
+        "head_to_head": "Cavaliers 2-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "36-22",
+        "color": "#0E2240",
+        "streak": "L1",
+        "last5": null
+      },
+      "away": {
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "38-19",
+        "color": "#007A33",
+        "streak": "W4",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 67,
+        "away_win_pct": 33,
+        "reason": "DEN enjoys a 3-day rest advantage. BOS is playing a B2B in high altitude and missing Jayson Tatum (-5.2 pts).",
+        "reason_es": null,
+        "head_to_head": "Celtics 1-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "11:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Toronto Raptors",
+        "abbr": "TOR",
+        "record": "34-24",
+        "color": "#CE1141",
+        "streak": "L1",
+        "last5": null
+      },
+      "away": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "41-16",
+        "color": "#000000",
+        "streak": "W9",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 21,
+        "away_win_pct": 79,
+        "reason": "SAS is red-hot on a 9-game win streak. TOR is playing a B2B and has a -7.6 talent differential against the Spurs.",
+        "reason_es": null,
+        "head_to_head": "Raptors 1-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "42-14",
+        "color": "#C8102E",
+        "streak": "L1",
+        "last5": null
+      },
+      "away": {
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "record": "45-14",
+        "color": "#007AC1",
+        "streak": "W3",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 82,
+        "away_win_pct": 18,
+        "reason": "OKC is on a B2B without SGA (-5.7 pts) and Jalen Williams. DET holds a massive +11.9 expected margin.",
+        "reason_es": null,
+        "head_to_head": "Tied 0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "21-35",
+        "color": "#5D76A9",
+        "streak": "L2",
+        "last5": null
+      },
+      "away": {
+        "name": "Golden State Warriors",
+        "abbr": "GSW",
+        "record": "30-28",
+        "color": "#1D428A",
+        "streak": "L1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 64,
+        "away_win_pct": 36,
+        "reason": "High value alert. The market overvalues GSW, who are playing on a B2B without Stephen Curry (-4.3 pts).",
+        "reason_es": null,
+        "head_to_head": "Grizzlies 2-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    }
+  ]
+}
