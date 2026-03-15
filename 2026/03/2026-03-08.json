@@ -1,6 +1,6 @@
 {
   "game_date": "2026-03-08",
-  "committed_at": "2026-03-15T17:21:07.907Z",
+  "committed_at": "2026-03-15T17:21:09.499Z",
   "games": [
     {
       "home": {
@@ -208,40 +208,6 @@
     },
     {
       "home": {
-        "name": "Milwaukee Bucks",
-        "abbr": "MIL",
-        "record": "27-35",
-        "color": "#00471B",
-        "streak": "W1",
-        "last5": "WLLLL"
-      },
-      "away": {
-        "name": "Orlando Magic",
-        "abbr": "ORL",
-        "record": "34-28",
-        "color": "#0077C0",
-        "streak": "W3",
-        "last5": "WWWLL"
-      },
-      "prediction": {
-        "home_win_pct": 40.2,
-        "away_win_pct": 59.8,
-        "reason": "Orlando has won 3 straight and has been the better team recently, even without Franz Wagner. Milwaukee played last night and has been struggling badly — getting outscored by over 2 points per game in their last 10. Giannis is questionable which makes this even trickier. The Magic are 1-1 against the Bucks this season and their defense has been elite lately. Milwaukee's home court is the only thing keeping this close.",
-        "reason_es": "Orlando ha ganado 3 seguidos y ha sido el mejor equipo recientemente, incluso sin Franz Wagner. Milwaukee jugó anoche y ha estado luchando mucho — siendo superados por más de 2 puntos por partido en sus últimos 10. Giannis es cuestionable lo que hace esto aún más complicado. Los Magic van 1-1 contra los Bucks esta temporada y su defensa ha sido élite últimamente. La localía de Milwaukee es lo único que mantiene esto cerrado.",
-        "head_to_head": "MIL 1-1 ORL"
-      },
-      "result": {
-        "actual_result": "away",
-        "correct": true
-      },
-      "meta": {
-        "game_time": "8:00 PM EST",
-        "is_featured": false,
-        "is_value_pick": false
-      }
-    },
-    {
-      "home": {
         "name": "San Antonio Spurs",
         "abbr": "SAS",
         "record": "46-17",
@@ -338,6 +304,40 @@
       },
       "meta": {
         "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "27-35",
+        "color": "#00471B",
+        "streak": "W1",
+        "last5": "WLLLL"
+      },
+      "away": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "34-28",
+        "color": "#0077C0",
+        "streak": "W3",
+        "last5": "WWWLL"
+      },
+      "prediction": {
+        "home_win_pct": 40.2,
+        "away_win_pct": 59.8,
+        "reason": "Orlando has won 3 straight and has been the better team recently, even without Franz Wagner. Milwaukee played last night and has been struggling badly — getting outscored by over 2 points per game in their last 10. Giannis is questionable which makes this even trickier. The Magic are 1-1 against the Bucks this season and their defense has been elite lately. Milwaukee's home court is the only thing keeping this close.",
+        "reason_es": "Orlando ha ganado 3 seguidos y ha sido el mejor equipo recientemente, incluso sin Franz Wagner. Milwaukee jugó anoche y ha estado luchando mucho — siendo superados por más de 2 puntos por partido en sus últimos 10. Giannis es cuestionable lo que hace esto aún más complicado. Los Magic van 1-1 contra los Bucks esta temporada y su defensa ha sido élite últimamente. La localía de Milwaukee es lo único que mantiene esto cerrado.",
+        "head_to_head": "MIL 1-1 ORL"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
         "is_featured": false,
         "is_value_pick": false
       }
