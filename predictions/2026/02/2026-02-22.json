@@ -1,0 +1,38 @@
+{
+  "game_date": "2026-02-22",
+  "published_at": "2026-03-15T17:34:57.294Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "record": "35-18",
+        "color": "#CE1141",
+        "streak": "W4",
+        "last5": "WWLWW"
+      },
+      "away": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "22-30",
+        "color": "#000000",
+        "streak": "L2",
+        "last5": "LLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 72.3,
+        "away_win_pct": 27.7,
+        "reason": "HOU 4-game win streak at home. BKN 3-9 in last 12 away.",
+        "reason_es": "HOU racha de 4 victorias en casa. BKN 3-9 en últimos 12 de visitante.",
+        "head_to_head": "Rockets 2-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
