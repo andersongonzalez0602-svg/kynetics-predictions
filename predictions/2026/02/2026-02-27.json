@@ -1,0 +1,162 @@
+{
+  "game_date": "2026-02-27",
+  "published_at": "2026-03-15T17:35:08.766Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "21-37",
+        "color": "#00538C",
+        "streak": "L1",
+        "last5": "LWLWL"
+      },
+      "away": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "21-36",
+        "color": "#5D76A9",
+        "streak": "L3",
+        "last5": "WLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 48.8,
+        "away_win_pct": 51.2,
+        "reason": "True toss-up. DAL playing B2B but has home court. Both teams struggling. MEM slight edge on power rating. Margin just -0.6pts.",
+        "reason_es": "Partido parejo. DAL juega B2B pero es local. Ambos equipos en mala racha. MEM ligera ventaja en poder. Margen de solo -0.6pts.",
+        "head_to_head": "DAL 2-0 MEM"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "26-31",
+        "color": "#00471B",
+        "streak": "W2",
+        "last5": "WLWWW"
+      },
+      "away": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "37-22",
+        "color": "#F58426",
+        "streak": "L1",
+        "last5": "WLWWL"
+      },
+      "prediction": {
+        "home_win_pct": 33.4,
+        "away_win_pct": 66.6,
+        "reason": "Giannis OUT (-5.7pts) swings this hard. NYK 37-22 overall vs MIL 26-31. Expected margin NYK +4.0pts despite being away.",
+        "reason_es": "Giannis OUT (-5.7pts) cambia todo. NYK 37-22 global vs MIL 26-31. Margen esperado NYK +4.0pts a pesar de ser visitante.",
+        "head_to_head": "NYK 1-1 MIL"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "38-20",
+        "color": "#007A33",
+        "streak": "L1",
+        "last5": "LWWWL"
+      },
+      "away": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "15-43",
+        "color": "#000000",
+        "streak": "L6",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 89.8,
+        "away_win_pct": 10.2,
+        "reason": "BOS 18-9 at home. BKN on 6-game losing streak and playing B2B. Tatum OUT but BOS still heavily favored (+14.8pts margin).",
+        "reason_es": "BOS 18-9 en casa. BKN en racha de 6 derrotas y jugando B2B. Tatum OUT pero BOS sigue siendo amplio favorito (margen +14.8pts).",
+        "head_to_head": "BKN 2-1 BOS"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "43-14",
+        "color": "#C8102E",
+        "streak": "W1",
+        "last5": "WLWWW"
+      },
+      "away": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "37-23",
+        "color": "#860038",
+        "streak": "L1",
+        "last5": "WLWWL"
+      },
+      "prediction": {
+        "home_win_pct": 76.6,
+        "away_win_pct": 23.4,
+        "reason": "DET dominant at home (22-7). CLE without Donovan Mitchell (-3.8pts). DET expected margin +9.0pts.",
+        "reason_es": "DET dominante en casa (22-7). CLE sin Donovan Mitchell (-3.8pts). Margen esperado DET +9.0pts.",
+        "head_to_head": "DET 1-1 CLE"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "record": "45-15",
+        "color": "#007AC1",
+        "streak": "L1",
+        "last5": "WWLWL"
+      },
+      "away": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "37-22",
+        "color": "#0E2240",
+        "streak": "W1",
+        "last5": "WLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 73,
+        "away_win_pct": 27,
+        "reason": "OKC best home record in NBA (24-6). DEN without Aaron Gordon (-1.9pts), Murray GTD. Jalen Williams OUT for OKC but still strong +6.7pts margin.",
+        "reason_es": "OKC mejor récord local de la NBA (24-6). DEN sin Aaron Gordon (-1.9pts), Murray en duda. Jalen Williams OUT para OKC pero aún con margen de +6.7pts.",
+        "head_to_head": "DEN 1-0 OKC"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": true
+      }
+    }
+  ]
+}
