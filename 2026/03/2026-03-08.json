@@ -1,38 +1,38 @@
 {
   "game_date": "2026-03-08",
-  "committed_at": "2026-03-15T17:06:31.178Z",
+  "committed_at": "2026-03-15T17:20:18.707Z",
   "games": [
     {
       "home": {
-        "name": "Cleveland Cavaliers",
-        "abbr": "CLE",
-        "record": "39-24",
-        "color": "#6F263D",
-        "streak": "W2",
-        "last5": "WWLLW"
+        "name": "Toronto Raptors",
+        "abbr": "TOR",
+        "record": "35-27",
+        "color": "#CE1141",
+        "streak": "L2",
+        "last5": "LLWLL"
       },
       "away": {
-        "name": "Boston Celtics",
-        "abbr": "BOS",
-        "record": "42-21",
-        "color": "#007A33",
-        "streak": "W1",
-        "last5": "WLWWW"
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "21-42",
+        "color": "#00538C",
+        "streak": "L6",
+        "last5": "LLLLL"
       },
       "prediction": {
-        "home_win_pct": 52.8,
-        "away_win_pct": 47.2,
-        "reason": "This is as close as it gets. Boston played last night and traveled 550 miles, while Cleveland has been resting for 3 days. But here's the catch — Donovan Mitchell and Jarrett Allen are both out for the Cavs, which is a huge blow. Boston has beaten Cleveland twice already this season and has been outscoring teams by over 9 points per game recently. The rest advantage barely edges out the injury losses. True toss-up.",
-        "reason_es": "Esto es lo más cerrado posible. Boston jugó anoche y viajó 550 millas, mientras Cleveland lleva 3 días descansando. Pero aquí está el detalle — Donovan Mitchell y Jarrett Allen están fuera para los Cavs, lo cual es un golpe enorme. Boston ha vencido a Cleveland dos veces esta temporada y ha superado a sus rivales por más de 9 puntos por partido recientemente. La ventaja de descanso apenas supera las pérdidas por lesiones. Verdadero toss-up.",
-        "head_to_head": "CLE 0-2 BOS"
+        "home_win_pct": 76.5,
+        "away_win_pct": 23.5,
+        "reason": "Dallas is in complete freefall — 6 straight losses with margins of -20, -1, -27, and -13. Kyrie Irving is out and they played last night. Toronto hasn't been great lately (2 straight losses) but they're at home and the talent gap is massive. The Raptors are 16-16 at home which isn't dominant, but against a 7-23 road team missing its best player, this should be comfortable.",
+        "reason_es": "Dallas está en caída libre total — 6 derrotas seguidas con márgenes de -20, -1, -27 y -13. Kyrie Irving está fuera y jugaron anoche. Toronto no ha estado genial últimamente (2 derrotas seguidas) pero están en casa y la brecha de talento es enorme. Los Raptors van 16-16 en casa lo cual no es dominante, pero contra un equipo 7-23 de visitante sin su mejor jugador, esto debería ser cómodo.",
+        "head_to_head": "TOR 0-1 DAL"
       },
       "result": {
-        "actual_result": null,
-        "correct": null
+        "actual_result": "home",
+        "correct": true
       },
       "meta": {
-        "game_time": "3:00 PM EST",
-        "is_featured": true,
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
         "is_value_pick": false
       }
     },
@@ -61,8 +61,8 @@
         "head_to_head": "MIA 1-1 DET"
       },
       "result": {
-        "actual_result": null,
-        "correct": null
+        "actual_result": "home",
+        "correct": true
       },
       "meta": {
         "game_time": "6:00 PM EST",
@@ -72,35 +72,35 @@
     },
     {
       "home": {
-        "name": "Toronto Raptors",
-        "abbr": "TOR",
-        "record": "35-27",
-        "color": "#CE1141",
-        "streak": "L2",
-        "last5": "LLWLL"
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "39-24",
+        "color": "#6F263D",
+        "streak": "W2",
+        "last5": "WWLLW"
       },
       "away": {
-        "name": "Dallas Mavericks",
-        "abbr": "DAL",
-        "record": "21-42",
-        "color": "#00538C",
-        "streak": "L6",
-        "last5": "LLLLL"
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "42-21",
+        "color": "#007A33",
+        "streak": "W1",
+        "last5": "WLWWW"
       },
       "prediction": {
-        "home_win_pct": 76.5,
-        "away_win_pct": 23.5,
-        "reason": "Dallas is in complete freefall — 6 straight losses with margins of -20, -1, -27, and -13. Kyrie Irving is out and they played last night. Toronto hasn't been great lately (2 straight losses) but they're at home and the talent gap is massive. The Raptors are 16-16 at home which isn't dominant, but against a 7-23 road team missing its best player, this should be comfortable.",
-        "reason_es": "Dallas está en caída libre total — 6 derrotas seguidas con márgenes de -20, -1, -27 y -13. Kyrie Irving está fuera y jugaron anoche. Toronto no ha estado genial últimamente (2 derrotas seguidas) pero están en casa y la brecha de talento es enorme. Los Raptors van 16-16 en casa lo cual no es dominante, pero contra un equipo 7-23 de visitante sin su mejor jugador, esto debería ser cómodo.",
-        "head_to_head": "TOR 0-1 DAL"
+        "home_win_pct": 52.8,
+        "away_win_pct": 47.2,
+        "reason": "This is as close as it gets. Boston played last night and traveled 550 miles, while Cleveland has been resting for 3 days. But here's the catch — Donovan Mitchell and Jarrett Allen are both out for the Cavs, which is a huge blow. Boston has beaten Cleveland twice already this season and has been outscoring teams by over 9 points per game recently. The rest advantage barely edges out the injury losses. True toss-up.",
+        "reason_es": "Esto es lo más cerrado posible. Boston jugó anoche y viajó 550 millas, mientras Cleveland lleva 3 días descansando. Pero aquí está el detalle — Donovan Mitchell y Jarrett Allen están fuera para los Cavs, lo cual es un golpe enorme. Boston ha vencido a Cleveland dos veces esta temporada y ha superado a sus rivales por más de 9 puntos por partido recientemente. La ventaja de descanso apenas supera las pérdidas por lesiones. Verdadero toss-up.",
+        "head_to_head": "CLE 0-2 BOS"
       },
       "result": {
-        "actual_result": null,
-        "correct": null
+        "actual_result": "home",
+        "correct": true
       },
       "meta": {
-        "game_time": "7:30 PM EST",
-        "is_featured": false,
+        "game_time": "3:00 PM EST",
+        "is_featured": true,
         "is_value_pick": false
       }
     },
@@ -129,114 +129,12 @@
         "head_to_head": "NOP 1-0 WAS"
       },
       "result": {
-        "actual_result": null,
-        "correct": null
+        "actual_result": "home",
+        "correct": true
       },
       "meta": {
         "game_time": "7:00 PM EST",
         "is_featured": false,
-        "is_value_pick": false
-      }
-    },
-    {
-      "home": {
-        "name": "Milwaukee Bucks",
-        "abbr": "MIL",
-        "record": "27-35",
-        "color": "#00471B",
-        "streak": "W1",
-        "last5": "WLLLL"
-      },
-      "away": {
-        "name": "Orlando Magic",
-        "abbr": "ORL",
-        "record": "34-28",
-        "color": "#0077C0",
-        "streak": "W3",
-        "last5": "WWWLL"
-      },
-      "prediction": {
-        "home_win_pct": 40.2,
-        "away_win_pct": 59.8,
-        "reason": "Orlando has won 3 straight and has been the better team recently, even without Franz Wagner. Milwaukee played last night and has been struggling badly — getting outscored by over 2 points per game in their last 10. Giannis is questionable which makes this even trickier. The Magic are 1-1 against the Bucks this season and their defense has been elite lately. Milwaukee's home court is the only thing keeping this close.",
-        "reason_es": "Orlando ha ganado 3 seguidos y ha sido el mejor equipo recientemente, incluso sin Franz Wagner. Milwaukee jugó anoche y ha estado luchando mucho — siendo superados por más de 2 puntos por partido en sus últimos 10. Giannis es cuestionable lo que hace esto aún más complicado. Los Magic van 1-1 contra los Bucks esta temporada y su defensa ha sido élite últimamente. La localía de Milwaukee es lo único que mantiene esto cerrado.",
-        "head_to_head": "MIL 1-1 ORL"
-      },
-      "result": {
-        "actual_result": null,
-        "correct": null
-      },
-      "meta": {
-        "game_time": "8:00 PM EST",
-        "is_featured": false,
-        "is_value_pick": false
-      }
-    },
-    {
-      "home": {
-        "name": "Sacramento Kings",
-        "abbr": "SAC",
-        "record": "14-50",
-        "color": "#5A2D81",
-        "streak": "L3",
-        "last5": "LLLWL"
-      },
-      "away": {
-        "name": "Chicago Bulls",
-        "abbr": "CHI",
-        "record": "26-37",
-        "color": "#CE1141",
-        "streak": "W1",
-        "last5": "WLWLL"
-      },
-      "prediction": {
-        "home_win_pct": 35.8,
-        "away_win_pct": 64.2,
-        "reason": "Sacramento has the worst record in the NBA and it keeps getting worse. Sabonis and Keegan Murray are both out, leaving the Kings with a skeleton crew. Chicago isn't great either — they're missing Simons — but they already beat Sacramento once this season and are the better team right now. The market sees this as a near toss-up (SAC +2.5), but we think Chicago's talent edge is clearer than that.",
-        "reason_es": "Sacramento tiene el peor récord de la NBA y sigue empeorando. Sabonis y Keegan Murray están fuera, dejando a los Kings con un roster esqueleto. Chicago tampoco es gran cosa — no tienen a Simons — pero ya vencieron a Sacramento una vez esta temporada y son el mejor equipo ahora mismo. El mercado lo ve casi parejo (SAC +2.5), pero creemos que la ventaja de talento de Chicago es más clara que eso.",
-        "head_to_head": "SAC 0-1 CHI"
-      },
-      "result": {
-        "actual_result": null,
-        "correct": null
-      },
-      "meta": {
-        "game_time": "10:00 PM EST",
-        "is_featured": false,
-        "is_value_pick": false
-      }
-    },
-    {
-      "home": {
-        "name": "Phoenix Suns",
-        "abbr": "PHX",
-        "record": "36-27",
-        "color": "#1D1160",
-        "streak": "W1",
-        "last5": "WLWWL"
-      },
-      "away": {
-        "name": "Charlotte Hornets",
-        "abbr": "CHA",
-        "record": "32-32",
-        "color": "#1D1160",
-        "streak": "L1",
-        "last5": "LWWWW"
-      },
-      "prediction": {
-        "home_win_pct": 38.5,
-        "away_win_pct": 61.5,
-        "reason": "Charlotte has been one of the best teams in the league over the last 10 games — outscoring opponents by nearly 9 points per game. Phoenix has been the opposite, getting outscored by 4 points per game recently. The Hornets traveled over 1,700 miles, which is the main thing holding them back. But their recent form is so much better that even on the road in Phoenix, Charlotte is the pick. Booker and Durant need to figure something out.",
-        "reason_es": "Charlotte ha sido uno de los mejores equipos de la liga en los últimos 10 partidos — superando a rivales por casi 9 puntos por partido. Phoenix ha sido lo opuesto, siendo superados por 4 puntos por partido recientemente. Los Hornets viajaron más de 1,700 millas, lo cual es lo principal que los frena. Pero su forma reciente es tan superior que incluso de visitante en Phoenix, Charlotte es la elección. Booker y Durant necesitan resolver algo.",
-        "head_to_head": "0-0"
-      },
-      "result": {
-        "actual_result": null,
-        "correct": null
-      },
-      "meta": {
-        "game_time": "10:00 PM EST",
-        "is_featured": true,
         "is_value_pick": false
       }
     },
@@ -265,12 +163,80 @@
         "head_to_head": "LAL 0-1 NYK"
       },
       "result": {
-        "actual_result": null,
-        "correct": null
+        "actual_result": "home",
+        "correct": false
       },
       "meta": {
         "game_time": "3:30 PM EST",
         "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "36-27",
+        "color": "#1D1160",
+        "streak": "W1",
+        "last5": "WLWWL"
+      },
+      "away": {
+        "name": "Charlotte Hornets",
+        "abbr": "CHA",
+        "record": "32-32",
+        "color": "#1D1160",
+        "streak": "L1",
+        "last5": "LWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 38.5,
+        "away_win_pct": 61.5,
+        "reason": "Charlotte has been one of the best teams in the league over the last 10 games — outscoring opponents by nearly 9 points per game. Phoenix has been the opposite, getting outscored by 4 points per game recently. The Hornets traveled over 1,700 miles, which is the main thing holding them back. But their recent form is so much better that even on the road in Phoenix, Charlotte is the pick. Booker and Durant need to figure something out.",
+        "reason_es": "Charlotte ha sido uno de los mejores equipos de la liga en los últimos 10 partidos — superando a rivales por casi 9 puntos por partido. Phoenix ha sido lo opuesto, siendo superados por 4 puntos por partido recientemente. Los Hornets viajaron más de 1,700 millas, lo cual es lo principal que los frena. Pero su forma reciente es tan superior que incluso de visitante en Phoenix, Charlotte es la elección. Booker y Durant necesitan resolver algo.",
+        "head_to_head": "0-0"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "27-35",
+        "color": "#00471B",
+        "streak": "W1",
+        "last5": "WLLLL"
+      },
+      "away": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "34-28",
+        "color": "#0077C0",
+        "streak": "W3",
+        "last5": "WWWLL"
+      },
+      "prediction": {
+        "home_win_pct": 40.2,
+        "away_win_pct": 59.8,
+        "reason": "Orlando has won 3 straight and has been the better team recently, even without Franz Wagner. Milwaukee played last night and has been struggling badly — getting outscored by over 2 points per game in their last 10. Giannis is questionable which makes this even trickier. The Magic are 1-1 against the Bucks this season and their defense has been elite lately. Milwaukee's home court is the only thing keeping this close.",
+        "reason_es": "Orlando ha ganado 3 seguidos y ha sido el mejor equipo recientemente, incluso sin Franz Wagner. Milwaukee jugó anoche y ha estado luchando mucho — siendo superados por más de 2 puntos por partido en sus últimos 10. Giannis es cuestionable lo que hace esto aún más complicado. Los Magic van 1-1 contra los Bucks esta temporada y su defensa ha sido élite últimamente. La localía de Milwaukee es lo único que mantiene esto cerrado.",
+        "head_to_head": "MIL 1-1 ORL"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
         "is_value_pick": false
       }
     },
@@ -335,6 +301,40 @@
       "result": {
         "actual_result": "home",
         "correct": true
+      },
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "14-50",
+        "color": "#5A2D81",
+        "streak": "L3",
+        "last5": "LLLWL"
+      },
+      "away": {
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "record": "26-37",
+        "color": "#CE1141",
+        "streak": "W1",
+        "last5": "WLWLL"
+      },
+      "prediction": {
+        "home_win_pct": 35.8,
+        "away_win_pct": 64.2,
+        "reason": "Sacramento has the worst record in the NBA and it keeps getting worse. Sabonis and Keegan Murray are both out, leaving the Kings with a skeleton crew. Chicago isn't great either — they're missing Simons — but they already beat Sacramento once this season and are the better team right now. The market sees this as a near toss-up (SAC +2.5), but we think Chicago's talent edge is clearer than that.",
+        "reason_es": "Sacramento tiene el peor récord de la NBA y sigue empeorando. Sabonis y Keegan Murray están fuera, dejando a los Kings con un roster esqueleto. Chicago tampoco es gran cosa — no tienen a Simons — pero ya vencieron a Sacramento una vez esta temporada y son el mejor equipo ahora mismo. El mercado lo ve casi parejo (SAC +2.5), pero creemos que la ventaja de talento de Chicago es más clara que eso.",
+        "head_to_head": "SAC 0-1 CHI"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": false
       },
       "meta": {
         "game_time": "10:00 PM EST",
