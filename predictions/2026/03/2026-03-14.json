@@ -1,0 +1,224 @@
+{
+  "game_date": "2026-03-14",
+  "published_at": "2026-03-15T17:35:42.435Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Atlanta Hawks",
+        "abbr": "ATL",
+        "record": "35-31",
+        "color": "#E03A3E",
+        "streak": "W8",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "27-38",
+        "color": "#00471B",
+        "streak": "L3",
+        "last5": "LLLWL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "ATL is on an 8-game win streak, averaging +13 points over their last 4. MIL has lost 3 straight and traveled 605 miles. Giannis is questionable. This is a trap game for Milwaukee — ATL at home is one of the hottest teams in the East right now.",
+        "reason_es": "ATL lleva 8 victorias seguidas, promediando +13 puntos en sus últimos 4 juegos. MIL ha perdido 3 seguidos y viajó 605 millas. Giannis es dudoso. Atlanta en casa es uno de los equipos más calientes del Este.",
+        "head_to_head": "Split 1-1"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "1:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Miami Heat",
+        "abbr": "MIA",
+        "record": "38-29",
+        "color": "#98002E",
+        "streak": "W7",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "37-28",
+        "color": "#0077C0",
+        "streak": "W6",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 73,
+        "away_win_pct": 27,
+        "reason": "Best game of the day — two teams on long win streaks colliding in Miami. MIA leads in power rating and scoring average, and has the home court edge. ORL owns the H2H at 4-0 but MIA has Franz Wagner out on their side too. The Heat at home on a 7-game streak is the pick.",
+        "reason_es": "El mejor juego del día — dos equipos en rachas largas. MIA lidera en rating y promedio de puntos, además tiene ventaja en casa. ORL domina el H2H 4-0 pero Miami en casa con 7 victorias seguidas es la apuesta.",
+        "head_to_head": "ORL 4-0 vs MIA"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "35-31",
+        "color": "#006BB6",
+        "streak": "L1",
+        "last5": "LWLLW"
+      },
+      "away": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "17-49",
+        "color": "#000000",
+        "streak": "L2",
+        "last5": "LLWWL"
+      },
+      "prediction": {
+        "home_win_pct": 67,
+        "away_win_pct": 33,
+        "reason": "PHI has a significant power rating edge at home. BKN is one of the worst road teams in the league at 8-26 away. With Embiid out, PHI relies on the group, but BKN is missing key players too — Claxton and Sharpe both out.",
+        "reason_es": "PHI tiene una ventaja clara en casa. BKN es uno de los peores equipos de visitante con 8-26. Aunque Embiid está fuera, BKN también tiene bajas importantes — Claxton y Sharpe no juegan.",
+        "head_to_head": "PHI 2-1 vs BKN"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "1:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "LA Clippers",
+        "abbr": "LAC",
+        "record": "34-32",
+        "color": "#C8102E",
+        "streak": "W4",
+        "last5": "WWWWL"
+      },
+      "away": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "16-51",
+        "color": "#5A2D81",
+        "streak": "L1",
+        "last5": "LWWLL"
+      },
+      "prediction": {
+        "home_win_pct": 87,
+        "away_win_pct": 13,
+        "reason": "SAC is the worst away team in the league at 5-28 on the road. LAC has a 10+ point power rating edge and is at home on a 4-game streak. Sacramento is missing Keegan Murray, Carter, Eubanks, and Hunter. LAC is on a back-to-back but the mismatch is too large to overcome.",
+        "reason_es": "SAC tiene el peor récord de visitante de la liga con 5-28. LAC tiene una ventaja de más de 10 puntos en rating y juega en casa con 4 victorias seguidas. Sacramento está sin Murray, Carter, Eubanks y Hunter. Gran ventaja para LAC.",
+        "head_to_head": "LAC 2-0 vs SAC"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "48-18",
+        "color": "#C4CED4",
+        "streak": "L1",
+        "last5": "LWWWW"
+      },
+      "away": {
+        "name": "Charlotte Hornets",
+        "abbr": "CHA",
+        "record": "34-33",
+        "color": "#1D1160",
+        "streak": "W2",
+        "last5": "WWLLW"
+      },
+      "prediction": {
+        "home_win_pct": 58,
+        "away_win_pct": 42,
+        "reason": "Toss-up game. SAS is the better team on paper with the best home record in the league at 25-7, but they're on a back-to-back and Wembanyama is questionable. CHA traveled 1,459 miles but has won 2 straight. Low confidence — either team can win this.",
+        "reason_es": "Partido parejo. SAS es mejor sobre el papel con el mejor récord en casa de la liga (25-7), pero juegan en back-to-back y Wembanyama es dudoso. CHA viajó 1.459 millas pero lleva 2 victorias seguidas. Baja confianza.",
+        "head_to_head": "CHA 1-0 vs SAS"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "3:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "43-23",
+        "color": "#007A33",
+        "streak": "L2",
+        "last5": "LLWWL"
+      },
+      "away": {
+        "name": "Washington Wizards",
+        "abbr": "WAS",
+        "record": "16-49",
+        "color": "#002B5C",
+        "streak": "L10",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "WAS is on a 10-game losing streak and is 5-27 on the road — worst away record in the league. BOS is on a back-to-back but the talent gap is massive. Washington is also missing Anthony Davis, Russell, and Whitmore. This is a near-lock for Boston.",
+        "reason_es": "WAS lleva 10 derrotas seguidas y tiene 5-27 de visitante — el peor récord de la liga. BOS juega en back-to-back pero la diferencia de talento es enorme. Washington además no tiene a Davis, Russell ni Whitmore. Boston casi seguro.",
+        "head_to_head": "BOS 2-0 vs WAS"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "6:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "41-25",
+        "color": "#552583",
+        "streak": "W4",
+        "last5": "WWWWL"
+      },
+      "away": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "41-26",
+        "color": "#0E2240",
+        "streak": "W2",
+        "last5": "WWLLW"
+      },
+      "prediction": {
+        "home_win_pct": 77,
+        "away_win_pct": 23,
+        "reason": "LAL on a 4-game win streak at home against a Denver team that has been inconsistent lately — losing 2 of their last 5 including a 39-point blowout loss. LAL's last 10 margin is +8.2 vs DEN's +0.3. Jamal Murray and Aaron Gordon both questionable for Denver.",
+        "reason_es": "LAL en racha de 4 victorias en casa contra un Denver irregular — perdiendo 2 de sus últimos 5 incluyendo una derrota por 39. El margen de LAL en últimos 10 es +8.2 vs +0.3 de DEN. Murray y Gordon son dudosos.",
+        "head_to_head": "Split 1-1"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    }
+  ]
+}
