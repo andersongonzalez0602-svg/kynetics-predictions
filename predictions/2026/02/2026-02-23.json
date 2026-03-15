@@ -1,0 +1,100 @@
+{
+  "game_date": "2026-02-23",
+  "published_at": "2026-03-15T17:34:59.460Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "record": "34-21",
+        "color": "#CE1141",
+        "streak": "L1",
+        "last5": null
+      },
+      "away": {
+        "name": "Utah Jazz",
+        "abbr": "UTA",
+        "record": "18-39",
+        "color": "#002B5C",
+        "streak": "-",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "HOU dominates with a massive +13.4 expected margin. UTA is severely short-handed missing Lauri Markkanen and Walker Kessler.",
+        "reason_es": null,
+        "head_to_head": "Tied 1-1"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "21-34",
+        "color": "#5D76A9",
+        "streak": "L1",
+        "last5": null
+      },
+      "away": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "12-46",
+        "color": "#5A2D81",
+        "streak": "L16",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 77,
+        "away_win_pct": 23,
+        "reason": "SAC is enduring a brutal 16-game losing streak (3-26 Away). MEM holds a solid +5.6 power rating advantage.",
+        "reason_es": null,
+        "head_to_head": "Kings 3-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "42-13",
+        "color": "#C8102E",
+        "streak": "W5",
+        "last5": null
+      },
+      "away": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "40-16",
+        "color": "#000000",
+        "streak": "W8",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 58,
+        "away_win_pct": 42,
+        "reason": "Elite matchup. DET gets the edge (+2.0 expected margin) primarily due to home court and SAS's heavy 1,236-mile travel.",
+        "reason_es": null,
+        "head_to_head": "Tied 0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": true
+      }
+    }
+  ]
+}
