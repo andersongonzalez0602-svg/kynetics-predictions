@@ -1,0 +1,317 @@
+{
+  "game_date": "2026-03-03",
+  "published_at": "2026-03-15T17:35:14.829Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "31-28",
+        "color": "#0077C0",
+        "streak": "L2",
+        "last5": "LLWWL"
+      },
+      "away": {
+        "name": "Washington Wizards",
+        "abbr": "WAS",
+        "record": "16-44",
+        "color": "#002B5C",
+        "streak": "L5",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 91.7,
+        "away_win_pct": 8.3,
+        "reason": "Washington is in freefall — 5 straight losses, an ugly 2-8 L10, and they're on a back-to-back with a depleted roster. Orlando has home court at the Kia Center and despite losing Franz Wagner, their +2.7 margin and superior depth should overwhelm the league's second-worst team. The Wizards' 5-23 road record tells the whole story.",
+        "reason_es": "Washington está en caída libre — 5 derrotas seguidas, un feo 2-8 en L10, y juegan en back-to-back con plantilla reducida. Orlando tiene ventaja de local en el Kia Center y a pesar de perder a Franz Wagner, su margen de +2.7 y mayor profundidad deberían superar al segundo peor equipo de la liga. El récord de 5-23 como visitante de los Wizards dice todo.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Charlotte Hornets",
+        "abbr": "CHA",
+        "record": "30-31",
+        "color": "#1D1160",
+        "streak": "W4",
+        "last5": "WWWWL"
+      },
+      "away": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "21-39",
+        "color": "#00538C",
+        "streak": "L3",
+        "last5": "LLLWW"
+      },
+      "prediction": {
+        "home_win_pct": 92.3,
+        "away_win_pct": 7.7,
+        "reason": "Charlotte is rolling with 4 straight wins and a dominant 7-3 L10 record, outscoring opponents by +7.2 per game. Dallas arrives decimated — Kyrie Irving is OUT alongside Klay Thompson and Naji Marshall, and the Mavs have dropped 3 straight with a brutal 2-8 L10. Home court at Spectrum Center plus CHA's well-rested squad make this a massive mismatch.",
+        "reason_es": "Charlotte llega con 4 victorias consecutivas y un dominante 7-3 en los últimos 10, superando rivales por +7.2 puntos por juego. Dallas llega diezmado — Kyrie Irving está OUT junto a Klay Thompson y Naji Marshall, y los Mavs han perdido 3 seguidos con un terrible 2-8 en L10. La ventaja de local en el Spectrum Center y el descanso de CHA hacen de esto un desbalance total.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "38-24",
+        "color": "#6F263D",
+        "streak": "W1",
+        "last5": "WLLWL"
+      },
+      "away": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "45-14",
+        "color": "#C8102E",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "prediction": {
+        "home_win_pct": 30,
+        "away_win_pct": 70,
+        "reason": "Detroit owns the league's best record at 45-14 and brings a 3-game win streak with an 8-2 L10 and +7.6 margin. Cleveland is missing Donovan Mitchell, their offensive engine, which significantly levels the playing field. The Pistons already lead the season series 2-1 and their fully healthy roster gives them a clear edge even on the road.",
+        "reason_es": "Detroit tiene el mejor récord de la liga con 45-14 y trae una racha de 3 victorias con 8-2 en L10 y +7.6 de margen. Cleveland está sin Donovan Mitchell, su motor ofensivo, lo que nivela significativamente el campo. Los Pistons ya lideran la serie 2-1 y su plantilla completamente sana les da una ventaja clara incluso de visitante.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Miami Heat",
+        "abbr": "MIA",
+        "record": "32-29",
+        "color": "#98002E",
+        "streak": "W1",
+        "last5": "WLLWW"
+      },
+      "away": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "15-45",
+        "color": "#000000",
+        "streak": "L8",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 90.5,
+        "away_win_pct": 9.5,
+        "reason": "Brooklyn is on a nightmarish 8-game losing streak with a 2-8 L10 and -7.4 average margin — the league's worst active skid. Miami is well-rested with 3 days off at home in the Kaseya Center, where they're 18-11. Despite some Heat injuries, the talent gap is enormous and BKN's 7-23 road record offers no hope.",
+        "reason_es": "Brooklyn está en una racha de pesadilla con 8 derrotas seguidas, 2-8 en L10 y -7.4 de margen promedio — la peor racha activa de la liga. Miami descansó 3 días en casa en el Kaseya Center, donde tienen récord de 18-11. A pesar de algunas lesiones del Heat, la diferencia de talento es enorme y el récord de 7-23 como visitante de BKN no ofrece esperanza.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Toronto Raptors",
+        "abbr": "TOR",
+        "record": "35-25",
+        "color": "#CE1141",
+        "streak": "W1",
+        "last5": "WLLWW"
+      },
+      "away": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "39-22",
+        "color": "#006BB6",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "prediction": {
+        "home_win_pct": 55.7,
+        "away_win_pct": 44.3,
+        "reason": "This is a coin-flip matchup between two strong Eastern Conference squads. Toronto gets the slight edge with home court at Scotiabank Arena and a solid +4.4 L10 margin, but New York is 3-0 in the season series and riding a 2-game win streak. ESPN BPI actually favors the Knicks at 64.7%, making this the most unpredictable game of the night.",
+        "reason_es": "Este es un enfrentamiento parejo entre dos fuertes equipos del Este. Toronto tiene ligera ventaja con su cancha y un sólido margen de +4.4 en L10, pero New York va 3-0 en la serie de temporada y lleva racha de 2 victorias. ESPN BPI favorece a los Knicks con 64.7%, haciendo este el juego más impredecible de la noche.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "33-27",
+        "color": "#006BB6",
+        "streak": "L1",
+        "last5": "LWWWL"
+      },
+      "away": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "43-17",
+        "color": "#C4CED4",
+        "streak": "L1",
+        "last5": "LWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 10.7,
+        "away_win_pct": 89.3,
+        "reason": "San Antonio is the second-best team in the league at 43-17 with a scorching 9-1 L10 and +10.2 margin — elite numbers. Philly is missing Joel Embiid and has a concerning 4-6 L10 with a -3.2 margin, plus Paul George is questionable. The Spurs' firepower led by Wembanyama should dominate a shorthanded Sixers squad even in Philadelphia.",
+        "reason_es": "San Antonio es el segundo mejor equipo de la liga con 43-17, un ardiente 9-1 en L10 y +10.2 de margen — números de élite. Filadelfia está sin Joel Embiid y tiene un preocupante 4-6 en L10 con -3.2 de margen, además Paul George es duda. La potencia de los Spurs liderada por Wembanyama debería dominar a unos Sixers mermados incluso en Filadelfia.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "record": "25-36",
+        "color": "#CE1141",
+        "streak": "W1",
+        "last5": "WLLLL"
+      },
+      "away": {
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "record": "47-15",
+        "color": "#007AC1",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "prediction": {
+        "home_win_pct": 18.9,
+        "away_win_pct": 81.1,
+        "reason": "OKC has the league's best record at 47-15 and even without Shai Gilgeous-Alexander, their depth and 22-8 road record make them dominant. Chicago is in shambles with a 1-9 L10 and -9.7 margin, the worst recent form in the NBA. The Bulls' roster is also banged up with 5 players out, making this a mismatch on both ends of the floor.",
+        "reason_es": "OKC tiene el mejor récord de la liga con 47-15 y aún sin Shai Gilgeous-Alexander, su profundidad y récord de 22-8 como visitante los hace dominantes. Chicago está en ruinas con 1-9 en L10 y -9.7 de margen, la peor forma reciente de la NBA. La plantilla de los Bulls también está golpeada con 5 jugadores fuera, haciendo esto un desbalance en ambos lados de la cancha.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "38-23",
+        "color": "#0C2340",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "away": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "23-36",
+        "color": "#5D76A9",
+        "streak": "W2",
+        "last5": "WWLLL"
+      },
+      "prediction": {
+        "home_win_pct": 86.7,
+        "away_win_pct": 13.3,
+        "reason": "Minnesota is surging with 3 straight wins and a 7-3 L10, fully healthy and playing at home in Target Center where they're 20-11. Memphis is missing Zach Edey and Santi Aldama, gutting their frontcourt, and their 3-7 L10 with -3.0 margin shows a team in decline. The Wolves' complete roster advantage should lead to a comfortable home victory.",
+        "reason_es": "Minnesota viene con 3 victorias seguidas y 7-3 en L10, completamente sano y jugando en casa en el Target Center donde tienen 20-11. Memphis está sin Zach Edey y Santi Aldama, destrozando su juego interior, y su 3-7 en L10 con -3.0 de margen muestra un equipo en declive. La ventaja de plantilla completa de los Wolves debería llevar a una cómoda victoria en casa.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "36-24",
+        "color": "#552583",
+        "streak": "W2",
+        "last5": "WWLLL"
+      },
+      "away": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "19-43",
+        "color": "#0C2340",
+        "streak": "L1",
+        "last5": "LWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 83.6,
+        "away_win_pct": 16.4,
+        "reason": "The Lakers own a perfect 3-0 season series against New Orleans and are riding a 2-game win streak at Crypto.com Arena. Despite NOP's surprising 4-game win streak in their L5, their 19-43 overall record and 8-22 road mark tell the real story. LA's 50% FG shooting leads the matchup and Zion Williamson is questionable, further tipping the scales.",
+        "reason_es": "Los Lakers tienen una serie perfecta de 3-0 contra New Orleans y llevan racha de 2 victorias en el Crypto.com Arena. A pesar de la sorprendente racha de 4 victorias de NOP en sus últimos 5, su récord general de 19-43 y 8-22 como visitante cuentan la historia real. El 50% de tiro de campo de LA lidera el enfrentamiento y Zion Williamson es duda, inclinando aún más la balanza.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "14-48",
+        "color": "#5A2D81",
+        "streak": "L1",
+        "last5": "LWLWL"
+      },
+      "away": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "34-26",
+        "color": "#1D1160",
+        "streak": "W1",
+        "last5": "WLLWL"
+      },
+      "prediction": {
+        "home_win_pct": 13.8,
+        "away_win_pct": 86.2,
+        "reason": "Sacramento is having a historically bad season at 14-48 and just lost Domantas Sabonis, their best player. Phoenix has won all 3 meetings this season, comes in with 4 days of rest, and despite their own inconsistency, the talent gap is simply too wide. SAC's 9-20 home record offers no sanctuary against a Suns team looking to secure playoff positioning.",
+        "reason_es": "Sacramento está teniendo una temporada históricamente mala con 14-48 y acaba de perder a Domantas Sabonis, su mejor jugador. Phoenix ha ganado los 3 enfrentamientos de la temporada, llega con 4 días de descanso, y a pesar de su propia inconsistencia, la diferencia de talento es demasiado grande. El récord de 9-20 en casa de SAC no ofrece refugio contra unos Suns que buscan asegurar posición en playoffs.",
+        "head_to_head": ""
+      },
+      "result": null,
+      "meta": {
+        "game_time": "TBD",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
