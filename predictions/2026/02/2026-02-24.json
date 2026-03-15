@@ -1,0 +1,348 @@
+{
+  "game_date": "2026-02-24",
+  "published_at": "2026-03-15T17:35:01.806Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Toronto Raptors",
+        "abbr": "TOR",
+        "record": "34-23",
+        "color": "#CE1141",
+        "streak": "W2",
+        "last5": null
+      },
+      "away": {
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "record": "44-14",
+        "color": "#007AC1",
+        "streak": "W2",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 63,
+        "away_win_pct": 37,
+        "reason": "OKC severely weakened without SGA (-5.7 pts) and on a 1,116-mile trip. TOR gets the +4.6 edge.",
+        "reason_es": null,
+        "head_to_head": "Thunder 1-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "record": "24-34",
+        "color": "#CE1141",
+        "streak": "L8",
+        "last5": null
+      },
+      "away": {
+        "name": "Charlotte Hornets",
+        "abbr": "CHA",
+        "record": "27-31",
+        "color": "#1D1160",
+        "streak": "W1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 26,
+        "away_win_pct": 74,
+        "reason": "CHI is free-falling on an 8-game losing streak. CHA takes advantage of a -9.0 talent differential.",
+        "reason_es": null,
+        "head_to_head": "Bulls 2-1"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "24-31",
+        "color": "#00471B",
+        "streak": "L1",
+        "last5": null
+      },
+      "away": {
+        "name": "Miami Heat",
+        "abbr": "MIA",
+        "record": "31-27",
+        "color": "#98002E",
+        "streak": "W3",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 29,
+        "away_win_pct": 71,
+        "reason": "MIL struggles heavily without Giannis (-5.7). MIA rides a 3-game win streak with a solid +3.6 power rating.",
+        "reason_es": null,
+        "head_to_head": "Bucks 1-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "16-42",
+        "color": "#0C2340",
+        "streak": "W1",
+        "last5": null
+      },
+      "away": {
+        "name": "Golden State Warriors",
+        "abbr": "GSW",
+        "record": "30-27",
+        "color": "#1D428A",
+        "streak": "W1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 70,
+        "away_win_pct": 30,
+        "reason": "Massive injury edge for NOP. GSW is missing Steph Curry and Porzingis (-7.1 combined impact).",
+        "reason_es": null,
+        "head_to_head": "Pelicans 2-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "33-25",
+        "color": "#1D1160",
+        "streak": "L1",
+        "last5": null
+      },
+      "away": {
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "37-19",
+        "color": "#007A33",
+        "streak": "W3",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 41,
+        "away_win_pct": 59,
+        "reason": "Despite missing Jayson Tatum (-5.2), BOS maintains a strong +6.8 power rating against an inconsistent PHX.",
+        "reason_es": null,
+        "head_to_head": "Tied 0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "record": "28-30",
+        "color": "#E03A3E",
+        "streak": "W1",
+        "last5": null
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "35-23",
+        "color": "#0C2340",
+        "streak": "L1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 22,
+        "away_win_pct": 78,
+        "reason": "POR is gutted by injuries including Lillard and Simons (-6.9 impact). MIN holds a massive talent edge.",
+        "reason_es": null,
+        "head_to_head": "Timberwolves 2-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "11:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "34-22",
+        "color": "#552583",
+        "streak": "L1",
+        "last5": null
+      },
+      "away": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "30-26",
+        "color": "#0077C0",
+        "streak": "W1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 72,
+        "away_win_pct": 28,
+        "reason": "ORL suffers a setback missing Franz Wagner (-3.3 pts). LAL controls the expected margin (+6.9) at home.",
+        "reason_es": null,
+        "head_to_head": "Tied 0-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "11:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-43",
+        "color": "#FDBB30",
+        "streak": "L3",
+        "last5": null
+      },
+      "away": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "31-26",
+        "color": "#006BB6",
+        "streak": "W1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 50,
+        "away_win_pct": 50,
+        "reason": "True Toss-Up (PHI 50.2%). PHI is missing Joel Embiid (-4.8 pts), but IND is struggling on a 3-game skid.",
+        "reason_es": null,
+        "head_to_head": "Pacers 2-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Atlanta Hawks",
+        "abbr": "ATL",
+        "record": "28-31",
+        "color": "#E03A3E",
+        "streak": "W1",
+        "last5": null
+      },
+      "away": {
+        "name": "Washington Wizards",
+        "abbr": "WAS",
+        "record": "16-40",
+        "color": "#002B5C",
+        "streak": "L1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 91,
+        "away_win_pct": 9,
+        "reason": "WAS is decimated by injuries (-8.4 impact). ATL holds a massive +15.5 expected margin at home.",
+        "reason_es": null,
+        "head_to_head": "Tied 1-1"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "15-41",
+        "color": "#000000",
+        "streak": "L4",
+        "last5": null
+      },
+      "away": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "20-36",
+        "color": "#00538C",
+        "streak": "W1",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 64,
+        "away_win_pct": 36,
+        "reason": "Huge value alert. Market heavily undervalues BKN. DAL is missing Kyrie Irving and Cooper Flagg.",
+        "reason_es": null,
+        "head_to_head": "Nets 2-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "36-22",
+        "color": "#860038",
+        "streak": "L1",
+        "last5": null
+      },
+      "away": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "37-21",
+        "color": "#F58426",
+        "streak": "W2",
+        "last5": null
+      },
+      "prediction": {
+        "home_win_pct": 64,
+        "away_win_pct": 36,
+        "reason": "CLE boasts a +6.0 power rating and home-court advantage to overcome a hot NYK team.",
+        "reason_es": null,
+        "head_to_head": "Knicks 2-0"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
