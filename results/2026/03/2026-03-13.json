@@ -1,0 +1,279 @@
+{
+  "game_date": "2026-03-13",
+  "published_at": "2026-03-15T17:45:25.132Z",
+  "type": "results",
+  "games": [
+    {
+      "home": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-51",
+        "color": "#002D62",
+        "streak": "L11",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "42-25",
+        "color": "#006BB6",
+        "streak": "W1",
+        "last5": "WLLWL"
+      },
+      "prediction": {
+        "home_win_pct": 14.2,
+        "away_win_pct": 85.8,
+        "reason": "Indiana is on an 11-game losing streak and one of the worst teams in the league right now. Jalen Brunson and the Knicks are rolling — New York won by 39 points just a few days ago. The Pacers are missing Ivica Zubac and Pascal Siakam is questionable. This is a mismatch on every level.",
+        "reason_es": "Indiana lleva 11 derrotas consecutivas y es uno de los peores equipos de la liga ahora mismo. Jalen Brunson y los Knicks están en racha — Nueva York ganó por 39 puntos hace unos días. Los Pacers no tienen a Ivica Zubac y Pascal Siakam es dudoso. Esto es un desajuste en todos los niveles.",
+        "head_to_head": "NYK 1-1 IND"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Toronto Raptors",
+        "abbr": "TOR",
+        "record": "36-29",
+        "color": "#CE1141",
+        "streak": "L2",
+        "last5": "LLWLL"
+      },
+      "away": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "39-27",
+        "color": "#1D1160",
+        "streak": "W4",
+        "last5": "WWWWL"
+      },
+      "prediction": {
+        "home_win_pct": 49.7,
+        "away_win_pct": 50.3,
+        "reason": "This is as close to a coin flip as it gets. Phoenix is on a 4-game win streak but both teams are on back-to-back. Scottie Barnes is questionable for Toronto and Devin Booker has been carrying Phoenix all week. The models agree — both teams are nearly identical tonight. Slight edge to the Suns based on recent form.",
+        "reason_es": "Esto es lo más cercano a cara o cruz que existe. Phoenix llega con 4 victorias seguidas pero ambos equipos juegan de back-to-back. Scottie Barnes es dudoso para Toronto y Devin Booker ha llevado a Phoenix toda la semana. Los modelos coinciden — ambos equipos son casi idénticos esta noche. Ligera ventaja para los Suns por su forma reciente.",
+        "head_to_head": "-"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "LA Clippers",
+        "abbr": "LAC",
+        "record": "33-32",
+        "color": "#C8102E",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "away": {
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "record": "27-39",
+        "color": "#CE1141",
+        "streak": "L1",
+        "last5": "LWLWL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "Kawhi Leonard is putting up 28 points a game and the Clippers are on a 3-game win streak. Chicago is playing back-to-back and missing Collin Sexton and Anfernee Simons. Josh Giddey has been solid but the Bulls on zero rest traveling to the Intuit Dome against a healthy Clippers team is a bad spot. LA takes care of business at home.",
+        "reason_es": "Kawhi Leonard anota 28 puntos por partido y los Clippers llevan 3 victorias seguidas. Chicago juega de back-to-back y no tiene a Collin Sexton ni a Anfernee Simons. Josh Giddey ha sido sólido pero los Bulls sin descanso viajando al Intuit Dome contra un Clippers sano es una mala situación. LA resuelve en casa.",
+        "head_to_head": "CHI 1-0 LAC"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "10:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Golden State Warriors",
+        "abbr": "GSW",
+        "record": "32-33",
+        "color": "#1D428A",
+        "streak": "L3",
+        "last5": "LLLWL"
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "40-26",
+        "color": "#236192",
+        "streak": "L3",
+        "last5": "LLLWW"
+      },
+      "prediction": {
+        "home_win_pct": 24.2,
+        "away_win_pct": 75.8,
+        "reason": "Golden State is without Stephen Curry AND Jimmy Butler III tonight — that's over 7 points of injury impact gone from their lineup. Anthony Edwards is playing some of the best basketball of his career right now. The Warriors are a .500 team even healthy; shorthanded at home against Minnesota, this is Minnesota's game to lose.",
+        "reason_es": "Golden State no tiene a Stephen Curry NI a Jimmy Butler III esta noche — son más de 7 puntos de impacto por lesión eliminados de su alineación. Anthony Edwards está jugando el mejor baloncesto de su carrera ahora mismo. Los Warriors son un equipo de .500 incluso sanos; sin sus estrellas en casa contra Minnesota, este es el partido de Minnesota.",
+        "head_to_head": "MIN 2-1 GSW"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "47-18",
+        "color": "#C8102E",
+        "streak": "W2",
+        "last5": "WWLLL"
+      },
+      "away": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "23-42",
+        "color": "#5D76A9",
+        "streak": "L5",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 80.5,
+        "away_win_pct": 19.5,
+        "reason": "Detroit is playing back-to-back but they're still the far better team here. Memphis has lost 5 in a row and is traveling without several key rotation pieces. Cade Cunningham is averaging 10 assists a game and the Pistons are 25-8 at home. Ja Morant's team just isn't healthy enough to take advantage of a tired Detroit squad tonight.",
+        "reason_es": "Detroit juega de back-to-back pero sigue siendo el mejor equipo. Memphis lleva 5 derrotas seguidas y viaja sin varios jugadores clave. Cade Cunningham promedia 10 asistencias por partido y los Pistons son 25-8 en casa. El equipo de Ja Morant simplemente no está lo suficientemente sano para aprovechar un Detroit cansado esta noche.",
+        "head_to_head": "MEM 0-1 DET"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "record": "40-25",
+        "color": "#CE1141",
+        "streak": "L1",
+        "last5": "LWLWL"
+      },
+      "away": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "22-45",
+        "color": "#0C2340",
+        "streak": "W2",
+        "last5": "WWLWL"
+      },
+      "prediction": {
+        "home_win_pct": 63.1,
+        "away_win_pct": 36.9,
+        "reason": "Kevin Durant is averaging nearly 26 points a game for Houston and the Rockets are 22-8 at home. New Orleans has actually played well recently — 2-game win streak — but they're 9-24 on the road this season. Alperen Sengun is questionable which complicates things. Houston should get this done at home but it won't be easy.",
+        "reason_es": "Kevin Durant promedia casi 26 puntos por partido para Houston y los Rockets son 22-8 en casa. Nueva Orleans ha jugado bien últimamente — racha de 2 victorias — pero son 9-24 fuera esta temporada. Alperen Sengun es dudoso lo que complica las cosas. Houston debería ganar en casa pero no será fácil.",
+        "head_to_head": "NOP 1-1 HOU"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "22-44",
+        "color": "#00538C",
+        "streak": "L8",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "40-26",
+        "color": "#860038",
+        "streak": "L1",
+        "last5": "LWLWW"
+      },
+      "prediction": {
+        "home_win_pct": 18.1,
+        "away_win_pct": 81.9,
+        "reason": "Dallas is on an 8-game losing streak and still without Kyrie Irving and Dereck Lively II. Donovan Mitchell is putting up 28 points a night and Cleveland is the better team by a wide margin. Cooper Flagg is the one bright spot for the Mavs but he can't carry this alone against a Cavs team hungry to bounce back.",
+        "reason_es": "Dallas lleva 8 derrotas seguidas y sigue sin Kyrie Irving y Dereck Lively II. Donovan Mitchell anota 28 puntos por noche y Cleveland es el mejor equipo por amplio margen. Cooper Flagg es el único punto positivo para los Mavs pero no puede cargar solo contra un Cleveland que busca rebotar.",
+        "head_to_head": "-"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "record": "31-35",
+        "color": "#E03A3E",
+        "streak": "L1",
+        "last5": "LWLWL"
+      },
+      "away": {
+        "name": "Utah Jazz",
+        "abbr": "UTA",
+        "record": "20-46",
+        "color": "#002B5C",
+        "streak": "L1",
+        "last5": "LWLWL"
+      },
+      "prediction": {
+        "home_win_pct": 73.5,
+        "away_win_pct": 26.5,
+        "reason": "Utah is missing Lauri Markkanen, Jaren Jackson Jr., Jusuf Nurkic, and Keyonte George — basically their entire starting lineup. Deni Avdija is putting up 24 points a game for Portland and the Blazers are at home with 2 days rest. Utah is 0-3 against Portland this season. The Jazz are in full tank mode.",
+        "reason_es": "Utah no tiene a Lauri Markkanen, Jaren Jackson Jr., Jusuf Nurkic ni Keyonte George — básicamente toda su alineación titular. Deni Avdija anota 24 puntos por partido para Portland y los Blazers juegan en casa con 2 días de descanso. Utah es 0-3 contra Portland esta temporada. Los Jazz están en modo tanking total.",
+        "head_to_head": "UTA 0-3 POR"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
