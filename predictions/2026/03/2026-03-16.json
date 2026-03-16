@@ -1,0 +1,255 @@
+{
+  "game_date": "2026-03-16",
+  "published_at": "2026-03-16T22:40:43.308Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Atlanta Hawks",
+        "abbr": "ATL",
+        "record": "36-31",
+        "color": "#C1272D",
+        "streak": "W9",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "38-28",
+        "color": "#0077C0",
+        "streak": "W7",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 81.7,
+        "away_win_pct": 18.3,
+        "reason": "Two teams on hot streaks collide in Atlanta, but the Hawks have the clear edge here. Orlando is playing on a back-to-back, just traveled 600 miles, and is missing Franz Wagner — their best scorer — along with two other rotation players. Jalen Johnson (23.0 PPG, 10.4 RPG, 8.0 APG) is playing at an All-Star level and Atlanta has been dominant at home lately, winning by double digits across their last four games. The market is sleeping on Atlanta at -3.0, making this a strong value play.",
+        "reason_es": "Dos equipos en racha se enfrentan en Atlanta, pero los Hawks tienen la ventaja clara. Orlando juega en el segundo partido de un back-to-back, viajó más de 900 km y llega sin Franz Wagner — su mejor anotador — además de otros dos jugadores de rotación. Jalen Johnson (23.0 puntos, 10.4 rebotes y 8.0 asistencias por partido) está jugando a nivel All-Star y Atlanta ha sido dominante en casa, ganando por dos dígitos en sus últimos cuatro partidos. El mercado duerme con Atlanta en -3.0, lo que lo convierte en una apuesta de gran valor.",
+        "head_to_head": "ORL 0-2 ATL"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Washington Wizards",
+        "abbr": "WAS",
+        "record": "16-50",
+        "color": "#002B5C",
+        "streak": "L11",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Golden State Warriors",
+        "abbr": "GSW",
+        "record": "32-35",
+        "color": "#1D428A",
+        "streak": "L4",
+        "last5": "LLLLW"
+      },
+      "prediction": {
+        "home_win_pct": 20,
+        "away_win_pct": 80,
+        "reason": "Washington is one of the worst teams in the league right now — on an 11-game losing streak and missing Anthony Davis, Alex Sarr, and D'Angelo Russell all at once. Golden State isn't playing great ball either, but they're a far superior roster and get a significant boost from Washington's depleted lineup. Trae Young (13.8 PPG) won't be enough to overcome a talent gap this wide. Golden State wins this one comfortably despite their recent struggles.",
+        "reason_es": "Washington es uno de los peores equipos de la liga ahora mismo — en una racha de 11 derrotas seguidas y sin Anthony Davis, Alex Sarr ni D'Angelo Russell. Golden State tampoco está en su mejor momento, pero es un plantel muy superior y se beneficia enormemente de las bajas de Washington. Trae Young (13.8 puntos por partido) no alcanzará para cerrar una diferencia de talento tan grande. Los Warriors ganan este partido con comodidad a pesar de su racha reciente.",
+        "head_to_head": "No H2H data"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "17-50",
+        "color": "#000000",
+        "streak": "L3",
+        "last5": "LLLWW"
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "record": "32-36",
+        "color": "#E03A3E",
+        "streak": "L1",
+        "last5": "LWLWL"
+      },
+      "prediction": {
+        "home_win_pct": 42.4,
+        "away_win_pct": 57.6,
+        "reason": "Portland is the better team on paper, but this game comes with a big asterisk — the Blazers are on a back-to-back and missing Damian Lillard and Shaedon Sharpe, their two best offensive players. Brooklyn has lost 3 straight but gets home court and extra rest. Deni Avdija (24.1 PPG) will need to carry a heavy load for Portland to win. We lean the Blazers, but this is a low-confidence pick — Vegas has Portland as a massive -11.5 favorite which feels too steep given the injuries.",
+        "reason_es": "Portland es el mejor equipo sobre papel, pero este partido tiene una advertencia importante — los Blazers juegan en back-to-back y llegan sin Damian Lillard ni Shaedon Sharpe, sus dos mejores jugadores ofensivos. Brooklyn lleva 3 derrotas seguidas pero juega en casa con descanso extra. Deni Avdija (24.1 puntos por partido) tendrá que cargarse el equipo al hombro. Nos inclinamos por los Blazers, pero es un pick de baja confianza — la línea de -11.5 para Portland parece exagerada dadas las bajas.",
+        "head_to_head": "No H2H data"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "44-23",
+        "color": "#007A33",
+        "streak": "W1",
+        "last5": "WLLWW"
+      },
+      "away": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "39-28",
+        "color": "#1D1160",
+        "streak": "L1",
+        "last5": "LWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 68.8,
+        "away_win_pct": 31.2,
+        "reason": "This is the marquee matchup of the night — Jaylen Brown (28.2 PPG) vs Devin Booker (25.4 PPG) at TD Garden. Boston is a legitimate title contender playing at home with a 22-10 home record, and their advantages in rebounding and frontcourt depth will be a problem for Phoenix all night. The Suns have won 4 of their last 5 and come in with real momentum, but Boston simply has more firepower and homecourt. Expect a competitive game that the Celtics pull away in the fourth.",
+        "reason_es": "Este es el partido estelar de la noche — Jaylen Brown (28.2 puntos por partido) frente a Devin Booker (25.4 puntos) en el TD Garden. Boston es un serio candidato al título jugando en casa con un récord de 22-10 como local, y sus ventajas en rebotes y profundidad de plantilla serán un problema para Phoenix durante toda la noche. Los Suns llegan con momentum ganando 4 de sus últimos 5, pero Boston simplemente tiene más arsenal y ventaja de cancha. Espera un partido competitivo que los Celtics resolverán en el cuarto periodo.",
+        "head_to_head": "PHX 0-1 BOS"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "record": "27-40",
+        "color": "#CE1141",
+        "streak": "L2",
+        "last5": "LLWLW"
+      },
+      "away": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "23-43",
+        "color": "#5D76A9",
+        "streak": "L7",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 51.7,
+        "away_win_pct": 48.3,
+        "reason": "This is the closest game on today's slate — two struggling teams that are virtually identical in power rating. Memphis has lost 7 straight and is missing several key players including Anfernee Simons, while Chicago's key injury is Jaden Ivey being out. Josh Giddey (18.0 PPG, 8.8 APG) gives the Bulls a slight edge at home, but don't expect a masterpiece. This is a coin flip — if you're betting, look elsewhere tonight.",
+        "reason_es": "Este es el partido más igualado de la jornada — dos equipos en dificultades que son prácticamente idénticos en poder. Memphis lleva 7 derrotas consecutivas y llega sin varios jugadores clave incluyendo Anfernee Simons, mientras que Chicago pierde a Jaden Ivey. Josh Giddey (18.0 puntos y 8.8 asistencias por partido) le da a los Bulls una ligera ventaja en casa, pero no esperes un partido de alta calidad. Es una moneda al aire — si vas a apostar esta noche, busca otro partido.",
+        "head_to_head": "No H2H data"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "22-46",
+        "color": "#0C2340",
+        "streak": "L1",
+        "last5": "LWWLW"
+      },
+      "away": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "23-45",
+        "color": "#00538C",
+        "streak": "W2",
+        "last5": "WWLLL"
+      },
+      "prediction": {
+        "home_win_pct": 81.2,
+        "away_win_pct": 18.8,
+        "reason": "Dallas is in bad shape — Kyrie Irving is out again, Dereck Lively II is out, and they're 9-25 on the road this season. New Orleans has been playing much better lately, going 6-4 in their last 10 with a +3.3 average margin, and Trey Murphy III (21.9 PPG) has been their offensive engine. The Pelicans are at home with extra rest and the clear talent advantage in this matchup. Cooper Flagg (20.2 PPG) will compete hard, but it won't be enough. New Orleans wins this convincingly.",
+        "reason_es": "Dallas llega en malas condiciones — Kyrie Irving vuelve a estar fuera, Dereck Lively II también está descartado y llevan récord de 9-25 como visitante esta temporada. New Orleans ha jugado mucho mejor últimamente, con récord de 6-4 en sus últimos 10 partidos y un margen promedio de +3.3, y Trey Murphy III (21.9 puntos por partido) ha sido su motor ofensivo. Los Pelicans juegan en casa con más descanso y tienen la ventaja de talento clara. Cooper Flagg (20.2 puntos) competirá duro, pero no será suficiente. New Orleans gana este partido con comodidad.",
+        "head_to_head": "DAL 1-2 NOP"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "record": "41-25",
+        "color": "#CE1141",
+        "streak": "W1",
+        "last5": "WLWLW"
+      },
+      "away": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "42-25",
+        "color": "#552583",
+        "streak": "W5",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 35.8,
+        "away_win_pct": 64.2,
+        "reason": "This is the best game of the night and our biggest contrarian pick — Vegas has Houston as a -2 home favorite, but our model strongly disagrees. Luka Doncic (32.8 PPG) is on a 5-game win streak and the Lakers are the hotter team right now, going 8-2 in their last 10. LA also shoots 50% from the field, the best mark in this matchup by far. Kevin Durant (26.0 PPG) will make it competitive, but Alperen Sengun is questionable and Houston's supporting cast can't match LA's depth. Lakers win on the road.",
+        "reason_es": "Este es el mejor partido de la noche y nuestro pick más contrarian — Las Vegas tiene a Houston como favorito en casa por -2, pero nuestro modelo discrepa fuertemente. Luka Doncic (32.8 puntos por partido) viene en una racha de 5 victorias seguidas y los Lakers son el equipo con más momentum ahora mismo, con récord de 8-2 en sus últimos 10. Los Lakers también anotan con el 50% desde el campo, el mejor porcentaje en este duelo por mucho. Kevin Durant (26.0 puntos) lo hará competitivo, pero Alperen Sengun es duda y el elenco de Houston no puede igualar la profundidad de Los Ángeles. Los Lakers ganan de visitante.",
+        "head_to_head": "LAL 0-1 HOU"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "LA Clippers",
+        "abbr": "LAC",
+        "record": "34-33",
+        "color": "#C8102E",
+        "streak": "L1",
+        "last5": "LWWWW"
+      },
+      "away": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "49-18",
+        "color": "#C4CED4",
+        "streak": "W1",
+        "last5": "WLWWW"
+      },
+      "prediction": {
+        "home_win_pct": 35.7,
+        "away_win_pct": 64.3,
+        "reason": "San Antonio is one of the best teams in the NBA this season at 49-18, and Victor Wembanyama (24.3 PPG, 11.2 RPG) is a walking mismatch for any defense in the league. The Clippers are dealing with major absences — Kawhi Leonard and Bradley Beal are both out — and Darius Garland (19.0 PPG) won't be enough to slow down the Spurs' elite offense. San Antonio also has extra rest and wins the rebounding battle by nearly 6 boards per game. Wemby and the Spurs take this one on the road.",
+        "reason_es": "San Antonio es uno de los mejores equipos de la NBA esta temporada (49-18) y Victor Wembanyama (24.3 puntos y 11.2 rebotes por partido) es un desajuste constante para cualquier defensa de la liga. Los Clippers llegan con bajas importantes — Kawhi Leonard y Bradley Beal están ambos fuera — y Darius Garland (19.0 puntos por partido) no será suficiente para frenar el ataque de élite de los Spurs. San Antonio también llega con más descanso y gana el duelo de rebotes por casi 6 por partido. Wemby y los Spurs se llevan este partido de visitante.",
+        "head_to_head": "SAS 1-0 LAC"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
