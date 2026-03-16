@@ -1,0 +1,245 @@
+{
+  "game_date": "2026-03-15",
+  "published_at": "2026-03-16T22:03:27.318Z",
+  "type": "results",
+  "games": [
+    {
+      "home": {
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "record": "52-15",
+        "color": "#007AC1",
+        "streak": "W7",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "41-26",
+        "color": "#0C2340",
+        "streak": "W1",
+        "last5": "WLLLW"
+      },
+      "prediction": {
+        "home_win_pct": 67.5,
+        "away_win_pct": 32.5,
+        "reason": "OKC enters this one riding a 7-game win streak and boasting the best home record in the league at 28-7. Minnesota is playing on a back-to-back and just traveled over 1,300 miles, which is a brutal combination late in the season. With Jalen Williams already ruled out and OKC still clicking on all cylinders, the Thunder are the clear play here.",
+        "reason_es": "OKC llega a este partido con una racha de 7 victorias consecutivas y el mejor récord de local en la liga (28-7). Minnesota juega en el segundo partido de un back-to-back y además viajó más de 2,000 km — una combinación muy difícil de superar. Con Jalen Williams descartado y OKC en su mejor momento, los Thunder son la apuesta lógica.",
+        "head_to_head": "MIN 2-1 OKC"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "1:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "43-25",
+        "color": "#006BB6",
+        "streak": "W2",
+        "last5": "WWLLW"
+      },
+      "away": {
+        "name": "Golden State Warriors",
+        "abbr": "GSW",
+        "record": "32-34",
+        "color": "#1D428A",
+        "streak": "L4",
+        "last5": "LLLLW"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "New York is a fortress at Madison Square Garden this season at 24-9, and Golden State walks in with 4 losses in their last 5, no Draymond Green, no Kristaps Porzingis, and a cross-country flight behind them. The Knicks have 2 days of rest while the Warriors are running on fumes. Jalen Brunson (26.3 PPG) is playing at an All-Star level and MSG will be electric. Every major model agrees: New York wins this by double digits. This is the strongest pick of the day.",
+        "reason_es": "Nueva York es una fortaleza en el Madison Square Garden esta temporada (24-9), y Golden State llega con 4 derrotas en sus últimos 5, sin Draymond Green ni Kristaps Porzingis, y con un vuelo de costa a costa encima. Los Knicks llegan con dos días de descanso mientras los Warriors vienen con el tanque vacío. Jalen Brunson (26.3 puntos por partido) está jugando a nivel All-Star. Todos los modelos coinciden: Nueva York gana esto por dos dígitos. Es el pick más sólido de la jornada.",
+        "head_to_head": "GSW 1-0 NYK"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "36-31",
+        "color": "#006BB6",
+        "streak": "W1",
+        "last5": "WLWLL"
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "record": "32-35",
+        "color": "#E03A3E",
+        "streak": "W1",
+        "last5": "WLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 56.4,
+        "away_win_pct": 43.6,
+        "reason": "This is the most interesting game on the slate. Vegas has Philadelphia as a massive +8.5 underdog, but without Embiid, Lillard, and Sharpe all out for Portland too, the talent gap is tighter than that line suggests. Both teams are on back-to-backs and Portland traveled over 2,400 miles. Deni Avdija (24.1 PPG) carries Portland, but Philly's home court and rest edge make this a lean their way. Bet with caution — this is a coin-flip the market is mispricing.",
+        "reason_es": "Este es el partido más interesante de la jornada. Las Vegas tiene a Filadelfia como +8.5, pero sin Embiid, Lillard y Sharpe fuera en Portland también, la diferencia de talento es menor de lo que indica ese número. Ambos equipos juegan en back-to-back y Portland viajó más de 3,800 km. Deni Avdija (24.1 puntos por partido) carga a los Blazers, pero la ventaja de casa y descanso de Philly los inclina como favoritos. Apuesta con precaución — el mercado puede estar errando en este.",
+        "head_to_head": "POR 1-0 PHI"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "6:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "17-51",
+        "color": "#5A2D81",
+        "streak": "W1",
+        "last5": "WLWWL"
+      },
+      "away": {
+        "name": "Utah Jazz",
+        "abbr": "UTA",
+        "record": "20-47",
+        "color": "#002B5C",
+        "streak": "L2",
+        "last5": "LLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 63,
+        "away_win_pct": 37,
+        "reason": "Neither team is lighting the world on fire, but Sacramento gets the edge at home tonight. Utah is missing five rotation players including Lauri Markkanen, their best scorer, while DeMar DeRozan (18.5 PPG) leads the Kings in front of their home crowd. Utah has lost 2 straight and went just 2-8 in their last 10. Sacramento is on a back-to-back which hurts, but the Jazz injury situation more than compensates. Kings hold the edge in what should be an entertaining tank battle.",
+        "reason_es": "Ninguno de los dos equipos está brillando esta temporada, pero Sacramento se lleva la ventaja en casa esta noche. Utah llega sin cinco jugadores de rotación, incluyendo a Lauri Markkanen, su mejor anotador. DeMar DeRozan (18.5 puntos por partido) lidera a los Kings ante su afición. Utah lleva 2 derrotas seguidas y fue 2-8 en sus últimos 10 partidos. Sacramento juega en back-to-back, lo que les pesa, pero las bajas del Jazz compensan de sobra. Los Kings tienen la ventaja en esta batalla entre dos equipos en reconstrucción.",
+        "head_to_head": "UTA 2-1 SAC"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "41-26",
+        "color": "#860038",
+        "streak": "W1",
+        "last5": "WLWLW"
+      },
+      "away": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "22-45",
+        "color": "#00538C",
+        "streak": "W1",
+        "last5": "WLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "This one isn't close on paper — Cleveland is the far superior team playing at home against a Dallas squad that has lost 4 of their last 5 and is 8-25 away from home. Kyrie Irving is out, removing Dallas's best offensive weapon. Donovan Mitchell is averaging 28.2 points this season and will be a problem all night. The model's margin of +16 points lines up with the Vegas spread, making this one of the safest picks on the board.",
+        "reason_es": "Sobre papel, este no tiene mucha ciencia — Cleveland es claramente el mejor equipo y juega en casa contra un Dallas que perdió 4 de sus últimos 5 y tiene récord de 8-25 de visitante. Kyrie Irving queda fuera, quitándole a Dallas su principal arma ofensiva. Donovan Mitchell lleva 28.2 puntos por partido y va a ser un problema toda la noche. El margen esperado de +16 puntos coincide con la línea de Las Vegas, lo que hace de este uno de los picks más seguros de la jornada.",
+        "head_to_head": "DAL 0-1 CLE"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "3:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "27-39",
+        "color": "#00471B",
+        "streak": "W1",
+        "last5": "LLLLW"
+      },
+      "away": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-52",
+        "color": "#002D62",
+        "streak": "L12",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 57.2,
+        "away_win_pct": 42.8,
+        "reason": "This is the toughest game to call today — two struggling teams with injury questions on both sides. Giannis Antetokounmpo is a game-time decision, and without him Milwaukee loses most of their edge. The Bucks are also on a back-to-back. Indiana has lost 12 straight and has nothing to play for. Milwaukee gets the slight edge at home if Giannis suits up, but watch this one before betting.",
+        "reason_es": "Este es el partido más difícil de leer en la jornada — dos equipos que vienen de malas rachas con varios jugadores en duda. Giannis Antetokounmpo es decisión de último momento, y sin él Milwaukee pierde casi toda su ventaja. Además, los Bucks juegan en el segundo partido de un back-to-back. Indiana lleva 12 derrotas seguidas y no tiene nada que pelear. Milwaukee tiene una ventaja leve en casa si Giannis juega, pero hay que ser cauteloso con este partido.",
+        "head_to_head": "IND 0-3 MIL"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "3:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Toronto Raptors",
+        "abbr": "TOR",
+        "record": "37-29",
+        "color": "#CE1141",
+        "streak": "W1",
+        "last5": "WLLWL"
+      },
+      "away": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "48-18",
+        "color": "#C8102E",
+        "streak": "W3",
+        "last5": "WWWLL"
+      },
+      "prediction": {
+        "home_win_pct": 35,
+        "away_win_pct": 65,
+        "reason": "Detroit is quietly having one of the best seasons in franchise history at 48-18 and carries that momentum into Toronto on a 3-game win streak. Cade Cunningham (24.7 PPG, 10.1 APG) is one of the most complete players in the East right now. Toronto is dealing with two key injuries and has gone just 1-4 in their last 5. Detroit wins this one on the road.",
+        "reason_es": "Detroit está teniendo silenciosamente una de las mejores temporadas en la historia de la franquicia (48-18) y llegan a Toronto con una racha de 3 victorias. Cade Cunningham (24.7 puntos y 10.1 asistencias por partido) es uno de los jugadores más completos del Este ahora mismo. Toronto tiene dos bajas importantes y apenas ganó 1 de sus últimos 5 partidos. Detroit se lleva este partido incluso jugando de visitante.",
+        "head_to_head": "DET 1-0 TOR"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "3:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
