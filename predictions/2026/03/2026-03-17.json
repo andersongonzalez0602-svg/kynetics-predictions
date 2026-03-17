@@ -1,0 +1,255 @@
+{
+  "game_date": "2026-03-17",
+  "published_at": "2026-03-17T17:41:55.767Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Charlotte Hornets",
+        "abbr": "CHA",
+        "record": "34-34",
+        "color": "#1D1160",
+        "streak": "L1",
+        "last5": "LWWLL"
+      },
+      "away": {
+        "name": "Miami Heat",
+        "abbr": "MIA",
+        "record": "38-30",
+        "color": "#98002E",
+        "streak": "L1",
+        "last5": "LWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 60.4,
+        "away_win_pct": 39.6,
+        "reason": "These two teams are closely matched right now — both sitting around .500 and both playing well over their last 10 games. Charlotte gets the edge at home with extra rest and Miami dealing with the Bam Adebayo injury question mark. LaMelo Ball (19.3 PPG, 7.1 APG) is the most dynamic player in this game and he thrives in front of the home crowd. Miami has dominated this series 3-0 this season, so this is more of a pick based on situational factors. Slight lean Charlotte, but don't be surprised if Miami pulls it out.",
+        "reason_es": "Estos dos equipos están muy parejos ahora mismo — ambos cerca del .500 y jugando bien en sus últimos 10 partidos. Charlotte tiene la ventaja en casa con más descanso y Miami llega con la duda de Bam Adebayo. LaMelo Ball (19.3 puntos y 7.1 asistencias por partido) es el jugador más dinámico en este partido y brilla ante su afición. Miami domina la serie 3-0 esta temporada, así que este pick está más basado en factores situacionales. Ligera ventaja Charlotte, pero no te sorprendas si Miami se lleva este.",
+        "head_to_head": "MIA 3-0 CHA"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "38-29",
+        "color": "#0077C0",
+        "streak": "L1",
+        "last5": "LWWWW"
+      },
+      "away": {
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "record": "53-15",
+        "color": "#007AC1",
+        "streak": "W8",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 23.1,
+        "away_win_pct": 76.9,
+        "reason": "Shai Gilgeous-Alexander (31.6 PPG) is the best player on the floor by a wide margin and OKC comes in riding an 8-game win streak as the top team in the NBA. Orlando is playing on a back-to-back, still missing Franz Wagner, and faces a Thunder squad that has been merciless at both ends of the floor. Paolo Banchero (22.2 PPG) will fight hard, but SGA and OKC are simply operating at a different level right now. Thunder win this one with ease.",
+        "reason_es": "Shai Gilgeous-Alexander (31.6 puntos por partido) es el mejor jugador en la cancha por mucho y OKC llega con una racha de 8 victorias seguidas como el mejor equipo de la NBA. Orlando juega en back-to-back, sigue sin Franz Wagner y se enfrenta a unos Thunder que han sido implacables en ambos lados de la cancha. Paolo Banchero (22.2 puntos por partido) va a competir duro, pero SGA y OKC están operando en un nivel diferente ahora mismo. Los Thunder ganan este con comodidad.",
+        "head_to_head": "OKC 1-0 ORL"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Washington Wizards",
+        "abbr": "WAS",
+        "record": "16-51",
+        "color": "#002B5C",
+        "streak": "L12",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "48-19",
+        "color": "#C8102E",
+        "streak": "L1",
+        "last5": "LWWWL"
+      },
+      "prediction": {
+        "home_win_pct": 7.9,
+        "away_win_pct": 92.1,
+        "reason": "This is about as lopsided as it gets. Washington is on a 12-game losing streak and is missing Trae Young, Anthony Davis, Alex Sarr, and Bilal Coulibaly — essentially their entire starting lineup. Detroit is one of the best teams in the East and Cade Cunningham (24.9 PPG, 10.1 APG) will have a field day against this depleted Wizards roster. The model gives Washington less than an 8% chance to win, and every other metric agrees. Detroit wins this by 20+.",
+        "reason_es": "Este es tan desigual como puede ponerse. Washington lleva 12 derrotas consecutivas y no tiene a Trae Young, Anthony Davis, Alex Sarr ni Bilal Coulibaly — básicamente toda su rotación titular. Detroit es uno de los mejores equipos del Este y Cade Cunningham (24.9 puntos y 10.1 asistencias por partido) va a tener una noche fácil contra este plantel destrozado de los Wizards. El modelo le da a Washington menos del 8% de probabilidad de ganar, y todas las métricas están de acuerdo. Detroit gana este por 20 o más puntos.",
+        "head_to_head": "DET 1-1 WAS"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "44-25",
+        "color": "#006BB6",
+        "streak": "W3",
+        "last5": "WWWLL"
+      },
+      "away": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-53",
+        "color": "#002D62",
+        "streak": "L13",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "Indiana has lost 13 straight and is 5-29 on the road this season — one of the worst road records in the league. The Knicks are at home at Madison Square Garden with a 25-9 home record and Jalen Brunson (26.3 PPG) is listed as game-time decision but expected to play. Even without Brunson at full strength, New York has too much depth and motivation for a team in playoff contention. This is a comfortable Knicks win from start to finish.",
+        "reason_es": "Indiana lleva 13 derrotas consecutivas y es 5-29 de visitante esta temporada — uno de los peores récords de visitante en la liga. Los Knicks juegan en casa en el Madison Square Garden con récord de 25-9 como local y Jalen Brunson (26.3 puntos por partido) es duda de último momento pero se espera que juegue. Incluso sin Brunson al 100%, Nueva York tiene demasiada profundidad y motivación para un equipo peleando los playoffs. Victoria cómoda de los Knicks de principio a fin.",
+        "head_to_head": "IND 1-2 NYK"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "28-39",
+        "color": "#00471B",
+        "streak": "W1",
+        "last5": "WLLLL"
+      },
+      "away": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "41-27",
+        "color": "#860038",
+        "streak": "L1",
+        "last5": "LWLWL"
+      },
+      "prediction": {
+        "home_win_pct": 20.3,
+        "away_win_pct": 79.7,
+        "reason": "Giannis Antetokounmpo (27.6 PPG) is listed as game-time decision again, and without him the Bucks simply don't have enough to compete with Cleveland. Milwaukee has been in freefall — going just 2-8 in their last 10 with a -9.9 average margin. Donovan Mitchell (28.2 PPG) and the Cavaliers come in as the clear superior team and lead the head-to-head series 2-1 this year. If Giannis is out, this could get ugly fast. Cleveland is the strong play here.",
+        "reason_es": "Giannis Antetokounmpo (27.6 puntos por partido) vuelve a ser duda de último momento, y sin él los Bucks simplemente no tienen suficiente para competir con Cleveland. Milwaukee está en caída libre — con récord de 2-8 en sus últimos 10 partidos y un margen promedio de -9.9. Donovan Mitchell (28.2 puntos por partido) y los Cavaliers llegan como el equipo claramente superior y ganan la serie 2-1 este año. Si Giannis no juega, esto puede ponerse muy feo muy rápido. Cleveland es el pick sólido aquí.",
+        "head_to_head": "CLE 2-1 MIL"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "41-27",
+        "color": "#0C2340",
+        "streak": "L1",
+        "last5": "LWLLL"
+      },
+      "away": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "39-29",
+        "color": "#1D1160",
+        "streak": "L2",
+        "last5": "LLWWW"
+      },
+      "prediction": {
+        "home_win_pct": 46.4,
+        "away_win_pct": 53.6,
+        "reason": "This is the most interesting game on tonight's slate and our biggest disagreement with the market. Vegas has Minnesota as a -3.5 home favorite, but Anthony Edwards is OUT for the Wolves — that's roughly 4.3 points per game gone from their offense. Devin Booker (25.7 PPG) and the Suns have beaten Minnesota twice already this season and come in with a slight model edge. Julius Randle (21.1 PPG) tries to fill the void for MIN, but losing Ant is simply too much to overcome at home. Lean Phoenix as a contrarian value pick.",
+        "reason_es": "Este es el partido más interesante de la noche y donde más discrepamos con el mercado. Las Vegas tiene a Minnesota como favorito en casa por -3.5, pero Anthony Edwards está FUERA para los Wolves — son aproximadamente 4.3 puntos por partido menos en su ataque. Devin Booker (25.7 puntos por partido) y los Suns ya han ganado dos veces a Minnesota esta temporada y llegan con una ligera ventaja en el modelo. Julius Randle (21.1 puntos) intentará llenar el vacío, pero perder a Ant es demasiado para superarlo incluso en casa. Nos inclinamos por Phoenix como pick de valor contrarian.",
+        "head_to_head": "PHX 2-0 MIN"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "41-27",
+        "color": "#0E2240",
+        "streak": "L1",
+        "last5": "LWWLL"
+      },
+      "away": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "37-31",
+        "color": "#006BB6",
+        "streak": "W2",
+        "last5": "WWLWL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "Philadelphia is walking into the altitude of Ball Arena without Joel Embiid and Tyrese Maxey — that's roughly 8 combined points per game out of the lineup, and their two best players. Nikola Jokic (28.6 PPG, 12.7 RPG, 10.5 APG) is the best player in the world right now and will absolutely feast on this depleted Sixers frontcourt. Denver shoots 49% from the field, the best in this matchup, and the altitude adds another layer of difficulty for visiting teams. This is one of the safest picks of the week.",
+        "reason_es": "Filadelfia llega a la altitud del Ball Arena sin Joel Embiid ni Tyrese Maxey — aproximadamente 8 puntos combinados por partido fuera del quinteto, y sus dos mejores jugadores. Nikola Jokic (28.6 puntos, 12.7 rebotes y 10.5 asistencias por partido) es el mejor jugador del mundo ahora mismo y va a destrozar este debilitado frontcourt de los Sixers. Denver anota con el 49% desde el campo, el mejor en este duelo, y la altitud añade otra capa de dificultad para los visitantes. Este es uno de los picks más seguros de la semana.",
+        "head_to_head": "PHI 0-1 DEN"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "18-51",
+        "color": "#5A2D81",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "away": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "50-18",
+        "color": "#C4CED4",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "prediction": {
+        "home_win_pct": 16.1,
+        "away_win_pct": 83.9,
+        "reason": "Victor Wembanyama (24.3 PPG, 11.2 RPG) is a nightmare matchup for Sacramento, who are missing five rotation players including Keegan Murray and Malik Monk. The Spurs have dominated this series 2-0 this season and are the second-best team in the NBA at 50-18. San Antonio is on a back-to-back which is the only concern, but their talent gap over Sacramento is simply too massive to overcome. DeMar DeRozan (18.8 PPG) gives Sacramento a fighting chance, but Wemby and the Spurs take this one.",
+        "reason_es": "Victor Wembanyama (24.3 puntos y 11.2 rebotes por partido) es una pesadilla para Sacramento, que llega sin cinco jugadores de rotación incluyendo a Keegan Murray y Malik Monk. Los Spurs dominan la serie 2-0 esta temporada y son el segundo mejor equipo de la NBA con récord de 50-18. San Antonio juega en back-to-back, que es la única preocupación, pero su ventaja de talento sobre Sacramento es demasiado grande para superarla. DeMar DeRozan (18.8 puntos por partido) le da a Sacramento una pequeña oportunidad, pero Wemby y los Spurs se llevan este partido.",
+        "head_to_head": "SAS 2-0 SAC"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
