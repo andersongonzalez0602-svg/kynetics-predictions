@@ -1,0 +1,313 @@
+{
+  "game_date": "2026-03-18",
+  "published_at": "2026-03-19T21:31:00.999Z",
+  "type": "results",
+  "games": [
+    {
+      "home": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-54",
+        "color": "#002D62",
+        "streak": "L14",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "record": "33-36",
+        "color": "#E03A3E",
+        "streak": "W1",
+        "last5": "WLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 18,
+        "away_win_pct": 82,
+        "reason": "Indiana has lost 14 straight and is 10-24 at home this season — one of the worst home records in the league. They're also missing Pascal Siakam and Tyrese Haliburton, their two best players. Portland still has key absences with Damian Lillard and Shaedon Sharpe out, but Deni Avdija (24.0 PPG) has been carrying this team all season and the Blazers are the far superior squad right now. Indiana is on a back-to-back making this even more difficult. Portland wins comfortably.",
+        "reason_es": "Indiana lleva 14 derrotas consecutivas y es 10-24 en casa esta temporada — uno de los peores récords de local en la liga. Además llegan sin Pascal Siakam y Tyrese Haliburton, sus dos mejores jugadores. Portland sigue con las bajas importantes de Damian Lillard y Shaedon Sharpe, pero Deni Avdija (24.0 puntos por partido) ha cargado a este equipo toda la temporada y los Blazers son claramente el equipo superior ahora mismo. Indiana juega en back-to-back lo que lo hace aún más difícil. Portland gana con comodidad.",
+        "head_to_head": "POR 1-0 IND"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "17-51",
+        "color": "#000000",
+        "streak": "L4",
+        "last5": "LLLLW"
+      },
+      "away": {
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "record": "54-15",
+        "color": "#007AC1",
+        "streak": "W9",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 10.2,
+        "away_win_pct": 89.8,
+        "reason": "This is as close to a sure thing as you'll find on tonight's slate. OKC is the best team in the NBA at 54-15, riding a 9-game win streak, and SGA (31.7 PPG) is in full MVP mode. Brooklyn is one of the worst teams in the league — on a 4-game skid, missing Michael Porter Jr., and averaging just 106.6 points per game. OKC is on a back-to-back which is the only caveat, but the talent gap is simply too enormous. Thunder win this going away.",
+        "reason_es": "Este es el partido más cercano a un resultado seguro en la pizarra de esta noche. OKC es el mejor equipo de la NBA con récord de 54-15, en racha de 9 victorias, y SGA (31.7 puntos por partido) está en modo MVP total. Brooklyn es uno de los peores equipos de la liga — en racha de 4 derrotas, sin Michael Porter Jr. y promediando apenas 106.6 puntos por partido. OKC juega en back-to-back, que es la única advertencia, pero la diferencia de talento es demasiado enorme. Los Thunder ganan este sin complicaciones.",
+        "head_to_head": "OKC 1-0 BKN"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "42-27",
+        "color": "#0C2340",
+        "streak": "W1",
+        "last5": "WLWLL"
+      },
+      "away": {
+        "name": "Utah Jazz",
+        "abbr": "UTA",
+        "record": "20-48",
+        "color": "#002B5C",
+        "streak": "L3",
+        "last5": "LLLWL"
+      },
+      "prediction": {
+        "home_win_pct": 78.7,
+        "away_win_pct": 21.3,
+        "reason": "Minnesota is on a back-to-back but still gets the strong edge here. Utah is in full rebuild mode — missing Lauri Markkanen, Keyonte George, and Jusuf Nurkic — and has lost 3 straight while going 8-26 on the road this season. Anthony Edwards is still out for Minnesota, but Julius Randle (21.2 PPG) steps up as the alpha and the Wolves shoot 49% from the field, the best mark in this matchup by far. MIN also leads the head-to-head 2-1 this year. Timberwolves win at home despite the back-to-back.",
+        "reason_es": "Minnesota juega en back-to-back pero sigue siendo el favorito claro aquí. Utah está en plena reconstrucción — sin Lauri Markkanen, Keyonte George ni Jusuf Nurkic — y lleva 3 derrotas seguidas con récord de 8-26 de visitante esta temporada. Anthony Edwards sigue fuera para Minnesota, pero Julius Randle (21.2 puntos por partido) asume el rol de líder y los Wolves anotan con el 49% desde el campo, el mejor porcentaje en este duelo por mucho. MIN también gana la serie 2-1 este año. Los Timberwolves ganan en casa a pesar del back-to-back.",
+        "head_to_head": "UTA 1-2 MIN"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "record": "28-40",
+        "color": "#CE1141",
+        "streak": "W1",
+        "last5": "WLLWL"
+      },
+      "away": {
+        "name": "Toronto Raptors",
+        "abbr": "TOR",
+        "record": "38-29",
+        "color": "#CE1141",
+        "streak": "W2",
+        "last5": "WWLLW"
+      },
+      "prediction": {
+        "home_win_pct": 33.8,
+        "away_win_pct": 66.2,
+        "reason": "Toronto has won both matchups against Chicago this season and comes in with a clear advantage. The Bulls are shorthanded — missing Anfernee Simons, Jaden Ivey, and Zach Collins — which removes a significant chunk of their offensive firepower. Scottie Barnes (18.7 PPG, 7.9 RPG, 5.4 APG) is Toronto's engine and has been playing well lately. Toronto also has extra rest advantage coming in with 3 days off. The Raptors take the series sweep in Chicago tonight.",
+        "reason_es": "Toronto ganó los dos enfrentamientos contra Chicago esta temporada y llega con ventaja clara. Los Bulls llegan cortos — sin Anfernee Simons, Jaden Ivey ni Zach Collins — lo que les quita una parte significativa de su poder ofensivo. Scottie Barnes (18.7 puntos, 7.9 rebotes y 5.4 asistencias por partido) es el motor de Toronto y ha jugado bien últimamente. Los Raptors también llegan con más descanso, con 3 días libres. Toronto cierra el barrido de la serie en Chicago esta noche.",
+        "head_to_head": "TOR 2-0 CHI"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "23-44",
+        "color": "#5D76A9",
+        "streak": "L8",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "42-27",
+        "color": "#0E2240",
+        "streak": "W1",
+        "last5": "WLWWL"
+      },
+      "prediction": {
+        "home_win_pct": 24.1,
+        "away_win_pct": 75.9,
+        "reason": "Nikola Jokic (28.2 PPG, 12.6 RPG, 10.6 APG) is one of the greatest players of all time putting up triple-double numbers and he leads Denver into Memphis where the Grizzlies are on an 8-game losing streak. Ja Morant is out for Memphis, removing their most explosive offensive weapon. Denver is on a back-to-back which gives Memphis a sliver of hope, but Jokic's brilliance combined with Denver's 49% field goal shooting makes the Nuggets the heavy favorite. Denver sweeps the season series 3-0.",
+        "reason_es": "Nikola Jokic (28.2 puntos, 12.6 rebotes y 10.6 asistencias por partido) es uno de los mejores jugadores de todos los tiempos registrando números de triple-doble y lleva a Denver a Memphis donde los Grizzlies están en una racha de 8 derrotas consecutivas. Ja Morant está fuera para Memphis, quitándole su arma ofensiva más explosiva. Denver juega en back-to-back lo que le da a Memphis una pequeña esperanza, pero la brillantez de Jokic combinada con el 49% de tiro de Denver hace a los Nuggets favoritos claros. Denver cierra el barrido de temporada 3-0.",
+        "head_to_head": "DEN 2-0 MEM"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "23-46",
+        "color": "#00538C",
+        "streak": "L1",
+        "last5": "LWWLL"
+      },
+      "away": {
+        "name": "Atlanta Hawks",
+        "abbr": "ATL",
+        "record": "37-31",
+        "color": "#C1272D",
+        "streak": "W10",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 11.9,
+        "away_win_pct": 88.1,
+        "reason": "Atlanta is on a scorching 10-game win streak and averaging +14.0 points per game over their last 10 — the best margin in the entire NBA right now. Jalen Johnson (23.0 PPG, 10.4 RPG, 8.1 APG) is playing at an All-Star level and Dallas continues to struggle without Kyrie Irving, Dereck Lively II, and Daniel Gafford all out. Cooper Flagg (20.2 PPG) gives Dallas a young talent to build around, but this Hawks squad is simply playing at another level. Atlanta wins this one easily on the road.",
+        "reason_es": "Atlanta está en una racha de fuego de 10 victorias consecutivas y promedia +14.0 puntos por partido en sus últimos 10 — el mejor margen de toda la NBA ahora mismo. Jalen Johnson (23.0 puntos, 10.4 rebotes y 8.1 asistencias por partido) está jugando a nivel All-Star y Dallas sigue luchando sin Kyrie Irving, Dereck Lively II ni Daniel Gafford, todos fuera. Cooper Flagg (20.2 puntos) le da a Dallas un talento joven en el que construir, pero este equipo de los Hawks está simplemente en otro nivel. Atlanta gana este fácilmente de visitante.",
+        "head_to_head": "ATL 1-0 DAL"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "23-46",
+        "color": "#0C2340",
+        "streak": "W1",
+        "last5": "WLWWL"
+      },
+      "away": {
+        "name": "LA Clippers",
+        "abbr": "LAC",
+        "record": "34-34",
+        "color": "#C8102E",
+        "streak": "L2",
+        "last5": "LLWWW"
+      },
+      "prediction": {
+        "home_win_pct": 46.7,
+        "away_win_pct": 53.3,
+        "reason": "This is the tightest game of the night and our most interesting contrarian situation. Kawhi Leonard is back in the Clippers lineup — listed as GTD but expected to play — and that completely changes the calculus. LAC leads the season series 2-0 and has been playing better ball lately at 7-3 in their last 10. New Orleans has Trey Murphy III (21.9 PPG) leading the charge at home, but a healthy Kawhi (28.3 PPG) tips the scales for LA. Slight lean Clippers, but this game could go either way.",
+        "reason_es": "Este es el partido más igualado de la noche y nuestra situación contrarian más interesante. Kawhi Leonard regresa al plantel de los Clippers — en duda de último momento pero se espera que juegue — y eso cambia completamente el análisis. LAC gana la serie de temporada 2-0 y ha jugado mejor últimamente con récord de 7-3 en sus últimos 10. New Orleans tiene a Trey Murphy III (21.9 puntos por partido) liderando en casa, pero un Kawhi sano (28.3 puntos) inclina la balanza hacia LA. Ligera ventaja Clippers, pero este partido puede ir para cualquier lado.",
+        "head_to_head": "LAC 2-0 NOP"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "record": "41-26",
+        "color": "#CE1141",
+        "streak": "L1",
+        "last5": "LWLWL"
+      },
+      "away": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "43-25",
+        "color": "#552583",
+        "streak": "W6",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 30.9,
+        "away_win_pct": 69.1,
+        "reason": "This is the game of the night and our second consecutive contrarian pick against Houston at home. Luka Doncic (32.9 PPG) is on a 6-game win streak and the Lakers are playing the best basketball of any team in the West right now — going 9-1 in their last 10 with a +9.6 average margin. LA also shoots 50% from the field, a full 3% better than Houston. Vegas has Houston as a -2.5 home favorite, but our model gives LA a strong 69% edge. Kevin Durant (25.8 PPG) and Houston will compete, but Luka and the Lakers are simply the better team right now.",
+        "reason_es": "Este es el partido de la noche y nuestro segundo pick contrarian consecutivo en contra de Houston en casa. Luka Doncic (32.9 puntos por partido) viene en racha de 6 victorias y los Lakers están jugando el mejor baloncesto de cualquier equipo del Oeste ahora mismo — con récord de 9-1 en sus últimos 10 partidos y un margen promedio de +9.6. Los Angeles también anota con el 50% desde el campo, un 3% mejor que Houston. Las Vegas tiene a Houston como favorito en casa por -2.5, pero nuestro modelo le da a LA una ventaja sólida del 69%. Kevin Durant (25.8 puntos por partido) y Houston competirán, pero Luka y los Lakers son simplemente el mejor equipo ahora mismo.",
+        "head_to_head": "LAL 1-1 HOU"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "9:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "45-23",
+        "color": "#007A33",
+        "streak": "W2",
+        "last5": "WWLLW"
+      },
+      "away": {
+        "name": "Golden State Warriors",
+        "abbr": "GSW",
+        "record": "33-35",
+        "color": "#1D428A",
+        "streak": "L1",
+        "last5": "LWLLL"
+      },
+      "prediction": {
+        "home_win_pct": 81.7,
+        "away_win_pct": 18.3,
+        "reason": "Boston is a legitimate title contender playing at home with a 23-10 home record, and Golden State has been going in the wrong direction — losing 4 of their last 5 with a -3.2 average margin over the last 10. Kristaps Porzingis is back in the lineup for Golden State which helps, but Jaylen Brown (28.4 PPG) and the Celtics have too much firepower and depth for this Warriors squad. Boston dominates the glass with a +3.3 rebounding edge and gets up for big home games. This is a comfortable Celtic win.",
+        "reason_es": "Boston es un serio candidato al título jugando en casa con récord de 23-10 como local, y Golden State viene en tendencia negativa — perdiendo 4 de sus últimos 5 con un margen promedio de -3.2 en los últimos 10 partidos. Kristaps Porzingis regresa al plantel de Golden State, lo cual ayuda, pero Jaylen Brown (28.4 puntos por partido) y los Celtics tienen demasiado arsenal y profundidad para estos Warriors. Boston domina en el rebote con ventaja de +3.3 y siempre se motiva en casa ante rivales grandes. Victoria cómoda de los Celtics.",
+        "head_to_head": "GSW 0-1 BOS"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
