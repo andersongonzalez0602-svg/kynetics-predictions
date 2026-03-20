@@ -1,0 +1,279 @@
+{
+  "game_date": "2026-03-19",
+  "published_at": "2026-03-20T10:17:36.330Z",
+  "type": "results",
+  "games": [
+    {
+      "home": {
+        "name": "Washington Wizards",
+        "abbr": "WAS",
+        "record": "16-52",
+        "color": "#002B5C",
+        "streak": "L13",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "49-19",
+        "color": "#C8102E",
+        "streak": "W1",
+        "last5": "WLWWW"
+      },
+      "prediction": {
+        "home_win_pct": 8,
+        "away_win_pct": 92,
+        "reason": "Washington has lost 13 straight and is missing Trae Young, Anthony Davis, and Bilal Coulibaly — their entire offensive core. Detroit comes in without Cade Cunningham which is a notable absence, but Jalen Duren (19.0 PPG, 10.6 RPG) steps up as the engine and the Pistons are still the far superior team at 49-19. Alex Sarr (16.9 PPG) gives Washington something to watch, but the talent gap is simply too wide. Detroit wins this easily, Cade or not.",
+        "reason_es": "Washington lleva 13 derrotas consecutivas y no tiene a Trae Young, Anthony Davis ni Bilal Coulibaly — todo su núcleo ofensivo. Detroit llega sin Cade Cunningham, que es una baja notable, pero Jalen Duren (19.0 puntos y 10.6 rebotes por partido) asume el protagonismo y los Pistons siguen siendo el equipo claramente superior con récord de 49-19. Alex Sarr (16.9 puntos por partido) le da algo que ver a Washington, pero la diferencia de talento es demasiado grande. Detroit gana este fácilmente, con o sin Cade.",
+        "head_to_head": "DET 2-1 WAS"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Charlotte Hornets",
+        "abbr": "CHA",
+        "record": "35-34",
+        "color": "#1D1160",
+        "streak": "W1",
+        "last5": "WLWWL"
+      },
+      "away": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "38-30",
+        "color": "#0077C0",
+        "streak": "L2",
+        "last5": "LLWWW"
+      },
+      "prediction": {
+        "home_win_pct": 72.3,
+        "away_win_pct": 27.7,
+        "reason": "Orlando continues to be shorthanded — Franz Wagner, Anthony Black, and Jonathan Isaac are all out, stripping the Magic of key rotation pieces. Charlotte is at home where LaMelo Ball (19.5 PPG, 7.2 APG) thrives as a playmaker, and the Hornets have been the better team over the last 10 games with a +6.1 margin. Paolo Banchero (22.4 PPG) will keep Orlando competitive, but the injury disadvantage and home crowd give Charlotte the clear edge. Hornets win this one at the Spectrum Center.",
+        "reason_es": "Orlando sigue con el plantel mermado — Franz Wagner, Anthony Black y Jonathan Isaac están todos fuera, quitándole al equipo piezas clave de rotación. Charlotte juega en casa donde LaMelo Ball (19.5 puntos y 7.2 asistencias por partido) brilla como organizador, y los Hornets han sido el mejor equipo en los últimos 10 partidos con margen de +6.1. Paolo Banchero (22.4 puntos por partido) mantendrá a Orlando en el partido, pero la desventaja de bajas y la afición local le dan a Charlotte la ventaja clara. Los Hornets ganan este en el Spectrum Center.",
+        "head_to_head": "ORL 1-2 CHA"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "record": "28-41",
+        "color": "#CE1141",
+        "streak": "L1",
+        "last5": "LWLLW"
+      },
+      "away": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "42-27",
+        "color": "#860038",
+        "streak": "W1",
+        "last5": "WLWLW"
+      },
+      "prediction": {
+        "home_win_pct": 25.4,
+        "away_win_pct": 74.6,
+        "reason": "Donovan Mitchell (28.0 PPG) is listed as game-time decision but Cleveland is still the far better team even without him. Chicago is on a back-to-back and missing Anfernee Simons, Jaden Ivey, and Isaac Okoro, gutting their backcourt depth. Josh Giddey (17.7 PPG, 8.8 APG) is a versatile piece but can't make up for that much missing firepower. Cleveland leads every major metric — shooting, defense, rebounding — and wins the head-to-head on the road if Mitchell suits up.",
+        "reason_es": "Donovan Mitchell (28.0 puntos por partido) es duda de último momento, pero Cleveland sigue siendo el equipo claramente superior incluso sin él. Chicago juega en back-to-back y llega sin Anfernee Simons, Jaden Ivey ni Isaac Okoro, destrozando su profundidad de escolta. Josh Giddey (17.7 puntos y 8.8 asistencias por partido) es una pieza versátil pero no puede compensar tanta falta de poder ofensivo. Cleveland lidera en todas las métricas principales — tiro, defensa, rebotes — y gana la serie de visitante si Mitchell puede jugar.",
+        "head_to_head": "CLE 1-2 CHI"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "18-52",
+        "color": "#5A2D81",
+        "streak": "L1",
+        "last5": "LWWLW"
+      },
+      "away": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "37-32",
+        "color": "#006BB6",
+        "streak": "L1",
+        "last5": "LWWLW"
+      },
+      "prediction": {
+        "home_win_pct": 67.6,
+        "away_win_pct": 32.4,
+        "reason": "This is tonight's sneakiest pick. Philadelphia is missing Joel Embiid, Tyrese Maxey, Kelly Oubre Jr., and Johni Broome — that's roughly 9.4 points of impact per game gone from the lineup. Vasilije Edgecombe (15.3 PPG) is not a replacement for that level of production. Sacramento is also short-handed but their losses are less damaging, and DeMar DeRozan (18.6 PPG) is the best player on the floor. The market has this as a coin flip at SAC +2.5, but our model gives Sacramento a 68% edge. Kings win at home tonight.",
+        "reason_es": "Este es el pick más sorpresivo de la noche. Filadelfia llega sin Joel Embiid, Tyrese Maxey, Kelly Oubre Jr. ni Johni Broome — aproximadamente 9.4 puntos de impacto por partido fuera del quinteto. Vasilije Edgecombe (15.3 puntos por partido) no puede reemplazar ese nivel de producción. Sacramento también tiene bajas pero son menos dañinas, y DeMar DeRozan (18.6 puntos por partido) es el mejor jugador en la cancha. El mercado lo tiene como partido parejo con SAC +2.5, pero nuestro modelo le da a Sacramento una ventaja del 68%. Los Kings ganan en casa esta noche.",
+        "head_to_head": "PHI 1-0 SAC"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Utah Jazz",
+        "abbr": "UTA",
+        "record": "20-49",
+        "color": "#002B5C",
+        "streak": "L4",
+        "last5": "LLLLW"
+      },
+      "away": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "28-40",
+        "color": "#00471B",
+        "streak": "L1",
+        "last5": "LWLLL"
+      },
+      "prediction": {
+        "home_win_pct": 54.8,
+        "away_win_pct": 45.2,
+        "reason": "This is a tank battle between two struggling teams, but the key factor flips the result: Giannis Antetokounmpo is OUT for Milwaukee, costing them roughly 5.7 points of impact per game. Without the Greek Freak, the Bucks simply don't have the firepower to overcome Utah's home court and altitude advantage at the Delta Center. Kevin Porter Jr. (17.4 PPG) leads Milwaukee's offense but Utah gets the edge here. The market has Milwaukee as a -6 favorite, making Utah a solid contrarian value pick tonight.",
+        "reason_es": "Esta es una batalla entre dos equipos en reconstrucción, pero el factor clave cambia el resultado: Giannis Antetokounmpo está FUERA para Milwaukee, quitándoles aproximadamente 5.7 puntos de impacto por partido. Sin el Griego Monstruo, los Bucks simplemente no tienen el poder ofensivo para superar la ventaja de local y altitud de Utah en el Delta Center. Kevin Porter Jr. (17.4 puntos por partido) lidera el ataque de Milwaukee, pero Utah se lleva la ventaja aquí. El mercado tiene a Milwaukee como favorito por -6, lo que convierte a Utah en un pick de valor contrarian sólido esta noche.",
+        "head_to_head": "MIL 1-0 UTA"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "51-18",
+        "color": "#C4CED4",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "away": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "39-30",
+        "color": "#1D1160",
+        "streak": "L3",
+        "last5": "LLLWW"
+      },
+      "prediction": {
+        "home_win_pct": 81,
+        "away_win_pct": 19,
+        "reason": "Victor Wembanyama (24.2 PPG, 11.1 RPG) is simply unguardable and San Antonio is the second-best team in the NBA at 51-18 with a 26-7 home record — one of the best in the league. Phoenix has lost 3 straight and arrives without Dillon Brooks and Mark Williams, limiting their defensive options. Devin Booker (25.8 PPG) can score on anyone, but SGA showed us you need more than one star to beat Wemby's Spurs. San Antonio wins this convincingly at the Frost Bank Center.",
+        "reason_es": "Victor Wembanyama (24.2 puntos y 11.1 rebotes por partido) es simplemente imposible de defender y San Antonio es el segundo mejor equipo de la NBA con récord de 51-18 y récord de local de 26-7 — uno de los mejores de la liga. Phoenix lleva 3 derrotas seguidas y llega sin Dillon Brooks ni Mark Williams, limitando sus opciones defensivas. Devin Booker (25.8 puntos por partido) puede anotar contra cualquiera, pero ya hemos visto que se necesita más que una estrella para vencer a los Spurs de Wemby. San Antonio gana este con claridad en el Frost Bank Center.",
+        "head_to_head": "PHX 2-1 SAS"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": true
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "24-46",
+        "color": "#0C2340",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "away": {
+        "name": "LA Clippers",
+        "abbr": "LAC",
+        "record": "34-35",
+        "color": "#C8102E",
+        "streak": "L3",
+        "last5": "LLLWW"
+      },
+      "prediction": {
+        "home_win_pct": 48.1,
+        "away_win_pct": 51.9,
+        "reason": "This is the closest game on the board for the third straight night — a pure coin flip. Both teams are on back-to-backs, both playing at home/away with similar rest situations. Kawhi Leonard (28.2 PPG) is the best player on the floor if healthy, but his GTD status is the biggest variable. New Orleans has Trey Murphy III (21.9 PPG) and has won 2 straight, while the Clippers lost Darius Garland and Dejounte Murray to injury. This game is too close to call with confidence — avoid if you're betting.",
+        "reason_es": "Este es el partido más igualado de la pizarra por tercera noche consecutiva — es literalmente una moneda al aire. Ambos equipos tienen situaciones de descanso similares y llegan con sus propias bajas importantes. Kawhi Leonard (28.2 puntos por partido) es el mejor jugador en la cancha si está sano, pero su condición de duda es la variable más importante. New Orleans tiene a Trey Murphy III (21.9 puntos) y ha ganado 2 seguidos, mientras que los Clippers perdieron a Darius Garland y Dejounte Murray. Este partido es demasiado parejo para tener confianza — evítalo si vas a apostar.",
+        "head_to_head": "LAC 2-1 NOP"
+      },
+      "result": {
+        "actual_result": "home",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Miami Heat",
+        "abbr": "MIA",
+        "record": "38-31",
+        "color": "#98002E",
+        "streak": "L2",
+        "last5": "LLWWW"
+      },
+      "away": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "44-25",
+        "color": "#552583",
+        "streak": "W7",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 63.7,
+        "away_win_pct": 36.3,
+        "reason": "This is the most compelling game on tonight's slate. Luka Doncic (33.0 PPG) is on a 7-game win streak and the Lakers are the hottest team in the West, but they arrive on a back-to-back with Luka, LeBron, and Austin Reaves all listed as game-time decisions. Miami is at home with 2 days rest and Bam Adebayo (20.0 PPG, 9.7 RPG) will be a physical force all night. The Heat's rebounding edge of +6.2 is massive and Miami shoots efficiently from everywhere. If LA's stars are limited tonight, Miami takes this one. Lean Heat with caution.",
+        "reason_es": "Este es el partido más atractivo de la noche. Luka Doncic (33.0 puntos por partido) viene en racha de 7 victorias y los Lakers son el equipo más caliente del Oeste, pero llegan en back-to-back con Luka, LeBron y Austin Reaves todos como dudas de último momento. Miami juega en casa con 2 días de descanso y Bam Adebayo (20.0 puntos y 9.7 rebotes por partido) será una fuerza física durante toda la noche. La ventaja en rebotes del Heat de +6.2 es enorme y Miami anota eficientemente desde todos lados. Si las estrellas de LA están limitadas esta noche, Miami se lleva este. Ligera ventaja Heat, con precaución.",
+        "head_to_head": "LAL 1-0 MIA"
+      },
+      "result": {
+        "actual_result": "away",
+        "correct": false
+      },
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": true
+      }
+    }
+  ]
+}
