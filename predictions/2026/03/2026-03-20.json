@@ -1,0 +1,193 @@
+{
+  "game_date": "2026-03-20",
+  "published_at": "2026-03-20T10:17:58.722Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "17-52",
+        "color": "#000000",
+        "streak": "L5",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "45-25",
+        "color": "#006BB6",
+        "streak": "W4",
+        "last5": "WWWWL"
+      },
+      "prediction": {
+        "home_win_pct": 9.7,
+        "away_win_pct": 90.3,
+        "reason": "The Knicks own Brooklyn this season — they've won all three matchups by an average of 15+ points, and nothing suggests tonight will be different. New York comes in with 2 days rest, Jalen Brunson (26.3 PPG) running the offense at an elite level, and a power rating that dwarfs the Nets by over 15 points. Brooklyn has lost 5 straight, scores just 106.4 points per game, and has zero answers for New York's depth. This is the safest pick on tonight's board — Knicks win this going away.",
+        "reason_es": "Los Knicks son dueños de Brooklyn esta temporada — ganaron los tres enfrentamientos con un promedio de más de 15 puntos de diferencia, y nada indica que esta noche será diferente. Nueva York llega con 2 días de descanso, Jalen Brunson (26.3 puntos por partido) dirigiendo el ataque a nivel élite, y un power rating que supera a los Nets por más de 15 puntos. Brooklyn lleva 5 derrotas seguidas, anota apenas 106.4 puntos por partido y no tiene respuestas para la profundidad de Nueva York. Este es el pick más seguro de la noche — los Knicks ganan este sin problemas.",
+        "head_to_head": "NYK 3-0 BKN"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Detroit Pistons",
+        "abbr": "DET",
+        "record": "50-19",
+        "color": "#C8102E",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "away": {
+        "name": "Golden State Warriors",
+        "abbr": "GSW",
+        "record": "33-36",
+        "color": "#1D428A",
+        "streak": "L2",
+        "last5": "LLWLL"
+      },
+      "prediction": {
+        "home_win_pct": 82.6,
+        "away_win_pct": 17.4,
+        "reason": "Detroit just hit 50 wins and is one of the best teams in the NBA, but the big story here is Stephen Curry being OUT for Golden State. Without Steph, the Warriors lose their entire offensive identity and drop from a middling team to a bottom-tier one. Jalen Duren (19.0 PPG, 10.6 RPG) is a force inside and Detroit is on a back-to-back but still boasts a massive talent edge. Kristaps Porzingis leads the Warriors but can't replicate Curry's impact. Pistons win at home comfortably.",
+        "reason_es": "Detroit acaba de llegar a 50 victorias y es uno de los mejores equipos de la NBA, pero la gran noticia aquí es que Stephen Curry está FUERA para Golden State. Sin Steph, los Warriors pierden toda su identidad ofensiva y pasan de ser un equipo mediocre a uno de los últimos puestos. Jalen Duren (19.0 puntos y 10.6 rebotes por partido) es una fuerza en la pintura y Detroit juega en back-to-back, pero aun así tiene una ventaja de talento enorme. Kristaps Porzingis lidera a los Warriors pero no puede replicar el impacto de Curry. Los Pistons ganan en casa con comodidad.",
+        "head_to_head": "GSW 0-1 DET"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "record": "41-27",
+        "color": "#CE1141",
+        "streak": "L2",
+        "last5": "LLWLW"
+      },
+      "away": {
+        "name": "Atlanta Hawks",
+        "abbr": "ATL",
+        "record": "38-31",
+        "color": "#C1272D",
+        "streak": "W11",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 28.4,
+        "away_win_pct": 71.6,
+        "reason": "Atlanta is on the hottest streak in the NBA right now — 11 wins in a row and averaging +14.4 points per game over their last 10. Jalen Johnson (22.9 PPG, 10.5 RPG, 8.1 APG) is playing at an MVP-candidate level and the Hawks are rolling through everyone. Vegas has Houston as a -4 home favorite, but our model strongly disagrees — Atlanta gets the 71.6% edge. Kevin Durant (25.7 PPG) gives Houston a puncher's chance, but the Rockets have lost 2 straight and their momentum is trending the wrong way. Hawks extend the streak on the road tonight.",
+        "reason_es": "Atlanta está en la racha más caliente de la NBA ahora mismo — 11 victorias seguidas y promediando +14.4 puntos por partido en sus últimos 10. Jalen Johnson (22.9 puntos, 10.5 rebotes y 8.1 asistencias por partido) está jugando a nivel candidato al MVP y los Hawks están arrasando con todos. Las Vegas tiene a Houston como favorito en casa por -4, pero nuestro modelo discrepa fuertemente — Atlanta tiene el 71.6% de ventaja. Kevin Durant (25.7 puntos por partido) le da a Houston una pequeña oportunidad, pero los Rockets llevan 2 derrotas seguidas y su momentum va en la dirección equivocada. Los Hawks extienden la racha de visitante esta noche.",
+        "head_to_head": "ATL 0-1 HOU"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "24-44",
+        "color": "#5D76A9",
+        "streak": "W1",
+        "last5": "WLLLL"
+      },
+      "away": {
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "46-23",
+        "color": "#007A33",
+        "streak": "W3",
+        "last5": "WWWLL"
+      },
+      "prediction": {
+        "home_win_pct": 14.6,
+        "away_win_pct": 85.4,
+        "reason": "Boston is a legitimate NBA Finals contender and they walk into Memphis where Ja Morant is still out, along with Brandon Clarke and Jahmai Mashack. Jaylen Brown (28.5 PPG) is one of the best scorers in the East and Boston comes in with 2 days rest and a +6.9 margin over their last 10 games. Ty Jerome (20.2 PPG) has played well for Memphis lately but can't carry this team against a Celtics squad firing on all cylinders. Boston wins this one by double digits.",
+        "reason_es": "Boston es un serio candidato a las Finales de la NBA y llega a Memphis donde Ja Morant sigue fuera, junto con Brandon Clarke y Jahmai Mashack. Jaylen Brown (28.5 puntos por partido) es uno de los mejores anotadores del Este y los Celtics llegan con 2 días de descanso y un margen de +6.9 en sus últimos 10 partidos. Ty Jerome (20.2 puntos por partido) ha jugado bien para Memphis últimamente, pero no puede cargar a este equipo contra unos Celtics que funcionan a pleno rendimiento. Boston gana este por dos dígitos.",
+        "head_to_head": "BOS 1-0 MEM"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "43-27",
+        "color": "#0C2340",
+        "streak": "W2",
+        "last5": "WWLWL"
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "record": "34-36",
+        "color": "#E03A3E",
+        "streak": "W2",
+        "last5": "WWLWL"
+      },
+      "prediction": {
+        "home_win_pct": 71.5,
+        "away_win_pct": 28.5,
+        "reason": "Minnesota owns Portland this season 3-0 and even without Anthony Edwards, the Wolves have the clear edge at home. Julius Randle (21.2 PPG) has stepped up as the primary option and Minnesota shoots 49% from the field — 4 full percentage points better than Portland. Deni Avdija (24.2 PPG) has been excellent for the Blazers, who are also missing Damian Lillard and Shaedon Sharpe. Portland comes in with good momentum at 2-game win streak, but this is a tougher matchup than their recent wins. Timberwolves hold serve at the Target Center.",
+        "reason_es": "Minnesota es dueño de Portland esta temporada 3-0 e incluso sin Anthony Edwards, los Wolves tienen la ventaja clara en casa. Julius Randle (21.2 puntos por partido) ha asumido el papel de primera opción y Minnesota anota con el 49% desde el campo — 4 puntos porcentuales mejor que Portland. Deni Avdija (24.2 puntos por partido) ha estado excelente para los Blazers, quienes también llegan sin Damian Lillard ni Shaedon Sharpe. Portland llega con buen momentum con 2 victorias seguidas, pero este es un partido más difícil que sus recientes victorias. Los Timberwolves ganan en casa en el Target Center.",
+        "head_to_head": "POR 0-3 MIN"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "42-28",
+        "color": "#0E2240",
+        "streak": "L1",
+        "last5": "LWLWW"
+      },
+      "away": {
+        "name": "Toronto Raptors",
+        "abbr": "TOR",
+        "record": "39-29",
+        "color": "#CE1141",
+        "streak": "W3",
+        "last5": "WWWLL"
+      },
+      "prediction": {
+        "home_win_pct": 67.7,
+        "away_win_pct": 32.3,
+        "reason": "This is tonight's most competitive game — two evenly matched teams with nearly identical power ratings. The difference-makers are Nikola Jokic (28.2 PPG, 12.6 RPG, 10.5 APG), who is the best player in the world right now and simply impossible to stop, plus Denver's altitude advantage at the Ball Arena which historically hurts visiting teams. Scottie Barnes (18.7 PPG) leads a Toronto team that has won 3 straight, but Jokic on his home floor is a different problem. Denver's shooting edge at 49% vs 47% seals it. Nuggets take this one.",
+        "reason_es": "Este es el partido más competitivo de la noche — dos equipos muy parejos con power ratings casi idénticos. Los factores diferenciadores son Nikola Jokic (28.2 puntos, 12.6 rebotes y 10.5 asistencias por partido), que es el mejor jugador del mundo ahora mismo y simplemente imposible de parar, más la ventaja de altitud de Denver en el Ball Arena que históricamente perjudica a los visitantes. Scottie Barnes (18.7 puntos por partido) lidera a un Toronto que lleva 3 victorias seguidas, pero Jokic en su propia cancha es un problema diferente. La ventaja de tiro de Denver al 49% vs 47% lo cierra. Los Nuggets se llevan este.",
+        "head_to_head": "TOR 0-1 DEN"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
