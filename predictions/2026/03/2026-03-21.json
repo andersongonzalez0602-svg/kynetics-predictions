@@ -1,0 +1,317 @@
+{
+  "game_date": "2026-03-21",
+  "published_at": "2026-03-21T12:26:01.516Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Washington Wizards",
+        "abbr": "WAS",
+        "record": "16-53",
+        "color": "#002B5C",
+        "streak": "L14",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "record": "55-15",
+        "color": "#007AC1",
+        "streak": "W10",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 7.4,
+        "away_win_pct": 92.6,
+        "reason": "This is the most lopsided matchup on today's massive 10-game slate. OKC is on a 10-game win streak and SGA (31.5 PPG) is the frontrunner for the MVP award, while Washington has lost 14 straight and is missing Trae Young and Anthony Davis — their only two legitimate offensive weapons. Alex Sarr (16.5 PPG) has flashed potential but can't carry this team against the #1 seed in the West. Every metric, every model, and Vegas all agree — Thunder win this by 20+ and it's not close.",
+        "reason_es": "Este es el partido más desigual del enorme cartel de 10 partidos de hoy. OKC viene en racha de 10 victorias seguidas y SGA (31.5 puntos por partido) es el favorito al MVP, mientras que Washington lleva 14 derrotas consecutivas y no tiene a Trae Young ni Anthony Davis — sus únicas dos armas ofensivas legítimas. Alex Sarr (16.5 puntos por partido) ha mostrado potencial pero no puede cargar a este equipo contra la primera cabeza de serie del Oeste. Todas las métricas, todos los modelos y Las Vegas coinciden — los Thunder ganan este por 20 o más y no hay discusión.",
+        "head_to_head": "OKC 1-0 WAS"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "5:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Charlotte Hornets",
+        "abbr": "CHA",
+        "record": "36-34",
+        "color": "#1D1160",
+        "streak": "W2",
+        "last5": "WWLWW"
+      },
+      "away": {
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "record": "24-45",
+        "color": "#5D76A9",
+        "streak": "L8",
+        "last5": "WLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "Charlotte has been one of the hottest teams in the East lately — going 6-4 in their last 10 with a +6.1 average margin — and Memphis walks in without Ja Morant, their franchise player. LaMelo Ball (19.5 PPG, 7.1 APG) thrives at home against weaker competition and the Hornets lead the rebounding battle by 2.7 boards per game. Ty Jerome (19.9 PPG) has been solid for Memphis but this roster is too depleted on the road. Charlotte wins this one convincingly at the Spectrum Center.",
+        "reason_es": "Charlotte ha sido uno de los equipos más calientes del Este últimamente — con récord de 6-4 en sus últimos 10 y margen promedio de +6.1 — y Memphis llega sin Ja Morant, su jugador franquicia. LaMelo Ball (19.5 puntos y 7.1 asistencias por partido) brilla en casa contra rivales más débiles y los Hornets ganan el duelo de rebotes por 2.7 por partido. Ty Jerome (19.9 puntos por partido) ha estado sólido para Memphis, pero este plantel está demasiado mermado de visitante. Charlotte gana este con claridad en el Spectrum Center.",
+        "head_to_head": "MEM 0-1 CHA"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "38-31",
+        "color": "#0077C0",
+        "streak": "L3",
+        "last5": "LLLWW"
+      },
+      "away": {
+        "name": "Los Angeles Lakers",
+        "abbr": "LAL",
+        "record": "45-25",
+        "color": "#552583",
+        "streak": "W8",
+        "last5": "WWWWW"
+      },
+      "prediction": {
+        "home_win_pct": 35.2,
+        "away_win_pct": 64.8,
+        "reason": "Luka Doncic (33.4 PPG) is playing at an all-time level and the Lakers are on an 8-game win streak — the hottest team in the Western Conference right now. Orlando is still missing Franz Wagner, Jonathan Isaac, and Anthony Black, leaving Paolo Banchero (22.3 PPG) as the lone real star trying to stop this LA machine. The Lakers shoot 50% from the field — 4 full percentage points better than the Magic — and have a power rating edge of nearly 4 points. LA wins this on the road despite coming in on a back-to-back.",
+        "reason_es": "Luka Doncic (33.4 puntos por partido) está jugando a un nivel histórico y los Lakers vienen en racha de 8 victorias seguidas — el equipo más caliente de la Conferencia Oeste ahora mismo. Orlando sigue sin Franz Wagner, Jonathan Isaac ni Anthony Black, dejando a Paolo Banchero (22.3 puntos por partido) como la única estrella real intentando frenar a esta máquina de LA. Los Lakers anotan con el 50% desde el campo — 4 puntos porcentuales mejor que los Magic — y tienen una ventaja en power rating de casi 4 puntos. Los Angeles gana de visitante a pesar de venir en back-to-back.",
+        "head_to_head": "LAL 0-1 ORL"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "25-46",
+        "color": "#0C2340",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "away": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "43-27",
+        "color": "#860038",
+        "streak": "W2",
+        "last5": "WWLWL"
+      },
+      "prediction": {
+        "home_win_pct": 51.1,
+        "away_win_pct": 48.9,
+        "reason": "This is tonight's most interesting game and a genuine toss-up. Cleveland is the better team on paper with Donovan Mitchell (28.0 PPG) leading the charge, but he's listed as game-time decision and the Cavaliers arrive on a back-to-back. New Orleans has quietly won 3 straight and gone 6-4 in their last 10 with a +4.6 average margin — they're playing their best basketball of the season. Trey Murphy III (22.0 PPG) is on a roll at home. If Mitchell doesn't play, lean Pelicans strongly. This is a skip or small-bet game.",
+        "reason_es": "Este es el partido más interesante de la noche y un genuino partido parejo. Cleveland es el mejor equipo sobre papel con Donovan Mitchell (28.0 puntos por partido) al mando, pero está listado como duda de último momento y los Cavaliers llegan en back-to-back. New Orleans ha ganado 3 seguidos silenciosamente y fue 6-4 en sus últimos 10 con un margen promedio de +4.6 — están jugando su mejor baloncesto de la temporada. Trey Murphy III (22.0 puntos por partido) está en racha en casa. Si Mitchell no juega, inclínate fuertemente por los Pelicans. Este es un partido para pasar o apostar poco.",
+        "head_to_head": "CLE 1-0 NOP"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Atlanta Hawks",
+        "abbr": "ATL",
+        "record": "38-32",
+        "color": "#C1272D",
+        "streak": "L1",
+        "last5": "LWWWW"
+      },
+      "away": {
+        "name": "Golden State Warriors",
+        "abbr": "GSW",
+        "record": "33-37",
+        "color": "#1D428A",
+        "streak": "L3",
+        "last5": "LLLWL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "Atlanta came off their 11-game win streak with a loss last night but bounces back at home today against a Warriors team that is a shell of itself without Stephen Curry. Golden State has dropped 3 straight, is shooting poorly, and Moses Moody and Seth Curry are also out. Jalen Johnson (22.7 PPG, 10.4 RPG, 8.0 APG) is playing at an MVP-candidate level and the Hawks dominate every key statistical category. Kristaps Porzingis leads GSW but simply can't replicate what Curry means to this offense. Atlanta wins at home comfortably.",
+        "reason_es": "Atlanta cortó su racha de 11 victorias con una derrota anoche, pero rebota en casa hoy contra unos Warriors que son una sombra de sí mismos sin Stephen Curry. Golden State lleva 3 derrotas seguidas, está tirando mal y tampoco tiene a Moses Moody ni Seth Curry. Jalen Johnson (22.7 puntos, 10.4 rebotes y 8.0 asistencias por partido) está jugando a nivel candidato al MVP y los Hawks dominan en todas las categorías estadísticas clave. Kristaps Porzingis lidera a los Warriors pero simplemente no puede replicar lo que Curry significa para ese ataque. Atlanta gana en casa con comodidad.",
+        "head_to_head": "GSW 0-1 ATL"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "record": "42-27",
+        "color": "#CE1141",
+        "streak": "W1",
+        "last5": "WLLWL"
+      },
+      "away": {
+        "name": "Miami Heat",
+        "abbr": "MIA",
+        "record": "38-32",
+        "color": "#98002E",
+        "streak": "L3",
+        "last5": "LLLWW"
+      },
+      "prediction": {
+        "home_win_pct": 44.7,
+        "away_win_pct": 55.3,
+        "reason": "Our model leans Miami at 55.3% but this is a game where the situational factors are fascinating. Houston is a -2 home favorite per Vegas, but the Rockets are on a back-to-back and have gone just 2-8 over their last 10 games — a concerning trend. Miami is on a 3-game skid but is the better team by power rating and scores 120.3 points per game, the highest output in this matchup by far. Bam Adebayo (20.2 PPG, 9.7 RPG) is a mismatch nightmare for Houston's frontcourt. Lean Heat as a contrarian play on the road.",
+        "reason_es": "Nuestro modelo se inclina por Miami al 55.3% pero este es un partido donde los factores situacionales son fascinantes. Houston aparece como favorito en casa por -2 según Las Vegas, pero los Rockets juegan en back-to-back y han ido apenas 2-8 en sus últimos 10 partidos — una tendencia preocupante. Miami viene en racha de 3 derrotas pero es el mejor equipo por power rating y anota 120.3 puntos por partido, el mayor output en este duelo por mucho. Bam Adebayo (20.2 puntos y 9.7 rebotes por partido) es una pesadilla para el frontcourt de Houston. Nos inclinamos por el Heat como pick contrarian de visitante.",
+        "head_to_head": "MIA 1-0 HOU"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "San Antonio Spurs",
+        "abbr": "SAS",
+        "record": "52-18",
+        "color": "#C4CED4",
+        "streak": "W4",
+        "last5": "WWWWL"
+      },
+      "away": {
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "record": "15-55",
+        "color": "#002D62",
+        "streak": "L15",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "Victor Wembanyama (24.3 PPG, 11.1 RPG) against a team on a 15-game losing streak that is 5-30 on the road — this game writes itself. San Antonio has the second-best record in the NBA at 52-18, a 27-7 home record, and a power rating advantage of nearly 20 points over Indiana. The Pacers have zero answers for Wemby's combination of size, skill, and athleticism. Aaron Nesmith (13.6 PPG) leads Indiana's attack which tells you everything you need to know. Spurs win this in dominant fashion.",
+        "reason_es": "Victor Wembanyama (24.3 puntos y 11.1 rebotes por partido) contra un equipo en racha de 15 derrotas seguidas que es 5-30 de visitante — este partido se escribe solo. San Antonio tiene el segundo mejor récord de la NBA con 52-18, un récord de local de 27-7, y una ventaja en power rating de casi 20 puntos sobre Indiana. Los Pacers no tienen ninguna respuesta para la combinación de tamaño, habilidad y atletismo de Wemby. Aaron Nesmith (13.6 puntos por partido) lidera el ataque de Indiana, lo cual te dice todo lo que necesitas saber. Los Spurs ganan este de forma dominante.",
+        "head_to_head": "IND 0-1 SAS"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "record": "23-47",
+        "color": "#00538C",
+        "streak": "L2",
+        "last5": "LLWWL"
+      },
+      "away": {
+        "name": "LA Clippers",
+        "abbr": "LAC",
+        "record": "34-36",
+        "color": "#C8102E",
+        "streak": "L4",
+        "last5": "LLLLW"
+      },
+      "prediction": {
+        "home_win_pct": 23.8,
+        "away_win_pct": 76.2,
+        "reason": "Both teams are struggling but the gap is clear — Dallas is missing Kyrie Irving and Dereck Lively II, their two most impactful players, while Kawhi Leonard (28.2 PPG) is back and expected to play for the Clippers. With Kawhi healthy, LA is a completely different team and the talent gap against this injury-depleted Mavericks squad is significant. Cooper Flagg (20.1 PPG) continues to develop as Dallas' future, but this isn't his moment to carry a win against a Kawhi-led team. Clippers win on the road in Dallas.",
+        "reason_es": "Ambos equipos están en dificultades pero la diferencia es clara — Dallas llega sin Kyrie Irving ni Dereck Lively II, sus dos jugadores de mayor impacto, mientras que Kawhi Leonard (28.2 puntos por partido) está de regreso y se espera que juegue para los Clippers. Con Kawhi sano, LA es un equipo completamente diferente y la diferencia de talento contra estos Mavericks mermados por lesiones es significativa. Cooper Flagg (20.1 puntos por partido) sigue desarrollándose como el futuro de Dallas, pero este no es su momento para cargar una victoria contra un equipo liderado por Kawhi. Los Clippers ganan de visitante en Dallas.",
+        "head_to_head": "LAC 1-1 DAL"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Utah Jazz",
+        "abbr": "UTA",
+        "record": "21-49",
+        "color": "#002B5C",
+        "streak": "W1",
+        "last5": "WLLLL"
+      },
+      "away": {
+        "name": "Philadelphia 76ers",
+        "abbr": "PHI",
+        "record": "38-32",
+        "color": "#006BB6",
+        "streak": "W1",
+        "last5": "WLWWL"
+      },
+      "prediction": {
+        "home_win_pct": 63.5,
+        "away_win_pct": 36.5,
+        "reason": "Philadelphia is still missing Joel Embiid, Tyrese Maxey, Kelly Oubre Jr., and Johni Broome — roughly 9.4 points of combined impact per game gone from their lineup. That's a crippling amount of production to replace, and Vasilije Edgecombe (15.6 PPG) can't fill that void. Utah gets the altitude advantage at the Delta Center, leads the rebounding battle, and has Lauri Markkanen's absence offset by Philly's deeper injury list. The market has this as +6 for Utah but our model agrees — Jazz win at home tonight as a solid value pick.",
+        "reason_es": "Filadelfia sigue sin Joel Embiid, Tyrese Maxey, Kelly Oubre Jr. ni Johni Broome — aproximadamente 9.4 puntos de impacto combinado por partido fuera de su alineación. Es una cantidad paralizante de producción a reemplazar, y Vasilije Edgecombe (15.6 puntos por partido) no puede llenar ese vacío. Utah tiene la ventaja de altitud en el Delta Center, gana el duelo de rebotes, y la ausencia de Lauri Markkanen queda compensada por la lista de lesiones más larga de Philly. El mercado lo tiene como +6 para Utah y nuestro modelo coincide — los Jazz ganan en casa esta noche como un pick de valor sólido.",
+        "head_to_head": "PHI 1-0 UTA"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    },
+    {
+      "home": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "39-31",
+        "color": "#1D1160",
+        "streak": "L4",
+        "last5": "LLLLW"
+      },
+      "away": {
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "record": "28-41",
+        "color": "#00471B",
+        "streak": "L2",
+        "last5": "LLWLL"
+      },
+      "prediction": {
+        "home_win_pct": 86.4,
+        "away_win_pct": 13.6,
+        "reason": "Giannis Antetokounmpo is OUT for Milwaukee — without the Greek Freak, the Bucks simply don't have the firepower to compete with anyone. Phoenix is at home with a 22-13 home record and Devin Booker (25.8 PPG) leading the charge. Milwaukee has gone 2-8 in their last 10 and lost 2 straight, while Phoenix wins this matchup by nearly 14 points on average according to our model. Kevin Porter Jr. (17.4 PPG) will try to keep it close but the talent gap without Giannis is massive. Suns win this comfortably to close out Saturday night.",
+        "reason_es": "Giannis Antetokounmpo está FUERA para Milwaukee — sin el Griego Monstruo, los Bucks simplemente no tienen el arsenal para competir con nadie. Phoenix juega en casa con récord de 22-13 como local y Devin Booker (25.8 puntos por partido) al frente. Milwaukee fue 2-8 en sus últimos 10 y lleva 2 derrotas seguidas, mientras que Phoenix gana este enfrentamiento por casi 14 puntos en promedio según nuestro modelo. Kevin Porter Jr. (17.4 puntos por partido) intentará mantenerlo cerca, pero la diferencia de talento sin Giannis es enorme. Los Suns ganan este con comodidad para cerrar la noche del sábado.",
+        "head_to_head": "MIL 0-1 PHX"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "10:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    }
+  ]
+}
