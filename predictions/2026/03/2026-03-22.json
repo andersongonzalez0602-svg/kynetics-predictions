@@ -1,0 +1,162 @@
+{
+  "game_date": "2026-03-22",
+  "published_at": "2026-03-22T21:37:41.595Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "43-28",
+        "color": "#0E2240",
+        "streak": "W1",
+        "last5": "WLWLW"
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "record": "35-36",
+        "color": "#E03A3E",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "prediction": {
+        "home_win_pct": 85.7,
+        "away_win_pct": 14.3,
+        "reason": "Nikola Jokic (28.2 PPG, 12.6 RPG, 10.5 APG) is putting up one of the greatest individual seasons in NBA history and Portland walks into the Ball Arena without Damian Lillard, Shaedon Sharpe, and Jerami Grant. Denver has a healthy roster, home court, and the altitude advantage — three factors that make this one of the safest bets on today's board. Deni Avdija (24.2 PPG) has been brilliant for Portland this season but even he can't solve the Jokic problem. Nuggets win this one comfortably at home.",
+        "reason_es": "Nikola Jokic (28.2 puntos, 12.6 rebotes y 10.5 asistencias por partido) está teniendo una de las mejores temporadas individuales en la historia de la NBA y Portland llega al Ball Arena sin Damian Lillard, Shaedon Sharpe ni Jerami Grant. Denver tiene el plantel sano, ventaja de cancha y ventaja de altitud — tres factores que hacen de este uno de los picks más seguros de la jornada. Deni Avdija (24.2 puntos por partido) ha sido brillante para Portland esta temporada, pero ni él puede resolver el problema Jokic. Los Nuggets ganan este cómodamente en casa.",
+        "head_to_head": "POR 1-1 DEN"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "3:30 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "18-53",
+        "color": "#5A2D81",
+        "streak": "L2",
+        "last5": "LLWWL"
+      },
+      "away": {
+        "name": "Brooklyn Nets",
+        "abbr": "BKN",
+        "record": "17-53",
+        "color": "#000000",
+        "streak": "L6",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 74.4,
+        "away_win_pct": 25.6,
+        "reason": "Two of the worst teams in the league meet in Sacramento, but the Kings have a clear edge here. Brooklyn has lost 6 straight, traveled over 2,500 miles cross-country, and is missing Michael Porter Jr., Nic Claxton, and Egor Demin. DeMar DeRozan (18.5 PPG) leads Sacramento's offense at home and the Kings shoot 47% from the field — three full percentage points better than the Nets. This is as close to a sure thing as you get in a tank battle — Sacramento wins at the Golden 1 Center.",
+        "reason_es": "Dos de los peores equipos de la liga se encuentran en Sacramento, pero los Kings tienen la ventaja clara aquí. Brooklyn lleva 6 derrotas seguidas, viajó más de 4,000 km de costa a costa, y no tiene a Michael Porter Jr., Nic Claxton ni Egor Demin. DeMar DeRozan (18.5 puntos por partido) lidera el ataque de Sacramento en casa y los Kings anotan con el 47% desde el campo — tres puntos porcentuales mejor que los Nets. Esto es lo más cercano a un resultado seguro que hay en una batalla de tanking — Sacramento gana en el Golden 1 Center.",
+        "head_to_head": "No H2H data"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "6:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "46-25",
+        "color": "#006BB6",
+        "streak": "W5",
+        "last5": "WWWWW"
+      },
+      "away": {
+        "name": "Washington Wizards",
+        "abbr": "WAS",
+        "record": "16-54",
+        "color": "#002B5C",
+        "streak": "L15",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 88,
+        "away_win_pct": 12,
+        "reason": "New York has won 5 straight and is at home with a 26-9 record at Madison Square Garden — one of the most intimidating venues in basketball. Washington arrives on a back-to-back, on a 15-game losing streak, and without Trae Young and Alex Sarr — their two best players. Jalen Brunson (26.2 PPG) is the best player on the floor by a wide margin and the Knicks have dominated this series 2-0 this season by double digits each time. This is the safest pick of the day. New York wins big.",
+        "reason_es": "Nueva York lleva 5 victorias seguidas y juega en casa con récord de 26-9 en el Madison Square Garden — uno de los escenarios más intimidantes del baloncesto. Washington llega en back-to-back, en racha de 15 derrotas seguidas, y sin Trae Young ni Alex Sarr — sus dos mejores jugadores. Jalen Brunson (26.2 puntos por partido) es el mejor jugador en la cancha por mucho y los Knicks han dominado esta serie 2-0 esta temporada ganando por dos dígitos en ambas ocasiones. Este es el pick más seguro de la jornada. Nueva York gana por mucho.",
+        "head_to_head": "WAS 0-2 NYK"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Boston Celtics",
+        "abbr": "BOS",
+        "record": "47-23",
+        "color": "#007A33",
+        "streak": "W4",
+        "last5": "WWWWL"
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "record": "43-28",
+        "color": "#0C2340",
+        "streak": "L1",
+        "last5": "LWWLW"
+      },
+      "prediction": {
+        "home_win_pct": 77.6,
+        "away_win_pct": 22.4,
+        "reason": "This is the game of the day — a legitimate playoff preview at TD Garden. Boston is on a 4-game win streak with a 24-10 home record and Jaylen Brown (28.5 PPG) playing at an All-Star level. The key storyline is Anthony Edwards being OUT for Minnesota, which removes their best offensive weapon and roughly 4.3 points of impact from their lineup. Julius Randle (21.2 PPG) steps up but without Ant, the Wolves simply don't have the firepower to beat Boston at home. Celtics win in a competitive game that gets decided in the fourth.",
+        "reason_es": "Este es el partido de la jornada — una auténtica prueba de playoffs en el TD Garden. Boston viene en racha de 4 victorias con récord de 24-10 en casa y Jaylen Brown (28.5 puntos por partido) jugando a nivel All-Star. La clave es que Anthony Edwards está FUERA para Minnesota, quitándoles su mejor arma ofensiva y aproximadamente 4.3 puntos de impacto. Julius Randle (21.2 puntos por partido) asume el protagonismo, pero sin Ant, los Wolves simplemente no tienen el arsenal para vencer a Boston en casa. Los Celtics ganan en un partido competitivo que se decide en el cuarto período.",
+        "head_to_head": "MIN 1-0 BOS"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "39-32",
+        "color": "#1D1160",
+        "streak": "L5",
+        "last5": "LLLLL"
+      },
+      "away": {
+        "name": "Toronto Raptors",
+        "abbr": "TOR",
+        "record": "39-30",
+        "color": "#CE1141",
+        "streak": "L1",
+        "last5": "LWWWL"
+      },
+      "prediction": {
+        "home_win_pct": 39.7,
+        "away_win_pct": 60.3,
+        "reason": "This is tonight's sneakiest pick and our best value play. Phoenix is on a 5-game losing streak, playing on a back-to-back, and missing Dillon Brooks and Grayson Allen — key defensive pieces. Toronto already beat Phoenix earlier this season, shoots 48% from the field (3% better than the Suns), and comes in with one day of rest. Scottie Barnes (18.6 PPG) is a versatile nightmare for Phoenix's defense. The market actually agrees with us here — Raptors are slight road favorites. Toronto wins the final game of Sunday night.",
+        "reason_es": "Este es el pick más sorpresivo de la noche y nuestra mejor jugada de valor. Phoenix lleva una racha de 5 derrotas, juega en back-to-back, y no tiene a Dillon Brooks ni Grayson Allen — piezas clave en defensa. Toronto ya venció a Phoenix anteriormente esta temporada, anota con el 48% desde el campo (3% mejor que los Suns) y llega con un día de descanso. Scottie Barnes (18.6 puntos por partido) es una pesadilla versátil para la defensa de Phoenix. El mercado también coincide con nosotros aquí — los Raptors son ligeros favoritos de visitante. Toronto gana el partido final de la noche del domingo.",
+        "head_to_head": "TOR 1-0 PHX"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "9:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": true
+      }
+    }
+  ]
+}
