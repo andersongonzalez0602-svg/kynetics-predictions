@@ -1,0 +1,131 @@
+{
+  "game_date": "2026-03-24",
+  "published_at": "2026-03-24T22:31:25.242Z",
+  "type": "predictions",
+  "games": [
+    {
+      "home": {
+        "name": "Charlotte Hornets",
+        "abbr": "CHA",
+        "record": "37-34",
+        "color": "#1D1160",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "away": {
+        "name": "Sacramento Kings",
+        "abbr": "SAC",
+        "record": "19-53",
+        "color": "#5A2D81",
+        "streak": "W1",
+        "last5": "WLLWW"
+      },
+      "prediction": {
+        "home_win_pct": 86.7,
+        "away_win_pct": 13.3,
+        "reason": "Charlotte has been one of the hottest teams in the league lately — winning 3 straight and going 7-3 in their last 10 with a +6.2 average margin. Sacramento makes this trip on a 6-28 road record, traveled over 2,200 miles cross-country, and arrives without Russell Westbrook and several other key rotation pieces. LaMelo Ball (19.7 PPG, 7.1 APG) is the best player on the floor by a significant margin and DeMar DeRozan (18.4 PPG) can't overcome this level of disadvantage on the road. Every model agrees — Charlotte wins this by double digits.",
+        "reason_es": "Charlotte ha sido uno de los equipos más calientes de la liga últimamente — ganando 3 seguidos y con récord de 7-3 en sus últimos 10 partidos y un margen promedio de +6.2. Sacramento hace este viaje con récord de 6-28 de visitante, viajó más de 3,500 km de costa a costa, y llega sin Russell Westbrook y otras piezas clave de rotación. LaMelo Ball (19.7 puntos y 7.1 asistencias por partido) es el mejor jugador en la cancha por mucho y DeMar DeRozan (18.4 puntos por partido) no puede superar esta desventaja de visitante. Todos los modelos coinciden — Charlotte gana esto por dos dígitos.",
+        "head_to_head": "SAC 0-1 CHA"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:00 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "New York Knicks",
+        "abbr": "NYK",
+        "record": "47-25",
+        "color": "#006BB6",
+        "streak": "W6",
+        "last5": "WWWWWW"
+      },
+      "away": {
+        "name": "New Orleans Pelicans",
+        "abbr": "NOP",
+        "record": "25-47",
+        "color": "#0C2340",
+        "streak": "L1",
+        "last5": "LWWWL"
+      },
+      "prediction": {
+        "home_win_pct": 74.6,
+        "away_win_pct": 25.4,
+        "reason": "New York is on a 6-game win streak and playing the best basketball in the Eastern Conference right now — with a 27-9 home record at Madison Square Garden, one of the most electric atmospheres in sports. Jalen Brunson (26.1 PPG) has been masterful and the Knicks have won by an average of 15+ points in their last four home games. New Orleans has been playing better lately with Trey Murphy III (21.8 PPG) leading the charge, but their 9-25 road record tells the real story. Knicks extend the streak at MSG tonight.",
+        "reason_es": "Nueva York viene en racha de 6 victorias seguidas y juega el mejor baloncesto de la Conferencia Este ahora mismo — con récord de 27-9 en casa en el Madison Square Garden, uno de los ambientes más eléctricos del deporte. Jalen Brunson (26.1 puntos por partido) ha estado magistral y los Knicks han ganado por un promedio de 15+ puntos en sus últimos cuatro partidos en casa. New Orleans ha jugado mejor últimamente con Trey Murphy III (21.8 puntos por partido) al frente, pero su récord de 9-25 de visitante dice la verdad real. Los Knicks extienden la racha en el MSG esta noche.",
+        "head_to_head": "NOP 0-1 NYK"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "7:30 PM EST",
+        "is_featured": false,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Cleveland Cavaliers",
+        "abbr": "CLE",
+        "record": "44-27",
+        "color": "#860038",
+        "streak": "W3",
+        "last5": "WWWLW"
+      },
+      "away": {
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "record": "38-33",
+        "color": "#0077C0",
+        "streak": "L5",
+        "last5": "LLLLL"
+      },
+      "prediction": {
+        "home_win_pct": 79,
+        "away_win_pct": 21,
+        "reason": "Cleveland is the better team with 3 days of rest and Donovan Mitchell (28.0 PPG) locked in as one of the East's top scorers. Orlando has dropped 5 straight and is still without Franz Wagner, Jonathan Isaac, Anthony Black, and Jalen Suggs — four key rotation players gone from the lineup. Paolo Banchero (22.5 PPG) is fighting hard but he simply can't carry this team right now. The Cavaliers lead every major category from shooting to rebounding to defensive activity. Cleveland wins this one comfortably at Rocket Arena.",
+        "reason_es": "Cleveland es el mejor equipo con 3 días de descanso y Donovan Mitchell (28.0 puntos por partido) como uno de los mejores anotadores del Este. Orlando lleva 5 derrotas seguidas y sigue sin Franz Wagner, Jonathan Isaac, Anthony Black y Jalen Suggs — cuatro jugadores clave de rotación fuera del alineado. Paolo Banchero (22.5 puntos por partido) lucha con todo, pero simplemente no puede cargar a este equipo ahora mismo. Los Cavaliers lideran en todas las categorías principales desde tiro hasta rebotes y actividad defensiva. Cleveland gana este con comodidad en el Rocket Arena.",
+        "head_to_head": "ORL 1-2 CLE"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "8:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": false
+      }
+    },
+    {
+      "home": {
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "record": "40-32",
+        "color": "#1D1160",
+        "streak": "W1",
+        "last5": "WLLLL"
+      },
+      "away": {
+        "name": "Denver Nuggets",
+        "abbr": "DEN",
+        "record": "44-28",
+        "color": "#0E2240",
+        "streak": "W2",
+        "last5": "WWLWL"
+      },
+      "prediction": {
+        "home_win_pct": 38.8,
+        "away_win_pct": 61.2,
+        "reason": "This is tonight's best game and our top value play. Vegas has Phoenix as a +6 home underdog which feels about right — Nikola Jokic (28.0 PPG, 12.6 RPG, 10.6 APG) is having a transcendent season and Denver has dominated this series 2-0. Phoenix is missing Dillon Brooks, Grayson Allen, and multiple rotation pieces, which weakens their perimeter defense significantly against Jokic's playmaking. Denver shoots 49% from the field — 4 full percentage points better than Phoenix — and Devin Booker (25.5 PPG) can't do it alone. Nuggets close out Tuesday night.",
+        "reason_es": "Este es el mejor partido de la noche y nuestro pick de mayor valor. Las Vegas tiene a Phoenix como +6 favorito en casa, lo cual parece correcto — Nikola Jokic (28.0 puntos, 12.6 rebotes y 10.6 asistencias por partido) está teniendo una temporada trascendente y Denver ha dominado esta serie 2-0. Phoenix llega sin Dillon Brooks, Grayson Allen y varias piezas de rotación, lo que debilita significativamente su defensa perimetral ante el juego de creación de Jokic. Denver anota con el 49% desde el campo — 4 puntos porcentuales mejor que Phoenix — y Devin Booker (25.5 puntos por partido) no puede hacerlo solo. Los Nuggets cierran la noche del martes.",
+        "head_to_head": "DEN 2-0 PHX"
+      },
+      "result": null,
+      "meta": {
+        "game_time": "11:00 PM EST",
+        "is_featured": true,
+        "is_value_pick": true
+      }
+    }
+  ]
+}
